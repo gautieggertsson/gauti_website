@@ -10,21 +10,27 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
+        - name: Home
+          url: /
+          weight: 1
         - name: Research
-          url: papers/
+          url: research/
           weight: 2
-        - name: Courses
+        - name: Replication Files
           url: courses/
           weight: 3
-        - name: Data
+        - name: Teaching Materials
           url: data/
           weight: 4 
+        - name: Repec
+          url: books/
+          weight: 5 
+        - name: Iceland
+          url: books/
+          weight: 6        
         - name: Blog
           url: https://gautieggertsson.blogspot.com/
-          weight: 6
+          weight: 7
 
 params:
     description: "Gauti B. Eggertsson is a macroeconomist and a Professor of Economics at Brown University Economics Department.
@@ -61,28 +67,21 @@ params:
     profileMode:
           enabled: true
           title: Gauti Bergþóruson Eggertsson, Professor of Economics
-          subtitle: "Gauti B. Eggertsson is a macroeconomist and a Professor of Economics at Brown University Economics Department.
-     He received his Ph.D. in Economics from Princeton University in 2004, after having completed his B.S. in economics from the University of Iceland.
-      He has worked at Research Departments of the International Monetary Fund and the Federal Reserve Bank of New York.
-       Since graduation he has also been visiting faculty at Princeton, Yale,
-        and Columbia where he taught international finance and macroeconomics at both graduate and undergraduate level.
-         Eggertsson has published in a variety of professional journals such as the American Economic Review, American Economic Journal:
-          Macroeconomics, American Economic Review: Insights, Brookings Papers on Economics Activity, Economic Journal, Journal of Monetary Economics,
-           Journal of Money, Credit and Banking, Review of Economic Studies, Review of Economic Dynamics and the Quarterly Journal of Economics.
-            The main focus of his work is the analysis of monetary and fiscal policy over the business cycle, both from a modern and historical perspective."
+          subtitle: >
+           <p style='text-align: justify;'>Gauti B. Eggertsson is a macroeconomist and a Professor of Economics at Brown University Economics Department. He received his Ph.D. in Economics from Princeton University in 2004, after having completed his B.S. in economics from the University of Iceland. He has worked at Research Departments of the International Monetary Fund and the Federal Reserve Bank of New York. Since graduation he has also been visiting faculty at Princeton, Yale, and Columbia where he taught international finance and macroeconomics at both graduate and undergraduate level. Eggertsson has published in a variety of professional journals such as the American Economic Review, American Economic Journal: Macroeconomics, American Economic Review: Insights, Brookings Papers on Economics Activity, Economic Journal, Journal of Monetary Economics, Journal of Money, Credit and Banking, Review of Economic Studies, Review of Economic Dynamics and the Quarterly Journal of Economics. The main focus of his work is the analysis of monetary and fiscal policy over the business cycle, both from a modern and historical perspective.</p>
           imageUrl: "gauti_pic.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
             - name: Research
-              url: papers/
-            - name: Courses
+              url: research/
+            - name: Replication Files
               url: courses/
-            - name: Data
+            - name: Teaching Materials
               url: data/
-            - name: Books
+            - name: Repec
               url: books/
-            - name: Tags
+            - name: Iceland
               url: tags/
             - name: Archive
               url: archive/
