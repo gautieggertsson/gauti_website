@@ -1,18 +1,18 @@
 ---
-title: "The Finer Points of Sausage Dogs" 
-date: 2004-12-28
-lastmod: 2024-07-12
-tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
-author: ["Florianus Prinzel", "Moritz-Maria von Igelfeld"]
-description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
-summary: "This paper studies the pulmonary efficiency of sausage dogs through several experiments." 
+title: "The Inflation Surge of the 2020: The Role of Monetary Policy" 
+date: 2023-06-01
+lastmod:
+tags:
+author: ["Gauti B. Eggertsson", "Don Kohn"]
+description: 
+summary: "Gauti Eggertsson of Brown University and Don Kohn of the Hutchins Center at Brookings (and a former vice chair of the Federal Reserve Board) conclude that the Fed’s substantial revisions to its monetary policy strategy in August 2020 and its forward guidance contributed to the largely unanticipated and most definitely unwelcome surge in inflation during the pandemic."
 cover:
-    image: "paper2.png"
-    alt: "Dimensions of a sausage dog"
+    #image: "paper2.png"
+    alt: "The Inflation Surge of the 2020: The Role of Monetary Policy"
     relative: false
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Canine Science"
+    URL: "https://www.brookings.edu/articles/the-inflation-surge-of-the-2020s-the-role-of-monetary-policy/"
+    Text: "Brookings"
 
 ---
 
@@ -20,43 +20,39 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper2.pdf)
-+ [Online appendix](appendix2.pdf)
-+ [Code and data](https://github.com/pmichaillat/wunk)
++ [Paper](Benigno_Eggertsson_NBER_Update.pdf)
 
 ---
 
 ##### Abstract
 
-This paper studies the pulmonary efficiency of sausage dogs. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur: $\sin(\theta) = x^2 - \exp(1+\chi)$. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor $\zeta$ incididunt ut labore et dolore magna aliqua: $p(x) = \int \cos(\zeta) d\zeta - \theta$. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Gauti Eggertsson of Brown University and Don Kohn of the Hutchins Center at Brookings (and a former vice chair of the Federal Reserve Board) conclude that the Fed’s substantial revisions to its monetary policy strategy in August 2020 and its forward guidance contributed to the largely unanticipated and most definitely unwelcome surge in inflation during the pandemic.
+
+The revised framework elevated the importance of the “maximum employment” half of the Fed’s dual mandate and implied an inflationary bias, a reaction to the persistence of below-target inflation in the first two decades of the 2000s that was ill-suited to the economy of the 2020s, they say. The Fed’s forward guidance amplified the inflationary bias implicit in the framework. By saying it would not raise rates from zero until the maximum employment threshold was met, the Fed essentially put no ceiling on how high inflation would go before it tightened. The pledge to delay any rate increases until the end of asset purchases and to provide substantial advance notice of rate increases added to the inertia.
+
+While a prompter Fed response to building inflationary pressures wouldn’t have prevented the upturn in inflation or its persistence, had the Fed moved sooner, Eggertsson and Kohn argue that inflation likely would not have risen so much and the Fed might have been able to raise interest rates more gradually.
+
+Looking ahead to the Fed’s review of the monetary policy framework promised for 2025, Eggertsson and Kohn offer the following recommendations:
+
+The Fed should test any revisions to the framework against several, and distinctly different, scenarios. Conditions will never conform to those envisioned when the forward guidance is set, and forward guidance needs to have flexibility built in, even at the cost of some effectiveness at pinning rate expectations. The forward guidance issued by the FOMC impinged too far on the “nimbleness” required for good policymaking.
+The Fed should consider whether the hoped-for benefits of moving more aggressively when employment is below the maximum sustainable level than when it may exceed that level outweigh the potential costs (e.g. unwelcome inflation).
+In unusual situations and when economic conditions warrant, the Fed should be prepared to alter its forward guidance and clearly explain why it is doing so.
+The Fed should not always wait to raise rates until it completes asset purchases. Once a taper is announced, economic stimulus from purchases is largely capped; a well-anticipated and gradual taper is mainly to protect market functioning.
+The asymmetry in the framework puts extra pressure on judging maximum employment. A useful addition would be an explicit definition of maximum employment as the highest level of employment consistent over time with stable prices.
+The Fed should construct Forward guidance and the policy it implies should be constructed not only to achieve FOMC’s goals at a point in time, but with an eye to sustaining prices and employment around those goals after they are reached.
+Given the dearth of dissents on the Federal Open Market Committee in 2021 and 2022, the committee should examine whether its consensus-driven decision-making process is allowing sufficient scope for effective challenges to the majority view.
 
 ---
-
-##### Figure 2: Dimensions of a sausage dog
-
-![](paper2.png)
 
 ---
 
 ##### Citation
 
-Prinzel, Florianus, and Moritz-Maria von Igelfeld. 2004. "The Finer Points of Sausage Dogs." *Journal of Canine Science* 43 (2): 89–109. http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs.
 
 ```BibTeX
-@article{PI04,
-author = {Florianus Prinzel and Moritz-Maria von Igelfeld},
-year = {2004},
-title ={The Finer Points of Sausage Dogs},
-journal = {Journal of Canine Science},
-volume = {43},
-number = {2},
-pages = {89--109},
-url = {http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs}}
+
 ```
 
 ---
 
 ##### Related material
-
-+ [Presentation slides](presentation2.pdf)
-+ [Wikipedia entry](https://en.wikipedia.org/wiki/The_Finer_Points_of_Sausage_Dogs)

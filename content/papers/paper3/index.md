@@ -1,18 +1,18 @@
 ---
-title: "Your Inner Hedgehog" 
-date: 2021-04-06
-lastmod: 2024-10-18
-tags: ["social psychology","inner hedgehog","academia","experimental psychology","invasive thoughts"]
-author: ["Hilda Schreiber-Ziegler", "Moritz-Maria von Igelfeld"]
-description: "This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021." 
-summary: "Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure." 
+title: "The Slanted-L Phillips Curve" 
+date: 2024-02-01
+lastmod: 2024-11-04
+tags: ["Macroeconomics","Macroeconomic Models","Business Cycles","Money and Interest Rates"]
+author: ["Pierpaolo Benigno", "Gauti B. Eggertsson"]
+description: 
+summary: A slanted-L curve is well-suited to represent the non-linearity of the celebrated Phillips curve. We show this using cross-country data of major industrialized economies since 2009, including the inflationary surge of the 2020s. At high unemployment rates, an increase in demand reduces unemployment without creating strong inflationary pressures. Meanwhile, supply shocks have a muted effect. At sufficiently low unemployment, there is a labor shortage, so that the economy is at full capacity. Then, higher demand is inflationary, and supply shocks are amplified. We derive a model of a slanted-L curve.
 cover:
-    image: "paper3.png"
-    alt: "Vizualisation of an inner hedgehog"
+    image:
+    alt: "The Slanted-L Phillips Curve"
     relative: false
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Socio-Experimental Psychology"
+    URL: "https://www.aeaweb.org/articles?id=10.1257/pandp.20241051"
+    Text: "American Economic Association"
 
 ---
 
@@ -20,34 +20,39 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper3.pdf)
-+ [Raw data](https://github.com/pmichaillat/recession-indicator)
++ [Paper](Benignio_Eggertsson_AEA_P&P.pdf)
++ [NBER](https://www.nber.org/papers/w32172)
 
 ---
 
 ##### Abstract
 
-Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure. Mauris tincidunt quam a libero consequat, nec pharetra nunc tristique. Pellentesque eget ipsum ut dui laoreet congue ut nec nulla. Nulla facilisi. Sed consequat, odio ac aliquet tempor, turpis augue auctor mauris, at malesuada sem dolor eget libero. Nullam iaculis malesuada risus, id fringilla quam sagittis ac. Fusce congue vel ex et facilisis. Integer volutpat eros ut urna efficitur, id efficitur sapien pharetra.
+A slanted-L curve is well-suited to represent the non-linearity of the celebrated Phillips curve. We show this using cross-country data of major industrialized economies since 2009, including the inflationary surge of the 2020s. At high unemployment rates, an increase in demand reduces unemployment without creating strong inflationary pressures. Meanwhile, supply shocks have a muted effect. At sufficiently low unemployment, there is a labor shortage, so that the economy is at full capacity. Then, higher demand is inflationary, and supply shocks are amplified. We derive a model of a slanted-L curve.
 
 ---
 
 ##### Citation
 
-Schreiber-Ziegler, Hilda, and Moritz-Maria von Igelfeld. 2021. "Your Inner Hedgehog." *Journal of Socio-Experimental Psychology* 131 (2): 1299–1302.
+Pierpaolo Benigno & Gauti B. Eggertsson, 2024. "Slanted-L Phillips Curve," AEA Papers and Proceedings, vol 114, pages 84-89.
 
 ```BibTeX
-@article{SZI21,
-author = {Hilda Schreiber-Ziegler and Moritz-Maria von Igelfeld},
-year = {2021},
-title ={Your Inner Hedgehog},
-journal = {Journal of Socio-Experimental Psychology},
-volume = {131},
-number = {2},
-pages = {1299--1302}}
+@techreport{NBERw32172,
+ title = "The Slanted-L Phillips Curve",
+ author = "Benigno, Pierpaolo and Eggertsson, Gauti B",
+ institution = "National Bureau of Economic Research",
+ type = "Working Paper",
+ series = "Working Paper Series",
+ number = "32172",
+ year = "2024",
+ month = "February",
+ doi = {10.3386/w32172},
+ URL = "http://www.nber.org/papers/w32172",
+ abstract = {A slanted-L curve is well-suited to represent the non-linearity of the celebrated Phillips curve. We show this using cross-country data of major industrialized economies since 2009, including the inflationary surge of the 2020s. At high unemployment rates, an increase in demand reduces unemployment without creating strong inflationary pressures. Meanwhile, supply shocks have a muted effect. At sufficiently low unemployment, there is a labor shortage, so that the economy is at full capacity. Then, higher demand is inflationary, and supply shocks are amplified. We derive a model of a slanted-L curve.},
+}
 ```
 
 ---
 
 ##### Related material
 
-+ [Nontechnical summary](https://www.alexandermccallsmith.com/book/your-inner-hedgehog)
++ [Data Appendix](https://data.nber.org/data-appendix/w32172/)

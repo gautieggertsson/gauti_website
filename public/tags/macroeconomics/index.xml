@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Macroeconomics on Gauti B. Eggertsson</title>
+    <link>http://localhost:1313/hugo-website/tags/macroeconomics/</link>
+    <description>Recent content in Macroeconomics on Gauti B. Eggertsson</description>
+    <generator>Hugo -- 0.136.5</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo-website/tags/macroeconomics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Slanted-L Phillips Curve</title>
+      <link>http://localhost:1313/hugo-website/papers/paper3/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/papers/paper3/</guid>
+      <description>&lt;hr&gt;
+&lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;paper3.pdf&#34;&gt;Paper&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pmichaillat/recession-indicator&#34; target=&#34;_blank&#34;&gt;Raw data&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h5 id=&#34;abstract&#34;&gt;Abstract&lt;/h5&gt;
+&lt;p&gt;Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure. Mauris tincidunt quam a libero consequat, nec pharetra nunc tristique. Pellentesque eget ipsum ut dui laoreet congue ut nec nulla. Nulla facilisi. Sed consequat, odio ac aliquet tempor, turpis augue auctor mauris, at malesuada sem dolor eget libero. Nullam iaculis malesuada risus, id fringilla quam sagittis ac. Fusce congue vel ex et facilisis. Integer volutpat eros ut urna efficitur, id efficitur sapien pharetra.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
