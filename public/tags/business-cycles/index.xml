@@ -2,28 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Business Cycles on Gauti B. Eggertsson</title>
-    <link>http://localhost:1313/hugo-website/tags/business-cycles/</link>
+    <link>https://emildags.github.io/gauti_website/tags/business-cycles/</link>
     <description>Recent content in Business Cycles on Gauti B. Eggertsson</description>
     <generator>Hugo -- 0.136.5</generator>
     <language>en</language>
     <lastBuildDate>Mon, 04 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-website/tags/business-cycles/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://emildags.github.io/gauti_website/tags/business-cycles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Slanted-L Phillips Curve</title>
-      <link>http://localhost:1313/hugo-website/papers/paper3/</link>
+      <link>https://emildags.github.io/gauti_website/papers/paper3/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/papers/paper3/</guid>
-      <description>&lt;hr&gt;
-&lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;paper3.pdf&#34;&gt;Paper&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/pmichaillat/recession-indicator&#34; target=&#34;_blank&#34;&gt;Raw data&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h5 id=&#34;abstract&#34;&gt;Abstract&lt;/h5&gt;
-&lt;p&gt;Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure. Mauris tincidunt quam a libero consequat, nec pharetra nunc tristique. Pellentesque eget ipsum ut dui laoreet congue ut nec nulla. Nulla facilisi. Sed consequat, odio ac aliquet tempor, turpis augue auctor mauris, at malesuada sem dolor eget libero. Nullam iaculis malesuada risus, id fringilla quam sagittis ac. Fusce congue vel ex et facilisis. Integer volutpat eros ut urna efficitur, id efficitur sapien pharetra.&lt;/p&gt;</description>
+      <guid>https://emildags.github.io/gauti_website/papers/paper3/</guid>
+      <description>A slanted-L curve is well-suited to represent the non-linearity of the celebrated Phillips curve. We show this using cross-country data of major industrialized economies since 2009, including the inflationary surge of the 2020s. At high unemployment rates, an increase in demand reduces unemployment without creating strong inflationary pressures. Meanwhile, supply shocks have a muted effect. At sufficiently low unemployment, there is a labor shortage, so that the economy is at full capacity. Then, higher demand is inflationary, and supply shocks are amplified. We derive a model of a slanted-L curve.</description>
     </item>
   </channel>
 </rss>
