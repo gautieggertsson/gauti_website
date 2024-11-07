@@ -17,16 +17,16 @@ menu:
           url: research/
           weight: 2
         - name: Replication Files
-          url: courses/
+          url: data/
           weight: 3
         - name: Teaching Materials
-          url: data/
+          url: courses/
           weight: 4 
-        - name: Repec
-          url: books/
+        - name: REPEC
+          url: https://ideas.repec.org/e/peg7.html
           weight: 5 
         - name: Iceland
-          url: books/
+          url: iceland/
           weight: 6        
         - name: Blog
           url: https://gautieggertsson.blogspot.com/
@@ -76,15 +76,13 @@ params:
             - name: Research
               url: research/
             - name: Replication Files
-              url: courses/
-            - name: Teaching Materials
               url: data/
-            - name: Repec
-              url: books/
+            - name: Teaching Materials
+              url: courses/
+            - name: REPEC
+              url: https://ideas.repec.org/e/peg7.html 
             - name: Iceland
-              url: tags/
-            - name: Archive
-              url: archive/
+              url: iceland/
             - name: Blog
               url: https://gautieggertsson.blogspot.com/
 
