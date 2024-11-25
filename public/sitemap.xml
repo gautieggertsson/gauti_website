@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/gauti_website/</loc>
-    <lastmod>2024-10-30T17:39:52-04:00</lastmod>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/gauti_website/posts/</loc>
     <lastmod>2024-10-30T17:39:52-04:00</lastmod>
@@ -14,8 +14,29 @@
     <loc>http://localhost:1313/gauti_website/officehours/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/gauti_website/tags/business-cycles/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/tags/macroeconomic-models/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/tags/macroeconomics/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/tags/money-and-interest-rates/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/gauti_website/research/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/tags/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/the-slanted-l-phillips-curve/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/its-baaack_the-inflation-surge-of-2020s-and-the-return-of-the-non-linear-phillips-curve/</loc>
+    <lastmod>2023-12-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/gauti_website/research/the-inflation-surge-of-the-2020_the-role-of-monetary-policy/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
@@ -33,9 +54,6 @@
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/gauti_website/books/book1/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/gauti_website/tags/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/gauti_website/iceland/</loc>

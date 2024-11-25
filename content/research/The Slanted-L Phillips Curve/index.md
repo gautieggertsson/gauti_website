@@ -1,5 +1,6 @@
 ---
 title: "The Slanted-L Phillips Curve" 
+category: "Recent"
 date: 2024-02-01
 lastmod: 2024-11-04
 tags: ["Macroeconomics","Macroeconomic Models","Business Cycles","Money and Interest Rates"]
