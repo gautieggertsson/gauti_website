@@ -1,4 +1,6 @@
 ---
 title: "Courses"
-description: "Courses on philology by Professor Dr von Igelfeld and esteemed colleagues. For undergraduate and graduate students."
+description:
 ---
+
+<h2 style="text-align: center; color: red;">This website is currently under construction. Check back soon!</h2>
