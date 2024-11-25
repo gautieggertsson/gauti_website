@@ -5,7 +5,7 @@ lastmod:
 tags:
 author: ["Gauti B. Eggertsson", "Don Kohn"]
 description: 
-summary: "Gauti Eggertsson of Brown University and Don Kohn of the Hutchins Center at Brookings (and a former vice chair of the Federal Reserve Board) conclude that the Fed’s substantial revisions to its monetary policy strategy in August 2020 and its forward guidance contributed to the largely unanticipated and most definitely unwelcome surge in inflation during the pandemic."
+summary: "The Fed’s substantial revisions to its monetary policy strategy in August 2020 and its forward guidance contributed to the largely unanticipated and most definitely unwelcome surge in inflation during the pandemic."
 editPost:
     URL: "https://www.brookings.edu/articles/the-inflation-surge-of-the-2020s-the-role-of-monetary-policy/"
     Text: "Brookings"

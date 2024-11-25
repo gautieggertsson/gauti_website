@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/gauti_website/tags/money-and-interest-rates/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Slanted-L Phillips Curve</title>
-      <link>http://localhost:1313/gauti_website/papers/paper3/</link>
+      <link>http://localhost:1313/gauti_website/research/the-slanted-l-phillips-curve/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/gauti_website/papers/paper3/</guid>
+      <guid>http://localhost:1313/gauti_website/research/the-slanted-l-phillips-curve/</guid>
       <description>A slanted-L curve is well-suited to represent the non-linearity of the celebrated Phillips curve. We show this using cross-country data of major industrialized economies since 2009, including the inflationary surge of the 2020s. At high unemployment rates, an increase in demand reduces unemployment without creating strong inflationary pressures. Meanwhile, supply shocks have a muted effect. At sufficiently low unemployment, there is a labor shortage, so that the economy is at full capacity. Then, higher demand is inflationary, and supply shocks are amplified. We derive a model of a slanted-L curve.</description>
     </item>
   </channel>
