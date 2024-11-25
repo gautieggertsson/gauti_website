@@ -2,7 +2,7 @@
 
 {{- if (and site.Params.profileMode.enabled .IsHome) }}
 {{- partial "index_profile.html" . }}
-{{- else }}
+{{- else }} {{/* if not profileMode */}}
 
 {{- if not .IsHome | and .Title }}
 <header class="page-header">
@@ -42,24 +42,33 @@
 
 {{- if .IsHome }}
 {{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
-{{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true" }}
+{{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true"  }}
 {{- end }}
 
-{{- $categories := slice "Recent" "Forthcoming" "Published and Forthcoming Articles" "Other Material" }}
+{{- $paginator := .Paginate $pages }}
 
-<!-- Start of Category Loop -->
-{{- range $category := $categories }}
-<h2>{{ $category }}</h2> <!-- Add category header -->
+{{- if and .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
+{{- partial "home_info.html" . }}
+{{- end }}
 
-{{- $filteredPages := where $pages "Params.category" $category }}
-{{- range $index, $page := $filteredPages }}
+{{- $term := .Data.Term }}
+{{- range $index, $page := $paginator.Pages }}
 
-<article class="post-entry">
+{{- $class := "post-entry" }}
+
+{{- $user_preferred := or site.Params.disableSpecial1stPost site.Params.homeInfoParams }}
+{{- if (and $.IsHome (eq $paginator.PageNumber 1) (eq $index 0) (not $user_preferred)) }}
+{{- $class = "first-entry" }}
+{{- else if $term }}
+{{- $class = "post-entry tag-entry" }}
+{{- end }}
+
+<article class="{{ $class }}">
   {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
   {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
   <header class="entry-header">
     <h2 class="entry-hint-parent">
-      {{ .Title }}
+      {{- .Title }}
       {{- if .Draft }}
       <span class="entry-hint" title="Draft">
         <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
@@ -82,10 +91,7 @@
   {{- end }}
   <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
 </article>
-
 {{- end }}
-{{- end }}
-<!-- End of Category Loop -->
 
 {{- if gt $paginator.TotalPages 1 }}
 <footer class="page-footer">
