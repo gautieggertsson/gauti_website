@@ -21,16 +21,19 @@ menu:
           weight: 3
         - name: Teaching Materials
           url: courses/
-          weight: 4 
+          weight: 4
+        - name: CV
+          url: CV/
+          weight: 5 
         - name: REPEC
           url: https://ideas.repec.org/e/peg7.html
-          weight: 5 
+          weight: 6 
         - name: Iceland
           url: iceland/
-          weight: 6        
+          weight: 7        
         - name: Blog
           url: https://gautieggertsson.blogspot.com/
-          weight: 7
+          weight: 8
 
 params:
     description: "Gauti B. Eggertsson is a macroeconomist and a Professor of Economics at Brown University Economics Department.
@@ -79,6 +82,8 @@ params:
               url: data/
             - name: Teaching Materials
               url: courses/
+            - name: CV
+              url: CV/
             - name: REPEC
               url: https://ideas.repec.org/e/peg7.html 
             - name: Iceland

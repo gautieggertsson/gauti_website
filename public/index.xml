@@ -37,6 +37,28 @@
       <description>This paper introduces a non-linear New Keynesian Phillips curve (Inv-L NK Phillips Curve) to explain the inflation surge in the 2020s, using job vacancies relative to unemployed workers as a measure of economic slack. It argues that wage rigidity and labor market frictions create strong nonlinearities, suggesting that inflation can be reduced without a severe recession, with the recent surge largely driven by a labor shortage.</description>
     </item>
     <item>
+      <title>The Forward Guidence Puzzle is not a Puzzle</title>
+      <link>http://localhost:1313/gauti_website/research/the-forward-guidence-puzzle-is-not-a-puzzle/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gauti_website/research/the-forward-guidence-puzzle-is-not-a-puzzle/</guid>
+      <description>&lt;hr&gt;
+&lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;Eggertsson_Schuele_FGP.pdf&#34;&gt;Paper&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h5 id=&#34;abstract&#34;&gt;Abstract&lt;/h5&gt;
+&lt;p&gt;In standard New Keynesian models, future interest rate cuts have larger effects than current cuts—this is called the forward guidance puzzle. We argue that the forward guidance puzzle is not a puzzle. We show the puzzle arises from an implausibly large monetary regime change, exceeding anything in U.S. history since the Great Depression. By calibrating our model to four regime changes during the U.S. Great Depression, disciplined by changes in long-term bond yields, we find the model’s predictions are broadly consistent with historical data.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Inflation Surge of the 2020: The Role of Monetary Policy</title>
+      <link>http://localhost:1313/gauti_website/research/the-inflation-surge-of-the-2020-the-role-of-monetary-policy/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gauti_website/research/the-inflation-surge-of-the-2020-the-role-of-monetary-policy/</guid>
+      <description>The Fed’s substantial revisions to its monetary policy strategy in August 2020 and its forward guidance contributed to the largely unanticipated and most definitely unwelcome surge in inflation during the pandemic.</description>
+    </item>
+    <item>
       <title>Portugese Irregular Verbs</title>
       <link>http://localhost:1313/gauti_website/books/book1/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
@@ -49,6 +71,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/gauti_website/iceland/</guid>
       <description>A Guide to Iceland</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/gauti_website/research/a-unified-theory-of-the-great-depression-and-the-great-recession/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gauti_website/research/a-unified-theory-of-the-great-depression-and-the-great-recession/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Curriculum vitae</title>
+      <link>http://localhost:1313/gauti_website/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gauti_website/cv/</guid>
+      <description>Curriculum vitae for Gauti B. Eggertsson.</description>
     </item>
   </channel>
 </rss>

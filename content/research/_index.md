@@ -7,11 +7,23 @@ description: "Preprints and articles by Gauti B. Eggertsson."
 
 ---
 
+### Recent (completed and working papers):
+
+- [The Forward Guidence Puzzle is not a Puzzle](/gauti_website/research/the-forward-guidence-puzzle-is-not-a-puzzle), NBER WP 33180
+
+- [A Unified Theory of the Great Depression and the Great Recession](/gauti_website/research/a-unified-theory-of-the-great-depression-and-the-great-recession) (with Sergey K. Egiev, January 2020), Journal of Economic Literature, forthcoming  
+
+- [The Slanted-L Phillips Curve](/gauti_website/research/the-slanted-l-phillips-curve) (with Pierpaolo Benigno), AEA P&P, May 2024.
+
+- [The Inflation Surge of the 2020: The Role of Monetary Policy](/gauti_website/research/the-inflation-surge-of-the-2020-the-role-of-monetary-policy/) (with Donald Kohn), August 2023.
+
+- [*It’s Baaack: The Inflation Surge of 2020s and the Return of the Non-Linear Phillips Curve](/gauti_website/research/its-baaack_the-inflation-surge-of-2020s-and-the-return-of-the-non-Linear-phillips-curve) (with Pierpaolo Benignio), Preliminary Revision, December, 2023.
+
 ### Most Recent Unpublished Working Papers
 
-- [The Inflation Surge of the 2020: The Role of Monetary Policy](/research/the-inflation-surge-of-the-2020-the-role-of-monetary-policy/) (with Donald Kohn), August 2023.
+- [The Inflation Surge of the 2020: The Role of Monetary Policy](/gauti_website/research/the-inflation-surge-of-the-2020-the-role-of-monetary-policy/) (with Donald Kohn), August 2023.
 
-+ [*It’s Baaack: The Inflation Surge of 2020s and the Return of the Non-Linear Phillips Curve](Benigno_Eggertsson_NBER_Update.pdf) (with Pierpaolo Benignio), Preliminary Revision, December, 2023.
+- [*It’s Baaack: The Inflation Surge of 2020s and the Return of the Non-Linear Phillips Curve](/gauti_website/research/its-baaack_the-inflation-surge-of-2020s-and-the-return-of-the-non-Linear-phillips-curve) (with Pierpaolo Benignio), Preliminary Revision, December, 2023.
 
 + [Mr. Keynes and the Classics; A Suggested Reinterpretation](Keynes_Classics_NBER.pdf) (with Cosimo Petracchi, September 2021)
 
