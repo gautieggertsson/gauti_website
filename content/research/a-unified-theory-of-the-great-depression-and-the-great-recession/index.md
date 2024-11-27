@@ -1,6 +1,6 @@
 ---
-title: "A Unified Theory of the Great Depression and the Great Recession " 
-date: 2023-06-01
+title: "A Unified Theory of the Great Depression and the Great Recession" 
+date: 2024-11-01
 lastmod:
 tags:
 author: ["Gauti B. Eggertsson", "Sergey K. Egiev"]
@@ -9,8 +9,8 @@ summary:
 editPost:
     URL: " "
     Text: "Journal of Economic Literature"
-#draft: false
-#hidden: false
+draft: true
+hidden: true
 ---
 
 ---

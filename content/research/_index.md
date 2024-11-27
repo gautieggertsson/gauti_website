@@ -25,16 +25,16 @@ description: "Preprints and articles by Gauti B. Eggertsson."
 
 - [*It’s Baaack: The Inflation Surge of 2020s and the Return of the Non-Linear Phillips Curve](/gauti_website/research/its-baaack_the-inflation-surge-of-2020s-and-the-return-of-the-non-Linear-phillips-curve) (with Pierpaolo Benignio), Preliminary Revision, December, 2023.
 
-+ [Mr. Keynes and the Classics; A Suggested Reinterpretation](Keynes_Classics_NBER.pdf) (with Cosimo Petracchi, September 2021)
++ [Mr. Keynes and the Classics; A Suggested Reinterpretation](/gauti_website/research/mr-keynes-and-the-classics-a-suggested-reinterpretation) (with Cosimo Petracchi, September 2021)
 
-+ New Overview Article (preliminary, comments welcome!): [A Unified Theory of the Great Depression and the Great Recession](Eggertsson_JEL.pdf) (with Sergey K. Egiev), R&R Journal of Economic Literature. This version: January 2020, 
++ New Overview Article (preliminary, comments welcome!): [A Unified Theory of the Great Depression and the Great Recession](/gauti_website/research/a-unified-theory-of-the-great-depression-and-the-great-recession) (with Sergey K. Egiev), R&R Journal of Economic Literature. This version: January 2020, 
   + Continuing education lecture at American Economics Association Meeting in San Diego 2020 that covers this article is linked [here](https://www.aeaweb.org/webcasts/2020/monetary-policy-part-2?fbclid=IwAR0FzOpcbi8oQTSSlgpAaIendSoJjFr9ZUseLVt2_ZODVUt-tGWusErGRxI).
 
 ### Published and Forthcoming Articles
 
-+ [Negative Nominal Interest Rates and the Bank Lending Channel](Negative_interest_rates_and_the_bank_lending_channel__Revised.pdf) (with Ragnar Juelsrud, Lawrence H. Summers and Ella G. Wold), *Review of Economic Studies*, forthcoming
++ [Negative Nominal Interest Rates and the Bank Lending Channel](/gauti_website/research/negative-nominal-interest-rates-and-the-bank-lending-channel) (with Ragnar Juelsrud, Lawrence H. Summers and Ella G. Wold), *Review of Economic Studies*, forthcoming
 
-+ [ime Consistency and the Duration of Government Debt: A Model of Quantitative Easing](QEPaper_Final_Revision_2022.pdf) (with Saroj Bhattarai and Bulat Gafarov), *Review of Economic Studies*, forthcoming
++ [Time Consistency and the Duration of Government Debt: A Model of Quantitative Easing](/gauti_website/research/time-consistency-and-the-duration-of-government-debt-a-model-of-quantitative-easing) (with Saroj Bhattarai and Bulat Gafarov), *Review of Economic Studies*, forthcoming
 
 + [Kaldor's and Piketty's Facts: The Rise of Monopoly Power in the United States](Kaldor_project_JME.pdf) (with Jakob Robbins and Ella Getz Wold), Journal of Monetary Economics, Volume 124, November 2021. [Talk](https://drive.google.com/file/d/1DW4zIwUirvUOixT0tQ3ExomT2nrBc7fR/view)
 

@@ -1,6 +1,6 @@
 ---
 title: "The Forward Guidence Puzzle is not a Puzzle" 
-date: 2023-06-01
+date: 2024-11-01
 lastmod:
 tags:
 author: ["Gauti B. Eggertsson", "Finn D. Schüle"]
@@ -9,7 +9,7 @@ summary:
 editPost:
     URL: "https://www.nber.org/papers/w33180"
     Text: "NBER"
-#draft: false
+draft: true
 #hidden: false
 ---
 

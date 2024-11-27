@@ -1,6 +1,6 @@
 ---
 title: "The Inflation Surge of the 2020: The Role of Monetary Policy" 
-date: 2023-06-01
+date: 2023-08-01
 lastmod:
 tags:
 author: ["Gauti B. Eggertsson", "Don Kohn"]
@@ -9,7 +9,7 @@ summary: "The Fed’s substantial revisions to its monetary policy strategy in A
 editPost:
     URL: "https://www.brookings.edu/articles/the-inflation-surge-of-the-2020s-the-role-of-monetary-policy/"
     Text: "Brookings"
-#draft: false
+draft: true
 #hidden: false
 ---
 

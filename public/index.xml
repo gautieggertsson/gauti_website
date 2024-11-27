@@ -6,7 +6,7 @@
     <description>Recent content on Gauti B. Eggertsson</description>
     <generator>Hugo -- 0.136.5</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/gauti_website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Location</title>
@@ -23,42 +23,6 @@
       <description>Schedule and location for Professor Dr von Igelfeld&amp;#39;s office hours.</description>
     </item>
     <item>
-      <title>The Slanted-L Phillips Curve</title>
-      <link>http://localhost:1313/gauti_website/research/the-slanted-l-phillips-curve/</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/gauti_website/research/the-slanted-l-phillips-curve/</guid>
-      <description>A slanted-L curve effectively captures the non-linearity of the Phillips curve, as shown using cross-country data from major industrialized economies since 2009. The model demonstrates that at high unemployment, demand increases have limited inflationary effects, while at low unemployment, labor shortages amplify both inflationary pressures and the impact of supply shocks.</description>
-    </item>
-    <item>
-      <title>It’s Baaack: The Inflation Surge of 2020s and the Return of the Non-Linear Phillips Curve</title>
-      <link>http://localhost:1313/gauti_website/research/its-baaack_the-inflation-surge-of-2020s-and-the-return-of-the-non-linear-phillips-curve/</link>
-      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/gauti_website/research/its-baaack_the-inflation-surge-of-2020s-and-the-return-of-the-non-linear-phillips-curve/</guid>
-      <description>This paper introduces a non-linear New Keynesian Phillips curve (Inv-L NK Phillips Curve) to explain the inflation surge in the 2020s, using job vacancies relative to unemployed workers as a measure of economic slack. It argues that wage rigidity and labor market frictions create strong nonlinearities, suggesting that inflation can be reduced without a severe recession, with the recent surge largely driven by a labor shortage.</description>
-    </item>
-    <item>
-      <title>The Forward Guidence Puzzle is not a Puzzle</title>
-      <link>http://localhost:1313/gauti_website/research/the-forward-guidence-puzzle-is-not-a-puzzle/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/gauti_website/research/the-forward-guidence-puzzle-is-not-a-puzzle/</guid>
-      <description>&lt;hr&gt;
-&lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;Eggertsson_Schuele_FGP.pdf&#34;&gt;Paper&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h5 id=&#34;abstract&#34;&gt;Abstract&lt;/h5&gt;
-&lt;p&gt;In standard New Keynesian models, future interest rate cuts have larger effects than current cuts—this is called the forward guidance puzzle. We argue that the forward guidance puzzle is not a puzzle. We show the puzzle arises from an implausibly large monetary regime change, exceeding anything in U.S. history since the Great Depression. By calibrating our model to four regime changes during the U.S. Great Depression, disciplined by changes in long-term bond yields, we find the model’s predictions are broadly consistent with historical data.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Inflation Surge of the 2020: The Role of Monetary Policy</title>
-      <link>http://localhost:1313/gauti_website/research/the-inflation-surge-of-the-2020-the-role-of-monetary-policy/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/gauti_website/research/the-inflation-surge-of-the-2020-the-role-of-monetary-policy/</guid>
-      <description>The Fed’s substantial revisions to its monetary policy strategy in August 2020 and its forward guidance contributed to the largely unanticipated and most definitely unwelcome surge in inflation during the pandemic.</description>
-    </item>
-    <item>
       <title>Portugese Irregular Verbs</title>
       <link>http://localhost:1313/gauti_website/books/book1/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
@@ -71,13 +35,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/gauti_website/iceland/</guid>
       <description>A Guide to Iceland</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/gauti_website/research/a-unified-theory-of-the-great-depression-and-the-great-recession/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/gauti_website/research/a-unified-theory-of-the-great-depression-and-the-great-recession/</guid>
-      <description></description>
     </item>
     <item>
       <title>Curriculum vitae</title>
