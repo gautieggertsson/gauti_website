@@ -24,16 +24,19 @@ menu:
           weight: 4
         - name: CV
           url: CV/
-          weight: 5 
+          weight: 5
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=6-MmtygAAAAJ&hl=en
+          weight: 6
         - name: REPEC
           url: https://ideas.repec.org/e/peg7.html
-          weight: 6 
+          weight: 7 
         - name: Iceland
           url: iceland/
-          weight: 7        
+          weight: 8        
         - name: Blog
           url: https://gautieggertsson.blogspot.com/
-          weight: 8
+          weight: 9
 
 params:
     description: "Gauti B. Eggertsson is a macroeconomist and a Professor of Economics at Brown University Economics Department.
@@ -59,7 +62,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["books","courses","research","data"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -84,6 +87,8 @@ params:
               url: courses/
             - name: CV
               url: CV/
+            - name: Google Scholar
+              url: https://scholar.google.com/citations?user=6-MmtygAAAAJ&hl=en
             - name: REPEC
               url: https://ideas.repec.org/e/peg7.html 
             - name: Iceland
@@ -92,12 +97,8 @@ params:
               url: https://gautieggertsson.blogspot.com/
 
     socialIcons:
-        - name: CV
-          url: CV-Eggertsson_2022.pdf
         - name: Email
           url: mailto:gauti_eggertsson@brown.edu
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=6-MmtygAAAAJ&hl=en
         - name: Substack
           url: 
 

@@ -37,7 +37,11 @@
 {{- end }}
 
 {{- $term := .Data.Term }}
-{{- range $index, $page := $paginator.Pages }}
+<!-- Filter out pages with excludeFromResearch set to true -->
+{{- $filteredPages := where $paginator.Pages "Params.excludeFromResearch" "!=" true }}
+
+<!-- Start iterating over filtered pages -->
+{{- range $index, $page := $filteredPages }}
 
 {{- $class := "post-entry" }}
 

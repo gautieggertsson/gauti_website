@@ -1,30 +1,43 @@
 ---
-title: "Negative Nominal Interest Rates and the Bank Lending Channel" 
-date: 2022-02-01
+title: "A Unified Theory of the Great Depression and the Great Recession" 
+date: 2024-11-01
 lastmod:
 tags:
-author: ["Gauti B. Eggertsson", " Ragnar E. Juelsrud", "Lawrence H. Summers", "Ella Getz Wold"]
+author: ["Gauti B. Eggertsson", "Sergey K. Egiev"]
 description: 
 summary:
 editPost:
-    URL: "https://www.nber.org/papers/w25416"
-    Text: "NBER"
-draft: true
-#hidden: false
+    URL: " "
+    Text: "Journal of Economic Literature"
+#draft: false
+#hidden: true
+excludeFromResearch: true
 ---
 
 ---
 
 ##### Download
 
-+ [Paper](Negative_interest_rates_and_the_bank_lending_channel__Revised.pdf)
++ [Paper](Eggertsson_JEL.pdf)
 
 ---
 
 ##### Abstract
-We investigate the bank lending channel of negative nominal policy rates from an empirical and theoretical perspective. We ﬁnd that retail household deposit rates are subject to a lower bound (DLB). Empirically, once the DLB is met, the pass-through to lending rates and credit volumes is substantially lower and bank equity values decline in response to further policy rate cuts. We construct a banking sector model and use our estimate of the pass-through of negative policy rates to lending rates as an identiﬁed moment to parameterize the model and assess the impact of negative policy rates in general equilibrium. Using the theoretical framework, we derive a suﬃcient statistic for when negative policy rates are expansionary and when they are not.
 
----
+This paper presents a unified framework to explain three major economic downturns: the U.S.
+Great Depression, the U.S. Great Recession, and Japan’s Long Recession. Temporary economic
+disruptions,such as banking crises and excessive debt accumulation, can drive natural interest rates
+into negative territory in the short term. At the same time, structural factors, including
+demographic decline and rising inequality, can depress natural interest rates over short and long
+horizons. A negative natural interest rate and the zero lower bound (ZLB) are necessary
+conditions for a liquidity trap. Credible monetary policy can counteract the adverse effects of
+short-run liquidity traps. Diminished monetary policy credibility or persistent negative natural
+rates may necessitate fiscal interventions. The framework sheds light on the macroeconomic
+challenges of low-interest-rate environments and underscores the central importance of
+policy regimes. We close by reflecting on the great macroeconomic question of our time: Will
+short-term interest rates collapse back to zero once the inflation surge of the 2020s moves to the
+back mirror and the political landscape in the US has dramatically changed?
+
 
 ---
 

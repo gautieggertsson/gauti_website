@@ -36,60 +36,60 @@ description: "Preprints and articles by Gauti B. Eggertsson."
 
 + [Time Consistency and the Duration of Government Debt: A Model of Quantitative Easing](/gauti_website/research/time-consistency-and-the-duration-of-government-debt-a-model-of-quantitative-easing) (with Saroj Bhattarai and Bulat Gafarov), *Review of Economic Studies*, forthcoming
 
-+ [Kaldor's and Piketty's Facts: The Rise of Monopoly Power in the United States](Kaldor_project_JME.pdf) (with Jakob Robbins and Ella Getz Wold), Journal of Monetary Economics, Volume 124, November 2021. [Talk](https://drive.google.com/file/d/1DW4zIwUirvUOixT0tQ3ExomT2nrBc7fR/view)
++ [Kaldor's and Piketty's Facts: The Rise of Monopoly Power in the United States](/gauti_website/research/kaldors-and-pikettys-facts-the-rise-of-monopoly-power-in-the-united-states) (with Jakob Robbins and Ella Getz Wold), Journal of Monetary Economics, Volume 124, November 2021. [Talk](https://drive.google.com/file/d/1DW4zIwUirvUOixT0tQ3ExomT2nrBc7fR/view)
 
-+ [A Toolkit for Solving Models with a Lower Bound on Interest Rates of Stochastic Duration](ZLB_Toolkit.pdf) (with Sergey K. Egiev Alessandro Lin, Josef Platzer and Luca Riva, September 2020), *Review of Economic Dynamics*, Volume 41, July 2021, issue in honor of the memory of Alejandro Justiniano.
++ [A Toolkit for Solving Models with a Lower Bound on Interest Rates of Stochastic Duration](/gauti_website/research/a-toolkit-for-solving-models-with-a-lower-bound-on-interest-rates-of-stochastic-duration) (with Sergey K. Egiev Alessandro Lin, Josef Platzer and Luca Riva, September 2020), *Review of Economic Dynamics*, Volume 41, July 2021, issue in honor of the memory of Alejandro Justiniano.
   + For codes and programs click [here](https://github.com/gautieggertsson/2-state-toolkit).
 
-+ [Medium-Term Money Neutrality and the Effective Lower Bound](w27669.pdf) (with Marc Giannoni), 50 year anniversity issue of the *Journal of Money, Credit and Banking*, Volume 52, Issue 52, February 2021
++ [Medium-Term Money Neutrality and the Effective Lower Bound](/gauti_website/research/medium-term-money-neutrality-and-the-effective-lower-bound) (with Marc Giannoni), 50 year anniversity issue of the *Journal of Money, Credit and Banking*, Volume 52, Issue 52, February 2021
 
-+ [Dynamic Debt Deleveraging and Optimal Monetary Policy](OMPD-FINALE-250119.pdf) (with Pierpaolo Benigno and Federica Romei), *American Economic Journal: Macroeconomics*, Vol 12, no. 2, April 2020.
++ [Dynamic Debt Deleveraging and Optimal Monetary Policy](/gauti_website/research/dynamic-debt-deleveraging-and-optimal-monetary-policy) (with Pierpaolo Benigno and Federica Romei), *American Economic Journal: Macroeconomics*, Vol 12, no. 2, April 2020.
 
-+ [Aging, Output Per Capita and Secular Stagnation]() (with Manuel Lancastre and Lawrence H. Summers), *American Economic Review - Insights*, Vol. 1, No 3, December 2019.   
++ [Aging, Output Per Capita and Secular Stagnation](/gauti_website/research/aging-output-per-capita-and-secular-stagnation) (with Manuel Lancastre and Lawrence H. Summers), *American Economic Review - Insights*, Vol. 1, No 3, December 2019.   
 
-+ [Log-linear approximation versus an exact solution at the ZLB in the New Keynesian model](https://ideas.repec.org/p/nbr/nberwo/22784.html) (with Sanjay Singh), Journal of Economic Dynamics and Controls, Vol. 105, August 2019.| [Local updated copy](LogLin.pdf) (pdf).
++ [Log-linear approximation versus an exact solution at the ZLB in the New Keynesian model](/gauti_website/research/log-linear-approximation-versus-an-exact-solution-at-the-zlb-in-the-new-keynesian-model) (with Sanjay Singh), Journal of Economic Dynamics and Controls, Vol. 105, August 2019.
 
-+ A Model of Secular Stagnation: Theory and Quantitative Evaluation (with Neil R. Mehrotra and Jacob Robbins), American Economic Journal: Macroeconomics, Vol. 11 No. 1, January 2019| Local updated copy (pdf).
++ [A Model of Secular Stagnation: Theory and Quantitative Evaluation](/gauti_website/research/a-model-of-secular-stagnation-theory-and-quantitative) (with Neil R. Mehrotra and Jacob Robbins), American Economic Journal: Macroeconomics, Vol. 11 No. 1, January 2019.
 
-+ Sticky Prices Versus Sticky Information: Does it Matter for Policy Paradoxes? (with Vaishali Garga), Review of Economic Dynamics, Vol 31, January 2019.| Local updated copy (pdf).
++ [Sticky Prices Versus Sticky Information: Does it Matter for Policy Paradoxes?](/gauti_website/research/sticky-prices-versus-sticky-information-does-it-matter-for-policy-paradoxes) (with Vaishali Garga), Review of Economic Dynamics, Vol 31, January 2019.
 
-+ Is Increased Price Flexibility Stabilizing (Redux)? (with Saroj Bhattarai and Raphael Schoenle), Journal of Monetary Economics, vol. 100(C), December 2018.|Local updated copy (pdf). 
++ [Is Increased Price Flexibility Stabilizing (Redux)?](/gauti_website/research/is-increased-price-flexibility-stabilizing-redux) (with Saroj Bhattarai and Raphael Schoenle), Journal of Monetary Economics, vol. 100(C), December 2018.
 
-+ The Rise, Fall, and Resurrection of Iceland: A Postmortem Analysis of the 2008 Financial Crisis, (with Sigríður Benediktsdóttir and Eggert Þórarinsson), Brookings Papers on Economic Activity, Fall 2017.| Local copy (pdf).
++ [The Rise, Fall, and Resurrection of Iceland: A Postmortem Analysis of the 2008 Financial Crisis](/gauti_website/research/the-rise-fall-and-resurrection-of-iceland-a-postmortem-analysis-of-the-2008-financial-crisis), (with Sigríður Benediktsdóttir and Eggert Þórarinsson), Brookings Papers on Economic Activity, Fall 2017.
 
-+ The Great Escape? A Quantitative Evaluation of the Fed's Liquidity Facilities (with Marco Del Negro, Andrea Ferrero, and Nobuhiro Kiyotaki), American Economic Review,  107, pp. 824-857, March 2017.| Local copy (pdf). 
++ [The Great Escape? A Quantitative Evaluation of the Fed's Liquidity Facilities](/gauti_website/research/the-great-escape-a-quantitative-evaluation-of-the-feds-liquidity-facilities) (with Marco Del Negro, Andrea Ferrero, and Nobuhiro Kiyotaki), American Economic Review,  107, pp. 824-857, March 2017.
 
-+ A Contagious Malady? Open Economy Dimensions of Secular Stagnation (with Neil Mehrotra, Sanjay Singh, and Lawrence Summers, June 2016), IMF Economic Review, Vol. 64(4), pp. 581-634. December 2016.| Local copy (pdf).
++ [A Contagious Malady? Open Economy Dimensions of Secular Stagnation](/gauti_website/research/a-contagious-malady-open-economy-dimensions-of-secular-stagnation) (with Neil Mehrotra, Sanjay Singh, and Lawrence Summers, June 2016), IMF Economic Review, Vol. 64(4), pp. 581-634. December 2016.
 
-+ Bernanke's No-arbitrage Argument Revisited: Can Open Market Operations in Real Assets Eliminate the Liquidity Trap? (with Kevin Proulx), in M. Woodford, editor, Monetary Policy through Asset Markets: Lessons from Unconventional Measures and Implications for an Integrated World , Santiago: Central Bank of Chile, 2016.| Local copy (pdf). 
++ [Bernanke's No-arbitrage Argument Revisited: Can Open Market Operations in Real Assets Eliminate the Liquidity Trap?](/gauti_website/research/bernankes-no-arbitrage-argument-revisited) (with Kevin Proulx), in M. Woodford, editor, Monetary Policy through Asset Markets: Lessons from Unconventional Measures and Implications for an Integrated World , Santiago: Central Bank of Chile, 2016.
 
-+ Secular Stagnation in the Open Economy (with Neil Mehrotra and Lawrence Summers), American Economic Review, P&P, 106(5): 503-507, May 2016.|Local copy (pdf). 
++ [Secular Stagnation in the Open Economy](/gauti_website/research/secular-stagnation-in-the-open-economy) (with Neil Mehrotra and Lawrence Summers), American Economic Review, P&P, 106(5): 503-507, May 2016.
 
-+ Can Structural Reforms Help Europe? (with Andrea Ferrero and Andrea Raffo), Journal of Monetary Economics, 61, January 2014, pp. 2-22.| Local copy (pdf). 
++ [Can Structural Reforms Help Europe?](/gauti_website/research/can-structural-reforms-help-europe) (with Andrea Ferrero and Andrea Raffo), Journal of Monetary Economics, 61, January 2014, pp. 2-22.
 
-+ Deficits, Public Debt Dynamics and Tax and Spending Multipliers (with Matthew Denes and Sophia Gilbukh), Economic Journal, 123 (566), 133-163, 2013.| Local copy (pdf).
++ [Deficits, Public Debt Dynamics and Tax and Spending Multipliers](/gauti_website/research/deficits-public-debt-dynamics-and-tax-and-spending-multipliers) (with Matthew Denes and Sophia Gilbukh), Economic Journal, 123 (566), 133-163, 2013.
 
-+ Debt, Deleveraging, and the Liquidity Trap: A Fisher-Minsky-Koo approach (with Paul Krugman), Quarterly Journal of Economics, 127(3): 1469-1513, August 2012.|Local copy (pdf).| Web Appendix.
++ [Debt, Deleveraging, and the Liquidity Trap: A Fisher-Minsky-Koo approach](/gauti_website/research/debt-deleveraging-and-the-liquidity-trap-a-fisher-minsky-koo-approach) (with Paul Krugman), Quarterly Journal of Economics, 127(3): 1469-1513, August 2012.
 
-+ Was the New Deal Contractionary?, American Economic Review, 102(1): 524-555, February 2012. Web Appendix
++ [Was the New Deal Contractionary?](/gauti_website/research/was-the-new-deal-contractionary), American Economic Review, 102(1): 524-555, February 2012.
 
-+ Fiscal Multipliers and Policy Coordination in J. Gali, editor, Fiscal Policy and Macroeconomic Performance, Santiago: Central Bank of Chile, October 2010.| Local copy (pdf). 
++ [Fiscal Multipliers and Policy Coordination](/gauti_website/research/fiscal-multipliers-and-policy-coordination) in J. Gali, editor, Fiscal Policy and Macroeconomic Performance, Santiago: Central Bank of Chile, October 2010.
 
-+ What Fiscal Policy is Effective at Zero Interest Rates?, NBER Macroeconomic Annual, 2010.| Local copy (pdf). 
++ [What Fiscal Policy is Effective at Zero Interest Rates?](/gauti_website/research/what-fiscal-policy-is-effective-at-zero-interest-rates), NBER Macroeconomic Annual, 2010.
 
-+ A Political Agency Theory of Central Bank Independence (with Eric Le Borgne), Journal of Money, Credit and Banking, Vol. 42, No. 4, June 2010| Local copy (pdf).
++ [A Political Agency Theory of Central Bank Independence](/gauti_website/research/a-political-agency-theory-of-central-bank-independence) (with Eric Le Borgne), Journal of Money, Credit and Banking, Vol. 42, No. 4, June 2010.
 
-+ Great Expectations and the End of the Depression, American Economic Review, 2008: 90(4).| Local copy (pdf).
++ [Great Expectations and the End of the Depression](/gauti_website/research/great-expectations-and-the-end-of-the-depression), American Economic Review, 2008: 90(4).
 
-+ The Mistake of 1937: A General Equilibrium Analysis (with Benjamin Pugsley), Monetary and Economic Studies, 24(S-1), December 2006.| Local copy (pdf).
++ [The Mistake of 1937: A General Equilibrium Analysis](/gauti_website/research/the-mistake-of-1937-a-general-equilibrium-analysis) (with Benjamin Pugsley), Monetary and Economic Studies, 24(S-1), December 2006.
 
-+ The Deflation Bias and Committing to being Irresponsible, Journal of Money, Credit and Banking, 36 (2), 2006.| Local copy (pdf). |Extended with Appendix
++ [The Deflation Bias and Committing to being Irresponsible](/gauti_website/research/the-deflation-bias-and-committing-to-being-irresponsible), Journal of Money, Credit and Banking, 36 (2), 2006.
 
-+ Optimal Monetary and Fiscal Policy in a Liquidity Trap (with Michael Woodford), NBER International Seminar on Macroeconomics 2004. | Local copy (pdf). 
++ [Optimal Monetary and Fiscal Policy in a Liquidity Trap](/gauti_website/research/optimal-monetary-and-fiscal-policy-in-a-liquidity-trap) (with Michael Woodford), NBER International Seminar on Macroeconomics 2004.
 
-+ Policy Options in a Liquidity trap (with Michael Woodford), American Economic Review, P&P, 2004: 94(2).| Local copy (pdf).
++ [Policy Options in a Liquidity trap](/gauti_website/research/policy-options-in-a-liquidity-trap) (with Michael Woodford), American Economic Review, P&P, 2004: 94(2).
 
-+ The Zero Interest-Rate Bound and Optimal Monetary Policy (with Michael Woodford), Brookings Papers on Economic Activity, 2003:1. Local copy (pdf).
++ [The Zero Interest-Rate Bound and Optimal Monetary Policy](/gauti_website/research/the-zero-interest-rate-bound-and-optimal-monetary-policy) (with Michael Woodford), Brookings Papers on Economic Activity, 2003:1.
 
 ### Published Commentaries, Surveys
 

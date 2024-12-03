@@ -2,11 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/gauti_website/research/a-unified-theory-of-the-great-depression-and-the-great-recession/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/gauti_website/</loc>
     <lastmod>2024-11-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/gauti_website/research/</loc>
     <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/the-forward-guidence-puzzle-is-not-a-puzzle/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/gauti_website/posts/</loc>
     <lastmod>2024-10-30T17:39:52-04:00</lastmod>
@@ -16,6 +22,66 @@
   </url><url>
     <loc>http://localhost:1313/gauti_website/officehours/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/tags/business-cycles/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/tags/macroeconomic-models/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/tags/macroeconomics/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/tags/money-and-interest-rates/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/tags/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/the-slanted-l-phillips-curve/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/its-baaack_the-inflation-surge-of-2020s-and-the-return-of-the-non-linear-phillips-curve/</loc>
+    <lastmod>2023-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/negative-nominal-interest-rates-and-the-bank-lending-channel/</loc>
+    <lastmod>2023-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/the-inflation-surge-of-the-2020-the-role-of-monetary-policy/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/time-consistency-and-the-duration-of-government-debt-a-model-of-quantitative-easing/</loc>
+    <lastmod>2022-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/mr-keynes-and-the-classics-a-suggested-reinterpretation/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/medium-term-money-neutrality-and-the-effective-lower-bound/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/log-linear-approximation-versus-an-exact-solution-at-the-zlb-in-the-new-keynesian-model/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/dynamic-debt-deleveraging-and-optimal-monetary-policy/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/a-toolkit-for-solving-models-with-a-lower-bound-on-interest-rates-of-stochastic-duration/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/kaldors-and-pikettys-facts-the-rise-of-monopoly-power-in-the-united-states/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/a-contagious-malady-open-economy-dimensions-of-secular-stagnation/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/bernankes-no-arbitrage-argument-revisited/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/secular-stagnation-in-the-open-economy/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/can-structural-reforms-help-europe/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/gauti_website/books/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
@@ -32,10 +98,11 @@
     <loc>http://localhost:1313/gauti_website/books/book1/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/gauti_website/tags/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/gauti_website/iceland/</loc>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/a-model-of-secular-stagnation-theory-and-quantitative/</loc>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/aging-output-per-capita-and-secular-stagnation/</loc>
   </url><url>
     <loc>http://localhost:1313/gauti_website/archive/</loc>
   </url><url>
@@ -43,8 +110,16 @@
   </url><url>
     <loc>http://localhost:1313/gauti_website/cv/</loc>
   </url><url>
+    <loc>http://localhost:1313/gauti_website/research/is-increased-price-flexibility-stabilizing-redux/</loc>
+  </url><url>
     <loc>http://localhost:1313/gauti_website/data/</loc>
   </url><url>
     <loc>http://localhost:1313/gauti_website/papers_old/</loc>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/sticky-prices-versus-sticky-information-does-it-matter-for-policy-paradoxes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/the-great-escape-a-quantitative-evaluation-of-the-feds-liquidity-facilities/</loc>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/the-rise-fall-and-resurrection-of-iceland-a-postmortem-analysis-of-the-2008-financial-crisis/</loc>
   </url>
 </urlset>

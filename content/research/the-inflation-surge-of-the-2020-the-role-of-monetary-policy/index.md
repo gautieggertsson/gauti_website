@@ -9,8 +9,9 @@ summary: "The Fed’s substantial revisions to its monetary policy strategy in A
 editPost:
     URL: "https://www.brookings.edu/articles/the-inflation-surge-of-the-2020s-the-role-of-monetary-policy/"
     Text: "Brookings"
-draft: true
+#draft: false
 #hidden: false
+excludeFromResearch: true
 ---
 
 ---
