@@ -8,7 +8,7 @@ description:
 summary:
 editPost:
     URL: "https://www.nber.org/papers/w29158"
-    Text: "NBER"
+    Text: "NBER 29158"
 #draft: true
 #hidden: false
 excludeFromResearch: true
@@ -18,7 +18,8 @@ excludeFromResearch: true
 
 ##### Download
 
-+ [Paper](Keynes_Classics_NBER.pdf)
++ [Paper](https://ideas.repec.org/p/nbr/nberwo/29158.html)
++ [Local PDF](Keynes_Classics_NBER.pdf)
 
 ---
 
@@ -28,13 +29,19 @@ This paper revisits and proposes a resolution to an empirical and theoretical co
 
 ---
 
-##### Citation
-
-
-```BibTeX
-
-```
+##### Related material
 
 ---
 
-##### Related material
+##### Citation
+
+Eggertsson, G. B., & Petracchi, C. (2021). Mr. Keynes and the “Classics”; A Suggested Reinterpretation (No. w29158). National Bureau of Economic Research.
+
+```BibTeX
+@techreport{eggertsson2021mr,
+  title={Mr. Keynes and the “Classics”; A Suggested Reinterpretation},
+  author={Eggertsson, Gauti B and Petracchi, Cosimo},
+  year={2021},
+  institution={National Bureau of Economic Research}
+}
+```

@@ -1,6 +1,6 @@
 ---
 title: "Dynamic Debt Deleveraging and Optimal Monetary Policy" 
-date: 2019-02-05
+date: 2020-04-01
 lastmod:
 tags:
 author: ["Gauti B. Eggertsson", "Pierpaolo Benigno", "Federica Romei"]
@@ -19,25 +19,33 @@ excludeFromResearch: true
 
 ##### Download
 
-+ [Paper](OMPD-FINALE-250119.pdf)
++ [Paper](https://ideas.repec.org/p/nbr/nberwo/20556.html)
++ [Local PDF](OMPD-FINALE-250119.pdf)
 
 ---
 
 ##### Abstract
-This paper proposes a post-crisis New Keynesian model that incorporates agent heterogeneity in borrowing and lending with a minimum set of assumptions and complexity. Unlike the standard framework, this model makes the natural rate of interest endogenous, and dependent on macroeconomic policy. We establish microfoundations
-for debt deleveraging based both on the accumulation of excessive debt by households and leverage constraints on banks, showing that they are isomorphic and thus integrating two popular narratives for the crisis of 2008. The main application is to study optimal monetary policy at the zero lower bound (ZLB). Such policy succeeds in raising the natural rate of interest by creating an environment that speeds up deleveraging and thus endogenously shortens the crisis and the duration of binding ZLB. Inflation should be front-loaded and overshoot its long term target during the ZLB episode.
+This paper studies optimal monetary policy under dynamic debt deleveraging once the zero bound is binding. Unlike the existing literature, the natural rate of interest is endogenous and depends on macroeconomic policy. Optimal monetary policy successfully raises the natural rate of interest by creating an environment that speeds up deleveraging, thus endogenously shortening the duration of the crisis and a binding zero bound. Inflation should be front loaded. Fiscal-policy multipliers can be even higher than in existing models, but depend on the way in which public spending is financed.
 
 ---
+
+##### Related material
 
 ---
 
 ##### Citation
 
+Benigno, P., Eggertsson, G. B., & Romei, F. (2020). Dynamic debt deleveraging and optimal monetary policy. American Economic Journal: Macroeconomics, 12(2), 310-350.
 
 ```BibTeX
-
+@article{benigno2020dynamic,
+  title={Dynamic debt deleveraging and optimal monetary policy},
+  author={Benigno, Pierpaolo and Eggertsson, Gauti B and Romei, Federica},
+  journal={American Economic Journal: Macroeconomics},
+  volume={12},
+  number={2},
+  pages={310--350},
+  year={2020},
+  publisher={American Economic Association 2014 Broadway, Suite 305, Nashville, TN 37203-2425}
+}
 ```
-
----
-
-##### Related material

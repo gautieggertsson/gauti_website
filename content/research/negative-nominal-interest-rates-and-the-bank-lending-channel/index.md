@@ -18,8 +18,8 @@ excludeFromResearch: true
 
 ##### Download
 
-+ [Paper](Negative_interest_rates_and_the_bank_lending_channel__Revised.pdf)
-- [NBER](https://www.nber.org/papers/w25416)
++ [Paper](https://ideas.repec.org/a/oup/restud/v91y2024i4p2201-2275..html)
++ [Local PDF](Negative_interest_rates_and_the_bank_lending_channel__Revised.pdf)
 
 ---
 
@@ -28,15 +28,23 @@ We investigate the bank lending channel of negative nominal policy rates from an
 
 ---
 
+##### Related material
+
 ---
 
 ##### Citation
 
+Eggertsson, G. B., Juelsrud, R. E., Summers, L. H., & Wold, E. G. (2024). Negative nominal interest rates and the bank lending channel. Review of Economic Studies, 91(4), 2201-2275.
 
 ```BibTeX
-
+@article{eggertsson2024negative,
+  title={Negative nominal interest rates and the bank lending channel},
+  author={Eggertsson, Gauti B and Juelsrud, Ragnar E and Summers, Lawrence H and Wold, Ella Getz},
+  journal={Review of Economic Studies},
+  volume={91},
+  number={4},
+  pages={2201--2275},
+  year={2024},
+  publisher={Oxford University Press UK}
+}
 ```
-
----
-
-##### Related material

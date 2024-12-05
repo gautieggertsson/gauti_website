@@ -1,5 +1,5 @@
 ---
-title: "A Unified Theory of the Great Depression and the Great Recession" 
+title: "Liquidity Traps: A Unified Theory of the Great Depression and the Great Recession" 
 date: 2024-11-01
 lastmod:
 tags:
@@ -7,8 +7,8 @@ author: ["Gauti B. Eggertsson", "Sergey K. Egiev"]
 description: 
 summary:
 editPost:
-    URL: " "
-    Text: "Journal of Economic Literature"
+    URL: "https://www.nber.org/papers/w33195"
+    Text: "NBER 33195"
 #draft: false
 #hidden: true
 excludeFromResearch: true
@@ -18,7 +18,8 @@ excludeFromResearch: true
 
 ##### Download
 
-+ [Paper](Eggertsson_JEL.pdf)
++ [Paper](https://ideas.repec.org/p/nbr/nberwo/33195.html)
++ [Local PDF](Eggertsson_JEL.pdf)
 
 ---
 
@@ -38,16 +39,22 @@ policy regimes. We close by reflecting on the great macroeconomic question of ou
 short-term interest rates collapse back to zero once the inflation surge of the 2020s moves to the
 back mirror and the political landscape in the US has dramatically changed?
 
+---
 
+##### Related material
+
++ Continuing education lecture at American Economics Association Meeting in San Diego 2020 that covers this article is linked [here](https://www.aeaweb.org/webcasts/2020/monetary-policy-part-2?fbclid=IwAR0FzOpcbi8oQTSSlgpAaIendSoJjFr9ZUseLVt2_ZODVUt-tGWusErGRxI).
 ---
 
 ##### Citation
 
+Gauti B. Eggertsson & Sergey K. Egiev, 2024. "Liquidity Traps: A Unified Theory of the Great Depression and Great Recession," NBER Working Papers 33195, National Bureau of Economic Research, Inc.
 
 ```BibTeX
-
+@techreport{eggertsson2024liquidity,
+  title={Liquidity Traps: A Unified Theory of the Great Depression and Great Recession},
+  author={Eggertsson, Gauti B and Egiev, Sergey K},
+  year={2024},
+  institution={National Bureau of Economic Research}
+}
 ```
-
----
-
-##### Related material

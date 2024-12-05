@@ -18,7 +18,8 @@ excludeFromResearch: true
 
 ##### Download
 
-+ [Paper](QEPaper_Final_Revision_2022.pdf)
++ [Paper](https://ideas.repec.org/a/oup/restud/v90y2023i4p1759-1799..html)
++ [Local PDF](QEPaper_Final_Revision_2022.pdf)
 
 ---
 
@@ -31,15 +32,22 @@ this effect can be substantial.
 
 ---
 
+##### Related material
+
 ---
 
 ##### Citation
-
+Saroj Bhattarai & Gauti B Eggertsson & Bulat Gafarov, 2023. "Time Consistency and Duration of Government Debt: A Model of Quantitative Easing," The Review of Economic Studies, Review of Economic Studies Ltd, vol. 90(4), pages 1759-1799.
 
 ```BibTeX
-
+@article{bhattarai2023time,
+  title={Time consistency and duration of government debt: A model of quantitative easing},
+  author={Bhattarai, Saroj and Eggertsson, Gauti B and Gafarov, Bulat},
+  journal={The Review of Economic Studies},
+  volume={90},
+  number={4},
+  pages={1759--1799},
+  year={2023},
+  publisher={Oxford University Press US}
+}
 ```
-
----
-
-##### Related material

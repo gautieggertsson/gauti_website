@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/gauti_website/research/a-unified-theory-of-the-great-depression-and-the-great-recession/</loc>
-    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/gauti_website/</loc>
     <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/a-unified-theory-of-the-great-depression-and-the-great-recession/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/gauti_website/research/</loc>
     <lastmod>2024-11-04T00:00:00+00:00</lastmod>
@@ -41,14 +41,14 @@
     <loc>http://localhost:1313/gauti_website/research/the-slanted-l-phillips-curve/</loc>
     <lastmod>2024-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/gauti_website/research/its-baaack_the-inflation-surge-of-2020s-and-the-return-of-the-non-linear-phillips-curve/</loc>
-    <lastmod>2023-12-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/gauti_website/research/negative-nominal-interest-rates-and-the-bank-lending-channel/</loc>
     <lastmod>2023-09-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/gauti_website/research/the-inflation-surge-of-the-2020-the-role-of-monetary-policy/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/its-baaack_the-inflation-surge-of-2020s-and-the-return-of-the-non-linear-phillips-curve/</loc>
+    <lastmod>2023-04-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/gauti_website/research/time-consistency-and-the-duration-of-government-debt-a-model-of-quantitative-easing/</loc>
     <lastmod>2022-09-07T00:00:00+00:00</lastmod>
@@ -82,6 +82,42 @@
   </url><url>
     <loc>http://localhost:1313/gauti_website/research/can-structural-reforms-help-europe/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/deficits-public-debt-dynamics-and-tax-and-spending-multipliers/</loc>
+    <lastmod>2013-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/fiscal-multipliers-and-policy-coordination/</loc>
+    <lastmod>2013-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/debt-deleveraging-and-the-liquidity-trap-a-fisher-minsky-koo-approach/</loc>
+    <lastmod>2012-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/was-the-new-deal-contractionary/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/what-fiscal-policy-is-effective-at-zero-interest-rates/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/a-political-agency-theory-of-central-bank-independence/</loc>
+    <lastmod>2010-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/great-expectations-and-the-end-of-the-depression/</loc>
+    <lastmod>2008-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/the-mistake-of-1937-a-general-equilibrium-analysis/</loc>
+    <lastmod>2006-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/optimal-monetary-and-fiscal-policy-in-a-liquidity-trap/</loc>
+    <lastmod>2006-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/the-deflation-bias-and-committing-to-being-irresponsible/</loc>
+    <lastmod>2006-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/policy-options-in-a-liquidity-trap/</loc>
+    <lastmod>2004-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gauti_website/research/the-zero-interest-rate-bound-and-optimal-monetary-policy/</loc>
+    <lastmod>2003-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/gauti_website/books/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>

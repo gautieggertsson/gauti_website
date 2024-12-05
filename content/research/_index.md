@@ -9,11 +9,11 @@ description: "Preprints and articles by Gauti B. Eggertsson."
 
 ### Recent (completed and working papers):
 
-- [The Forward Guidence Puzzle is not a Puzzle](/gauti_website/research/the-forward-guidence-puzzle-is-not-a-puzzle), NBER WP 33180
+- [The Forward Guidence Puzzle is not a Puzzle](/gauti_website/research/the-forward-guidence-puzzle-is-not-a-puzzle) (with Finn D. Schüle), NBER WP 33180, November 2024.
 
-- [A Unified Theory of the Great Depression and the Great Recession](/gauti_website/research/a-unified-theory-of-the-great-depression-and-the-great-recession) (with Sergey K. Egiev, January 2020), Journal of Economic Literature, forthcoming  
+- [A Unified Theory of the Great Depression and the Great Recession](/gauti_website/research/a-unified-theory-of-the-great-depression-and-the-great-recession) (with Sergey K. Egiev), *Journal of Economic Literature*, forthcoming.
 
-- [The Slanted-L Phillips Curve](/gauti_website/research/the-slanted-l-phillips-curve) (with Pierpaolo Benigno), AEA P&P, May 2024.
+- [The Slanted-L Phillips Curve](/gauti_website/research/the-slanted-l-phillips-curve) (with Pierpaolo Benigno), *AEA P&P*, May 2024.
 
 - [The Inflation Surge of the 2020: The Role of Monetary Policy](/gauti_website/research/the-inflation-surge-of-the-2020-the-role-of-monetary-policy/) (with Donald Kohn), August 2023.
 
@@ -25,23 +25,22 @@ description: "Preprints and articles by Gauti B. Eggertsson."
 
 - [*It’s Baaack: The Inflation Surge of 2020s and the Return of the Non-Linear Phillips Curve](/gauti_website/research/its-baaack_the-inflation-surge-of-2020s-and-the-return-of-the-non-Linear-phillips-curve) (with Pierpaolo Benignio), Preliminary Revision, December, 2023.
 
-+ [Mr. Keynes and the Classics; A Suggested Reinterpretation](/gauti_website/research/mr-keynes-and-the-classics-a-suggested-reinterpretation) (with Cosimo Petracchi, September 2021)
++ [Mr. Keynes and the Classics; A Suggested Reinterpretation](/gauti_website/research/mr-keynes-and-the-classics-a-suggested-reinterpretation) (with Cosimo Petracchi), September 2021.
 
-+ New Overview Article (preliminary, comments welcome!): [A Unified Theory of the Great Depression and the Great Recession](/gauti_website/research/a-unified-theory-of-the-great-depression-and-the-great-recession) (with Sergey K. Egiev), R&R Journal of Economic Literature. This version: January 2020, 
-  + Continuing education lecture at American Economics Association Meeting in San Diego 2020 that covers this article is linked [here](https://www.aeaweb.org/webcasts/2020/monetary-policy-part-2?fbclid=IwAR0FzOpcbi8oQTSSlgpAaIendSoJjFr9ZUseLVt2_ZODVUt-tGWusErGRxI).
++ [A Unified Theory of the Great Depression and the Great Recession](/gauti_website/research/a-unified-theory-of-the-great-depression-and-the-great-recession) (with Sergey K. Egiev), *Journal of Economic Literature*. This version: November 2024, forthcoming.
 
 ### Published and Forthcoming Articles
 
-+ [Negative Nominal Interest Rates and the Bank Lending Channel](/gauti_website/research/negative-nominal-interest-rates-and-the-bank-lending-channel) (with Ragnar Juelsrud, Lawrence H. Summers and Ella G. Wold), *Review of Economic Studies*, forthcoming
++ [Negative Nominal Interest Rates and the Bank Lending Channel](/gauti_website/research/negative-nominal-interest-rates-and-the-bank-lending-channel) (with Ragnar Juelsrud, Lawrence H. Summers and Ella G. Wold), *Review of Economic Studies*, forthcoming.
 
-+ [Time Consistency and the Duration of Government Debt: A Model of Quantitative Easing](/gauti_website/research/time-consistency-and-the-duration-of-government-debt-a-model-of-quantitative-easing) (with Saroj Bhattarai and Bulat Gafarov), *Review of Economic Studies*, forthcoming
++ [Time Consistency and the Duration of Government Debt: A Model of Quantitative Easing](/gauti_website/research/time-consistency-and-the-duration-of-government-debt-a-model-of-quantitative-easing) (with Saroj Bhattarai and Bulat Gafarov), *Review of Economic Studies*, forthcoming.
 
-+ [Kaldor's and Piketty's Facts: The Rise of Monopoly Power in the United States](/gauti_website/research/kaldors-and-pikettys-facts-the-rise-of-monopoly-power-in-the-united-states) (with Jakob Robbins and Ella Getz Wold), Journal of Monetary Economics, Volume 124, November 2021. [Talk](https://drive.google.com/file/d/1DW4zIwUirvUOixT0tQ3ExomT2nrBc7fR/view)
++ [Kaldor's and Piketty's Facts: The Rise of Monopoly Power in the United States](/gauti_website/research/kaldors-and-pikettys-facts-the-rise-of-monopoly-power-in-the-united-states) (with Jakob Robbins and Ella Getz Wold), *Journal of Monetary Economics*, Volume 124, November 2021. [Talk](https://drive.google.com/file/d/1DW4zIwUirvUOixT0tQ3ExomT2nrBc7fR/view)
 
 + [A Toolkit for Solving Models with a Lower Bound on Interest Rates of Stochastic Duration](/gauti_website/research/a-toolkit-for-solving-models-with-a-lower-bound-on-interest-rates-of-stochastic-duration) (with Sergey K. Egiev Alessandro Lin, Josef Platzer and Luca Riva, September 2020), *Review of Economic Dynamics*, Volume 41, July 2021, issue in honor of the memory of Alejandro Justiniano.
   + For codes and programs click [here](https://github.com/gautieggertsson/2-state-toolkit).
 
-+ [Medium-Term Money Neutrality and the Effective Lower Bound](/gauti_website/research/medium-term-money-neutrality-and-the-effective-lower-bound) (with Marc Giannoni), 50 year anniversity issue of the *Journal of Money, Credit and Banking*, Volume 52, Issue 52, February 2021
++ [Medium-Term Money Neutrality and the Effective Lower Bound](/gauti_website/research/medium-term-money-neutrality-and-the-effective-lower-bound) (with Marc Giannoni), 50 year anniversity issue of the *Journal of Money, Credit and Banking*, Volume 52, Issue 52, February 2021.
 
 + [Dynamic Debt Deleveraging and Optimal Monetary Policy](/gauti_website/research/dynamic-debt-deleveraging-and-optimal-monetary-policy) (with Pierpaolo Benigno and Federica Romei), *American Economic Journal: Macroeconomics*, Vol 12, no. 2, April 2020.
 
@@ -117,6 +116,26 @@ Comment on Sources and Mechanism of Stagnation and Impaired Growth in Advanced E
 
 Commentary Slowing Business Dynamics by Akcigit and Ates, Jackson Hole Conference, September 2020.
 
+### Blog Commentaries
+
+Negative Interest Rates and the Bank Lending Channel, (with Lawrence Summers) Vox Column, January 2019.
+
+Monetary policy with negative nominal interest rates, (with Ragnar Juelsrud and Ella Getz Wold) VOX Column, January 2018. 
+
+To accomodate or not: The Federal Reserve's new normal, (with Neil Mehrotra and Jacob A. Robbins), VOX Column, April 2017.
+
+Secular stagnation in the open economies: How it spreads, how it can be cured, (with Lawrence Summers) VOX Column, July 2016.
+
+A model of secular stagnation, (with Neil Mehrotra) VOX Column, August 2014.
+
+Commodity Prices and the Mistake of 1937: Would Modern Economists Make the Same Mistake?, Liberty Street Economics Blog, June 2011.
+
+  Some old (declassified) policy work
+
+FOMC briefing on "Federal Reserve experiences with Very Low Interest Rates," with Mark Carlson and Elmar Mertens, December 5th, 2008.
+
+Inflation budgeting proposal from fall 2010 Blackbook recently declassified under the Freedom of Information Act by Bloomberg News.
+
 
 ### Other Material, Older Unpublished Working Papers, Notes, etc
 
@@ -139,30 +158,3 @@ How to Fight Deflation at Zero Nominal Interest Rates: Committing to Being Irres
 Committing to Being Irresponsible: Deficit Spending to Escape a Liquidity Trap, mimeo, Princeton University, November 2001.
 
 Real Government Spending in a Liquidity Trap, mimeo, Princeton University, November 2001.
-
-
-### Blog Commentaries
-
-Negative Interest Rates and the Bank Lending Channel, (with Lawrence Summers) Vox Column, January 2019.
-
-Monetary policy with negative nominal interest rates, (with Ragnar Juelsrud and Ella Getz Wold) VOX Column, January 2018. 
-
-To accomodate or not: The Federal Reserve's new normal, (with Neil Mehrotra and Jacob A. Robbins), VOX Column, April 2017.
-
-Secular stagnation in the open economies: How it spreads, how it can be cured, (with Lawrence Summers) VOX Column, July 2016.
-
-A model of secular stagnation, (with Neil Mehrotra) VOX Column, August 2014.
-
-Commodity Prices and the Mistake of 1937: Would Modern Economists Make the Same Mistake?, Liberty Street Economics Blog, June 2011.
-
-        Some old (declassified) policy work
-
-FOMC briefing on "Federal Reserve experiences with Very Low Interest Rates," with Mark Carlson and Elmar Mertens, December 5th, 2008.
-
-Inflation budgeting proposal from fall 2010 Blackbook recently declassified under the Freedom of Information Act by Bloomberg News.
-
-### Talks:
-
-ECB Talk, BPEA, ME, Kaldor, Israel
-
-Luiss, 1,2,3,4,5,6

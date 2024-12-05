@@ -9,14 +9,16 @@
     <lastBuildDate>Mon, 04 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/gauti_website/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A Unified Theory of the Great Depression and the Great Recession</title>
+      <title>Liquidity Traps: A Unified Theory of the Great Depression and the Great Recession</title>
       <link>http://localhost:1313/gauti_website/research/a-unified-theory-of-the-great-depression-and-the-great-recession/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/gauti_website/research/a-unified-theory-of-the-great-depression-and-the-great-recession/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;Eggertsson_JEL.pdf&#34;&gt;Paper&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;https://ideas.repec.org/p/nbr/nberwo/33195.html&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;Eggertsson_JEL.pdf&#34;&gt;Local PDF&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
@@ -36,7 +38,7 @@ short-term interest rates collapse back to zero once the inflation surge of the 
 back mirror and the political landscape in the US has dramatically changed?&lt;/p&gt;</description>
     </item>
     <item>
-      <title>The Forward Guidence Puzzle is not a Puzzle</title>
+      <title>The Forward Guidance Puzzle is not a Puzzle</title>
       <link>http://localhost:1313/gauti_website/research/the-forward-guidence-puzzle-is-not-a-puzzle/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/gauti_website/research/the-forward-guidence-puzzle-is-not-a-puzzle/</guid>
@@ -58,13 +60,6 @@ back mirror and the political landscape in the US has dramatically changed?&lt;/
       <description>A slanted-L curve effectively captures the non-linearity of the Phillips curve, as shown using cross-country data from major industrialized economies since 2009. The model demonstrates that at high unemployment, demand increases have limited inflationary effects, while at low unemployment, labor shortages amplify both inflationary pressures and the impact of supply shocks.</description>
     </item>
     <item>
-      <title>It’s Baaack: The Inflation Surge of 2020s and the Return of the Non-Linear Phillips Curve</title>
-      <link>http://localhost:1313/gauti_website/research/its-baaack_the-inflation-surge-of-2020s-and-the-return-of-the-non-linear-phillips-curve/</link>
-      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/gauti_website/research/its-baaack_the-inflation-surge-of-2020s-and-the-return-of-the-non-linear-phillips-curve/</guid>
-      <description>This paper introduces a non-linear New Keynesian Phillips curve (Inv-L NK Phillips Curve) to explain the inflation surge in the 2020s, using job vacancies relative to unemployed workers as a measure of economic slack. It argues that wage rigidity and labor market frictions create strong nonlinearities, suggesting that inflation can be reduced without a severe recession, with the recent surge largely driven by a labor shortage.</description>
-    </item>
-    <item>
       <title>Negative Nominal Interest Rates and the Bank Lending Channel</title>
       <link>http://localhost:1313/gauti_website/research/negative-nominal-interest-rates-and-the-bank-lending-channel/</link>
       <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
@@ -72,11 +67,9 @@ back mirror and the political landscape in the US has dramatically changed?&lt;/
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;Negative_interest_rates_and_the_bank_lending_channel__Revised.pdf&#34;&gt;Paper&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;https://ideas.repec.org/a/oup/restud/v91y2024i4p2201-2275..html&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;
 &lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.nber.org/papers/w25416&#34; target=&#34;_blank&#34;&gt;NBER&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;Negative_interest_rates_and_the_bank_lending_channel__Revised.pdf&#34;&gt;Local PDF&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
@@ -91,6 +84,13 @@ back mirror and the political landscape in the US has dramatically changed?&lt;/
       <description>The Fed’s substantial revisions to its monetary policy strategy in August 2020 and its forward guidance contributed to the largely unanticipated and most definitely unwelcome surge in inflation during the pandemic.</description>
     </item>
     <item>
+      <title>It’s Baaack: The Inflation Surge of 2020s and the Return of the Non-Linear Phillips Curve</title>
+      <link>http://localhost:1313/gauti_website/research/its-baaack_the-inflation-surge-of-2020s-and-the-return-of-the-non-linear-phillips-curve/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gauti_website/research/its-baaack_the-inflation-surge-of-2020s-and-the-return-of-the-non-linear-phillips-curve/</guid>
+      <description>This paper introduces a non-linear New Keynesian Phillips curve (Inv-L NK Phillips Curve) to explain the inflation surge in the 2020s, using job vacancies relative to unemployed workers as a measure of economic slack. It argues that wage rigidity and labor market frictions create strong nonlinearities, suggesting that inflation can be reduced without a severe recession, with the recent surge largely driven by a labor shortage.</description>
+    </item>
+    <item>
       <title>Time Consistency and the Duration of Government Debt: A Model of Quantitative Easing</title>
       <link>http://localhost:1313/gauti_website/research/time-consistency-and-the-duration-of-government-debt-a-model-of-quantitative-easing/</link>
       <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
@@ -98,7 +98,9 @@ back mirror and the political landscape in the US has dramatically changed?&lt;/
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;QEPaper_Final_Revision_2022.pdf&#34;&gt;Paper&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;https://ideas.repec.org/a/oup/restud/v90y2023i4p1759-1799..html&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;QEPaper_Final_Revision_2022.pdf&#34;&gt;Local PDF&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
@@ -109,10 +111,27 @@ government debt, is effective at the ZLB because it generates expectations of fu
 monetary expansion in a time-consistent equilibrium. Numerical experiments show that
 this effect can be substantial.&lt;/p&gt;
 &lt;hr&gt;
+&lt;h5 id=&#34;related-material&#34;&gt;Related material&lt;/h5&gt;
 &lt;hr&gt;
 &lt;h5 id=&#34;citation&#34;&gt;Citation&lt;/h5&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-BibTeX&#34; data-lang=&#34;BibTeX&#34;&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
-&lt;h5 id=&#34;related-material&#34;&gt;Related material&lt;/h5&gt;</description>
+&lt;p&gt;Saroj Bhattarai &amp;amp; Gauti B Eggertsson &amp;amp; Bulat Gafarov, 2023. &amp;ldquo;Time Consistency and Duration of Government Debt: A Model of Quantitative Easing,&amp;rdquo; The Review of Economic Studies, Review of Economic Studies Ltd, vol. 90(4), pages 1759-1799.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kaldor and Piketty’s Facts: The Rise of Monopoly Power in the United States</title>
+      <link>http://localhost:1313/gauti_website/research/kaldors-and-pikettys-facts-the-rise-of-monopoly-power-in-the-united-states/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gauti_website/research/kaldors-and-pikettys-facts-the-rise-of-monopoly-power-in-the-united-states/</guid>
+      <description>&lt;hr&gt;
+&lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ideas.repec.org/a/eee/moneco/v124y2021isps19-s38.html&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;Kaldor_project_JME.pdf&#34;&gt;Local PDF&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h5 id=&#34;abstract&#34;&gt;Abstract&lt;/h5&gt;
+&lt;p&gt;The macroeconomic data of the last fifty years have overturned at least two of Kaldor’s famous stylized growth facts: constant interest rates, and a constant labor share. At the same time, the research of Piketty and others has introduced several new and surprising facts: an increase in the financial wealth-to-output ratio in the US, an increase in measured Tobin’s Q, and a divergence between the marginal and average returns on capital. In this paper, we argue that these trends can be explained by an increase in market power and pure profits in the US economy—that is, the emergence of a non-zero-rent economy—along with forces that have led to a persistent long-term decline in real interest rates. We make three parsimonious modifications to the standard neoclassical model to explain these trends. Using recent estimates of the increase in markups and the decrease in real interest rates, we show that our model can quantitatively match these new stylized macroeconomic facts.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mr. Keynes and the Classics; A Suggested Reinterpretation</title>
@@ -122,7 +141,9 @@ this effect can be substantial.&lt;/p&gt;
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;Keynes_Classics_NBER.pdf&#34;&gt;Paper&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;https://ideas.repec.org/p/nbr/nberwo/29158.html&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;Keynes_Classics_NBER.pdf&#34;&gt;Local PDF&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
@@ -130,26 +151,55 @@ this effect can be substantial.&lt;/p&gt;
 &lt;p&gt;This paper revisits and proposes a resolution to an empirical and theoretical controversy between Keynes and the “classics” (or monetarists). The controversy dates to Keynes’s General Theory (1936)—most famously formalized in Hicks’s (1937) classic Econometrica article, in which the IS-LM model is first formally stated. We first replicate empirical tests formulated in the late 1960s and ’70s and show that more recent data have more statistical power and resolve the empirical debate in favor of the Keynesians, at least according to the criteria of the literature at that time. We then show, using a simple dynamic stochastic general equilibrium (DSGE) model, that the empirical tests suffer from the Lucas (1976) critique, as the conclusion fundamentally depends upon the assumed policy regime. Nevertheless, we argue, this new empirical result is useful: it provides evidence for the existence of a “Keynesian policy regime” according to which traditional monetary expansion loses its impact in the absence of a policy regime change, in the sense of Sargent (1982).&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Medium-Term Money Neutrality and the Effective Lower Bound</title>
-      <link>http://localhost:1313/gauti_website/research/medium-term-money-neutrality-and-the-effective-lower-bound/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/gauti_website/research/medium-term-money-neutrality-and-the-effective-lower-bound/</guid>
+      <title>A Toolkit for Solving Models with a Lower Bound on Interest Rates of Stochastic Duration</title>
+      <link>http://localhost:1313/gauti_website/research/a-toolkit-for-solving-models-with-a-lower-bound-on-interest-rates-of-stochastic-duration/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gauti_website/research/a-toolkit-for-solving-models-with-a-lower-bound-on-interest-rates-of-stochastic-duration/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;w27669.pdf&#34;&gt;Paper&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;https://ideas.repec.org/a/red/issued/20-47.html&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;ZLB_Toolkit.pdf&#34;&gt;Local PDF&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h5 id=&#34;abstract&#34;&gt;Abstract&lt;/h5&gt;
-&lt;p&gt;Conventional wisdom suggests that medium-term money neutrality imposes strong limitations on
-the effects of monetary policy. The point of this paper is that models with medium- and long-term
-money  neutrality  are  prone  to  generate  non-existence  of  equilibria  at  the  effective  lower  bound
-(ELB) on  interest  rates.  Non-existence  is  suggestive  of  sharp  output  contractions  &amp;mdash;  so-called
-contractionary  black  holes  &amp;mdash;  at  the  ELB.  Paradoxically,  the  case  for  expansionary  monetary
-policy  at  the  ELB  is  even  stronger  in  models  that  feature  near  money  neutrality.  The  results
-highlight  the  benefits  of  a  monetary  policy  regime  in  which  the  central  bank  temporarily
-overshoots its inflation target once confronted by the ELB.&lt;/p&gt;</description>
+&lt;p&gt;This paper presents a toolkit to solve for equilibrium in a computationally efficient way in economies facing the effective lower bound on the nominal interest rate under a special assumption about the underlying shock process, a two-state Markov process with an absorbing state. We illustrate the algorithm in the canonical New Keynesian model by replicating the optimal monetary policy in Eggertsson and Woodford (2003), and we show how the toolkit can be used to analyse the medium-scale dynamic stochastic general equilibrium model developed by the Federal Reserve Bank of New York. As an application, we show how various policy rules perform relative to the optimal commitment equilibrium. A key conclusion is that previously suggested strategies – such as price level targeting and nominal GDP targeting – do not perform well when there is a small drop in the price level, as observed during the Great Recession, because they do not imply a sufficiently strong commitment to low future interest rates (“make-up strategy”). We propose two new policy rules – the cumulative nominal GDP targeting rule and the symmetric dual-objective targeting rule – that are more robust. Had these policies been in place in 2008, they would have reduced the output contraction by approximately 80 percent. If the Federal Reserve had followed average inflation targeting – which arguably approximates the policy framework announced in August 2020 – the output contraction would have been roughly 25 percent smaller.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Medium-Term Money Neutrality and the Effective Lower Bound</title>
+      <link>http://localhost:1313/gauti_website/research/medium-term-money-neutrality-and-the-effective-lower-bound/</link>
+      <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gauti_website/research/medium-term-money-neutrality-and-the-effective-lower-bound/</guid>
+      <description>&lt;hr&gt;
+&lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ideas.repec.org/a/wly/jmoncb/v52y2020is2p561-600.html&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;w27669.pdf&#34;&gt;Local PDF&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h5 id=&#34;abstract&#34;&gt;Abstract&lt;/h5&gt;
+&lt;p&gt;Conventional wisdom suggests that medium‐term money neutrality imposes strong limitations on the effects of monetary policy. The point of this paper is that models with medium‐ and long‐term money neutrality are prone to generate nonexistence of equilibria at the effective lower bound (ELB) on interest rates. Nonexistence is suggestive of sharp output contractions—so‐called contractionary black holes—at the ELB. Paradoxically, the case for expansionary monetary policy at the ELB is even stronger in models that feature near money neutrality. The results highlight the benefits of a monetary policy regime in which the central bank temporarily overshoots its inflation target once confronted by the ELB.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dynamic Debt Deleveraging and Optimal Monetary Policy</title>
+      <link>http://localhost:1313/gauti_website/research/dynamic-debt-deleveraging-and-optimal-monetary-policy/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gauti_website/research/dynamic-debt-deleveraging-and-optimal-monetary-policy/</guid>
+      <description>&lt;hr&gt;
+&lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ideas.repec.org/p/nbr/nberwo/20556.html&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;OMPD-FINALE-250119.pdf&#34;&gt;Local PDF&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h5 id=&#34;abstract&#34;&gt;Abstract&lt;/h5&gt;
+&lt;p&gt;This paper studies optimal monetary policy under dynamic debt deleveraging once the zero bound is binding. Unlike the existing literature, the natural rate of interest is endogenous and depends on macroeconomic policy. Optimal monetary policy successfully raises the natural rate of interest by creating an environment that speeds up deleveraging, thus endogenously shortening the duration of the crisis and a binding zero bound. Inflation should be front loaded. Fiscal-policy multipliers can be even higher than in existing models, but depend on the way in which public spending is financed.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Log-linear Approximation versus an Exact Solution at the ZLB in the New Keynesian Model</title>
@@ -167,59 +217,6 @@ overshoots its inflation target once confronted by the ELB.&lt;/p&gt;</descripti
 &lt;hr&gt;
 &lt;h5 id=&#34;abstract&#34;&gt;Abstract&lt;/h5&gt;
 &lt;p&gt;How accurate is a log-linear approximation of the New Keynesian model when the nominal interest rate is bounded by zero? This paper compares the solution of the exact non-linear model to the log-linear approximation. It finds that the difference is modest. This applies even for extreme events in numerical experiments that replicate the U.S. Great Depression. The exact non-linear model makes the same predictions as the log-linear approximation for key policy questions such as the size and sign of government spending and tax multipliers. It also replicates well known paradoxes like the paradox of toil and the paradox of price flexibility. The paper also reconciles different findings reported in the literature using Calvo versus Rotemberg pricing.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dynamic Debt Deleveraging and Optimal Monetary Policy</title>
-      <link>http://localhost:1313/gauti_website/research/dynamic-debt-deleveraging-and-optimal-monetary-policy/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/gauti_website/research/dynamic-debt-deleveraging-and-optimal-monetary-policy/</guid>
-      <description>&lt;hr&gt;
-&lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;OMPD-FINALE-250119.pdf&#34;&gt;Paper&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h5 id=&#34;abstract&#34;&gt;Abstract&lt;/h5&gt;
-&lt;p&gt;This paper proposes a post-crisis New Keynesian model that incorporates agent heterogeneity in borrowing and lending with a minimum set of assumptions and complexity. Unlike the standard framework, this model makes the natural rate of interest endogenous, and dependent on macroeconomic policy. We establish microfoundations
-for debt deleveraging based both on the accumulation of excessive debt by households and leverage constraints on banks, showing that they are isomorphic and thus integrating two popular narratives for the crisis of 2008. The main application is to study optimal monetary policy at the zero lower bound (ZLB). Such policy succeeds in raising the natural rate of interest by creating an environment that speeds up deleveraging and thus endogenously shortens the crisis and the duration of binding ZLB. Inflation should be front-loaded and overshoot its long term target during the ZLB episode.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Toolkit for Solving Models with a Lower Bound on Interest Rates of Stochastic Duration</title>
-      <link>http://localhost:1313/gauti_website/research/a-toolkit-for-solving-models-with-a-lower-bound-on-interest-rates-of-stochastic-duration/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/gauti_website/research/a-toolkit-for-solving-models-with-a-lower-bound-on-interest-rates-of-stochastic-duration/</guid>
-      <description>&lt;hr&gt;
-&lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;ZLB_Toolkit.pdf&#34;&gt;Paper&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h5 id=&#34;abstract&#34;&gt;Abstract&lt;/h5&gt;
-&lt;p&gt;The macroeconomic data of the last thirty years has overturned at least two of Kaldor’s famous stylized growth facts: constant interest rates, and a constant labor share. At the same time, the research of Piketty and others has introduced several new and surprising facts: an increase in the financial wealth-to-output ratio in the US, an increase in measured Tobin’s Q, and a divergence between the marginal and the average return on capital. In this paper, we argue that these trends can be explained by an increase in market power and pure profits in the US economy, i.e., the emergence of a non-zero-rent economy, along with forces that have led to a persistent long term decline in real interest rates. We make three parsimonious modifications to the standard neoclassical model to explain these trends. Using recent estimates of the increase in markups and the decrease in real interest rates, we show that our model can quantitatively match these new stylized macroeconomic facts.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Kaldor and Piketty’s Facts: The Rise of Monopoly Power in the United States</title>
-      <link>http://localhost:1313/gauti_website/research/kaldors-and-pikettys-facts-the-rise-of-monopoly-power-in-the-united-states/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/gauti_website/research/kaldors-and-pikettys-facts-the-rise-of-monopoly-power-in-the-united-states/</guid>
-      <description>&lt;hr&gt;
-&lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;Kaldor_project_JME.pdf&#34;&gt;Paper&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.nber.org/papers/w24287&#34; target=&#34;_blank&#34;&gt;NBER&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h5 id=&#34;abstract&#34;&gt;Abstract&lt;/h5&gt;
-&lt;p&gt;The macroeconomic data of the last fifty years have overturned at least two of Kaldor’s famous stylized
-growth facts: constant interest rates, and a constant labor share. At the same time, the research of&lt;/p&gt;
-&lt;p&gt;Piketty and others has introduced several new and surprising facts: an increase in the financial wealth-
-to-output ratio in the US, an increase in measured Tobin’s Q, and a divergence between the marginal and&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Contagious Malady? Open Economy Dimensions of Secular Stagnation</title>

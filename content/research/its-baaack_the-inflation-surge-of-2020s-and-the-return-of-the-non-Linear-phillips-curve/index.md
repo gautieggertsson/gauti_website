@@ -1,6 +1,6 @@
 ---
 title: "It’s Baaack: The Inflation Surge of 2020s and the Return of the Non-Linear Phillips Curve" 
-date: 2023-12-10
+date: 2023-04-26
 lastmod: 
 tags: 
 author: ["Pierpaolo Benigno", "Gauti B. Eggertsson"]
@@ -9,17 +9,16 @@ cover:
     alt: "It’s Baaack: The Inflation Surge of 2020s and the Return of the Non-Linear Phillips Curve"
     relative: false
 editPost:
-    URL: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4433876"
-    Text: "National Bureau of Economic Research"
+    URL: "https://www.nber.org/papers/w31197"
+    Text: "NBER 31197"
 #draft: true
 excludeFromResearch: true
 ---
 
 ##### Download
 
-+ [Paper](Eggertsson_Kohn.pdf)
-+ [Online appendix]
-+ [Code and data]
++ [Paper](https://ideas.repec.org/p/cpr/ceprdp/18116.html)
++ [Local PDF](Benigno_Eggertsson_NBER_Update.pdf)
 
 ---
 
@@ -29,15 +28,19 @@ This paper proposes a non-linear New Keynesian Phillips curve (Inv-L NK Phillips
 
 ---
 
+##### Related material
+
 ---
 
 ##### Citation
 
+Benigno, P., & Eggertsson, G. B. (2023). It’s baaack: The surge in inflation in the 2020s and the return of the non-linear phillips curve (No. w31197). National Bureau of Economic Research.
 
 ```BibTeX
-
+@techreport{benigno2023s,
+  title={It’s baaack: The surge in inflation in the 2020s and the return of the non-linear phillips curve},
+  author={Benigno, Pierpaolo and Eggertsson, Gauti B},
+  year={2023},
+  institution={National Bureau of Economic Research}
+}
 ```
-
----
-
-##### Related material
