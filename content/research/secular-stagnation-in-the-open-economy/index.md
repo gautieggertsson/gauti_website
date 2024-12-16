@@ -19,8 +19,8 @@ excludeFromResearch: true
 
 ##### Download
 
-+ [IDEAS](https://ideas.repec.org/a/aea/aecrev/v106y2016i5p503-07.html)
-+ [Paper](AER-P&PEggMehrSumm.pdf)
++ [Paper](https://ideas.repec.org/a/aea/aecrev/v106y2016i5p503-07.html)
++ [Local PDF](AER-P&PEggMehrSumm.pdf)
 
 ---
 
@@ -29,15 +29,22 @@ Conditions of secular stagnation--low interest rates, below target inflation, an
 
 ---
 
+##### Related material
+
 ---
 
 ##### Citation
-
+Gauti B. Eggertsson & Neil R. Mehrotra & Lawrence H. Summers, 2016. "Secular Stagnation in the Open Economy," American Economic Review, American Economic Association, vol. 106(5), pages 503-507, May.
 
 ```BibTeX
-
+@article{eggertsson2016secular,
+  title={Secular stagnation in the open economy},
+  author={Eggertsson, Gauti B and Mehrotra, Neil R and Summers, Lawrence H},
+  journal={American Economic Review},
+  volume={106},
+  number={5},
+  pages={503--507},
+  year={2016},
+  publisher={American Economic Association 2014 Broadway, Suite 305, Nashville, TN 37203}
+}
 ```
-
----
-
-##### Related material

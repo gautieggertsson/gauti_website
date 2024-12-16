@@ -19,8 +19,8 @@ excludeFromResearch: true
 
 ##### Download
 
-+ [IDEAS](https://ideas.repec.org/a/ime/imemes/v24ydecemberis1p151-190.html)
-+ [Paper](Eggertsson_1108.pdf)
++ [Paper](https://ideas.repec.org/a/ime/imemes/v24ydecemberis1p151-190.html)
++ [Local PDF](Eggertsson_1108.pdf)
 
 ---
 
@@ -29,15 +29,18 @@ This paper studies a dynamic stochastic general equilibrium model with sticky pr
 
 ---
 
+##### Related material
+
 ---
 
 ##### Citation
-
+Gauti B. Eggertsson & Benjamin Pugsley, 2006. "The Mistake of 1937: A General Equilibrium Analysis," Monetary and Economic Studies, Institute for Monetary and Economic Studies, Bank of Japan, vol. 24(S1), pages 151-190, December.
 
 ```BibTeX
-
+@techreport{eggertsson2006mistake,
+  title={The mistake of 1931: A general equilibrium analysis},
+  author={Eggertsson, Gauti B and Pugsley, Benjamin},
+  year={2006},
+  institution={CFS Working Paper}
+}
 ```
-
----
-
-##### Related material

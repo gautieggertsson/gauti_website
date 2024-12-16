@@ -7,7 +7,7 @@ author: ["Gauti B. Eggertsson", "Michael Woodford"]
 description: 
 summary:
 editPost:
-    URL: " "
+    URL: "https://ideas.repec.org/h/nbr/nberch/0076.html"
     Text: "NBER Chapters, in: NBER International Seminar on Macroeconomics 2004"
 #draft: false
 #hidden: false
@@ -19,8 +19,8 @@ excludeFromResearch: true
 
 ##### Download
 
-+ [IDEAS](https://ideas.repec.org/h/nbr/nberch/0076.html)
-+ [Paper](EggertssonWoodford2004.pdf)
++ [Paper](https://ideas.repec.org/h/nbr/nberch/0076.html)
++ [Local PDF](EggertssonWoodford2004.pdf)
 
 ---
 
@@ -29,15 +29,22 @@ In previous work (Eggertsson and Woodford, 2003), we characterized the optimal c
 
 ---
 
+##### Related material
+
 ---
 
 ##### Citation
-
+Gauti B. Eggertsson & Michael Woodford, 2006. "Optimal Monetary and Fiscal Policy in a Liquidity Trap," NBER Chapters, in: NBER International Seminar on Macroeconomics 2004, pages 75-144, National Bureau of Economic Research, Inc.
 
 ```BibTeX
-
+@inproceedings{eggertsson2004optimal,
+  title={Optimal Monetary and Fiscal Policy in a Liquidity Trap [with Comments]},
+  author={Eggertsson, Gauti B and Woodford, Michael and Einarsson, Tor and Leeper, Eric M},
+  booktitle={NBER international seminar on macroeconomics},
+  volume={2004},
+  number={1},
+  pages={75--144},
+  year={2004},
+  organization={The University of Chicago Press Chicago, IL}
+}
 ```
-
----
-
-##### Related material

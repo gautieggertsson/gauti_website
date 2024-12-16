@@ -19,8 +19,8 @@ excludeFromResearch: true
 
 ##### Download
 
-+ [IDEAS](https://ideas.repec.org/a/ecj/econjl/vy2013ip133-163.html)
-+ [Paper](EJ.pdf)
++ [Paper](https://ideas.repec.org/a/ecj/econjl/vy2013ip133-163.html)
++ [Local PDF](EJ.pdf)
 
 ---
 
@@ -29,15 +29,21 @@ Cutting government spending on goods and services increases the budget deficit i
 
 ---
 
+##### Related material
 ---
 
 ##### Citation
-
+Matthew Denes & Gauti B. Eggertsson & Sophia Gilbukh, 2013. "Deficits, Public Debt Dynamics and Tax and Spending Multipliers," Economic Journal, Royal Economic Society, vol. 0, pages 133-163, February.
 
 ```BibTeX
-
+@article{denes2013deficits,
+  title={Deficits, public debt dynamics and tax and spending multipliers},
+  author={Denes, Matthew and Eggertsson, Gauti B and Gilbukh, Sophia},
+  journal={The Economic Journal},
+  volume={123},
+  number={566},
+  pages={F133--F163},
+  year={2013},
+  publisher={Oxford University Press Oxford, UK}
+}
 ```
-
----
-
-##### Related material

@@ -1,14 +1,14 @@
 ---
 title: "Aging, Output Per Capita and Secular Stagnation" 
-date: 
+date: 2019-12-03
 lastmod:
 tags:
 author: ["Gauti B. Eggertsson", "Manuel Lancastre", "Lawrence H. Summers"]
 description: 
 summary:
 editPost:
-    URL: "https://www.nber.org/papers/w24902"
-    Text: "NBER"
+    URL: "https://www.aeaweb.org/articles?id=10.1257/aeri.20180383"
+    Text: "American Economic Review: Insights"
 #draft: false
 #hidden: false
 excludeFromResearch: true
@@ -19,7 +19,8 @@ excludeFromResearch: true
 
 ##### Download
 
-+ [Paper](w24906.pdf)
++ [Paper](https://ideas.repec.org/p/nbr/nberwo/24902.html)
++ [Local PDF](w24902.pdf) 
 
 ---
 
@@ -28,15 +29,22 @@ This paper re-examines the relationship between population aging and economic gr
 
 ---
 
+##### Related material
+
 ---
 
 ##### Citation
-
+Gauti B. Eggertsson & Manuel Lancastre & Lawrence H. Summers, 2018. "Aging, Output Per Capita and Secular Stagnation," NBER Working Papers 24902, National Bureau of Economic Research, Inc.
 
 ```BibTeX
-
+@article{eggertsson2019aging,
+  title={Aging, output per capita, and secular stagnation},
+  author={Eggertsson, Gauti B and Lancastre, Manuel and Summers, Lawrence H},
+  journal={American Economic Review: Insights},
+  volume={1},
+  number={3},
+  pages={325--342},
+  year={2019},
+  publisher={American Economic Association 2014 Broadway, Suite 305, Nashville, TN 37203}
+}
 ```
-
----
-
-##### Related material

@@ -1,14 +1,14 @@
 ---
 title: "The Rise, Fall, and Resurrection  of Iceland: A Postmortem Analysis  of the 2008 Financial Crisis" 
-date: 
+date: 2017-09-07
 lastmod:
 tags:
 author: ["Gauti B. Eggertsson", "Sigríður Benediktsdóttir", "Eggert Þórarinsson"]
 description: 
 summary:
 editPost:
-    URL: ""
-    Text: ""
+    URL: "https://www.jstor.org/stable/90019458"
+    Text: "Brookings Papers on Economic Activity"
 #draft: false
 #hidden: false
 excludeFromResearch: true
@@ -19,7 +19,8 @@ excludeFromResearch: true
 
 ##### Download
 
-+ [Paper](benediktsdottirtextfa17bpea.pdf)
++ [Paper](https://ideas.repec.org/a/bin/bpeajo/v48y2017i2017-02p191-308.html)
++ [Local PDF](benediktsdottirtextfa17bpea.pdf)
 
 ---
 
@@ -28,15 +29,18 @@ This paper documents how the Icelandic banking system grew from 100 percent of G
 
 ---
 
+##### Related material
+
 ---
 
 ##### Citation
-
+Sigríður Benediktsdóttir & Gauti Bergþóruson Eggertsson & Eggert Þórarinsson, 2017. "The Rise, Fall, and Resurrection of Iceland: A Postmortem Analysis of the 2008 Financial Crisis," Brookings Papers on Economic Activity, Economic Studies Program, The Brookings Institution, vol. 48(2 (Fall)), pages 191-308.
 
 ```BibTeX
-
+@article{benediktsdottir2017rise,
+  title={The Rise, Fall, and Resurrection of Iceland: A Postmortem Analysis of the 2008 Financial Crisis},
+  author={Benediktsd{\'o}ttir, Sigri{\dh}ur and Eggertsson, Gauti B and Th{\'o}rarinsson, Eggert},
+  year={2017},
+  publisher={Brookings Institution}
+}
 ```
-
----
-
-##### Related material

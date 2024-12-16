@@ -1,14 +1,14 @@
 ---
 title: "Is Increased Price Flexibility Stabilizing? Redux" 
-date: 
+date: 2018-12-15
 lastmod:
 tags:
-author: ["Gauti B. Eggertsson", ""]
+author: ["Gauti B. Eggertsson", "Saroj Bhattarai", "Raphael Schoenle"]
 description: 
 summary:
 editPost:
-    URL: ""
-    Text: ""
+    URL: "https://www.sciencedirect.com/science/article/abs/pii/S0304393218303829"
+    Text: "Journal of Monetary Economics"
 #draft: false
 #hidden: false
 excludeFromResearch: true
@@ -19,8 +19,8 @@ excludeFromResearch: true
 
 ##### Download
 
-+ [IDEAS](https://ideas.repec.org/p/nbr/nberwo/19886.html)
-+ [Paper](PriceFlex.pdf)
++ [Paper](https://ideas.repec.org/p/nbr/nberwo/19886.html)
++ [Local PDF](PriceFlex.pdf)
 
 ---
 
@@ -36,15 +36,21 @@ simple model continue to apply.
 
 ---
 
+##### Related material
+
 ---
 
 ##### Citation
-
+Bhattarai, Saroj & Eggertsson, Gauti B. & Schoenle, Raphael, 2018. "Is increased price flexibility stabilizing? Redux," Journal of Monetary Economics, Elsevier, vol. 100(C), pages 66-82.
 
 ```BibTeX
-
+@article{bhattarai2018increased,
+  title={Is increased price flexibility stabilizing? Redux},
+  author={Bhattarai, Saroj and Eggertsson, Gauti B and Schoenle, Raphael},
+  journal={Journal of Monetary Economics},
+  volume={100},
+  pages={66--82},
+  year={2018},
+  publisher={Elsevier}
+}
 ```
-
----
-
-##### Related material

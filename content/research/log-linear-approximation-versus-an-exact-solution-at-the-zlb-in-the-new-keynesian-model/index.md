@@ -19,8 +19,8 @@ excludeFromResearch: true
 
 ##### Download
 
-+ [IDEAS](https://ideas.repec.org/p/nbr/nberwo/22784.html)
-+ [Paper](LogLin.pdf)
++ [Paper](https://ideas.repec.org/p/nbr/nberwo/22784.html)
++ [Local PDF](LogLin.pdf)
 
 ---
 
@@ -29,15 +29,21 @@ How accurate is a log-linear approximation of the New Keynesian model when the n
 
 ---
 
+##### Related material
+
 ---
 
 ##### Citation
-
+Eggertsson, Gauti B. & Singh, Sanjay R., 2019. "Log-linear approximation versus an exact solution at the ZLB in the New Keynesian model," Journal of Economic Dynamics and Control, Elsevier, vol. 105(C), pages 21-43.
 
 ```BibTeX
-
+@article{eggertsson2019log,
+  title={Log-linear Approximation versus an Exact Solution at the ZLB in the New Keynesian Model},
+  author={Eggertsson, Gauti B and Singh, Sanjay R},
+  journal={Journal of Economic Dynamics and Control},
+  volume={105},
+  pages={21--43},
+  year={2019},
+  publisher={Elsevier}
+}
 ```
-
----
-
-##### Related material

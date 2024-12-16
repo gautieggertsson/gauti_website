@@ -1,9 +1,9 @@
 ---
-title: "Can structural reforms help Europe?" 
+title: "Can Structural Reforms Help Europe?" 
 date: 2014-01-01
 lastmod:
 tags:
-author: ["Gauti B. Eggertsson", " Andrea Ferrero", "Andrea Raffo"]
+author: ["Gauti B. Eggertsson", "Andrea Ferrero", "Andrea Raffo"]
 description: 
 summary:
 editPost:
@@ -19,8 +19,8 @@ excludeFromResearch: true
 
 ##### Download
 
-+ [IDEAS](https://ideas.repec.org/a/eee/moneco/v61y2014icp2-22.html)
-+ [Paper](JME.pdf)
++ [Paper](https://ideas.repec.org/a/eee/moneco/v61y2014icp2-22.html)
++ [Local PDF](JME.pdf)
 
 ---
 
@@ -29,15 +29,21 @@ Structural reforms that increase competition in product and labor markets are of
 
 ---
 
+##### Related material
+
 ---
 
 ##### Citation
-
+Eggertsson, Gauti & Ferrero, Andrea & Raffo, Andrea, 2014. "Can structural reforms help Europe?," Journal of Monetary Economics, Elsevier, vol. 61(C), pages 2-22.
 
 ```BibTeX
-
+@article{eggertsson2014can,
+  title={Can structural reforms help Europe?},
+  author={Eggertsson, Gauti and Ferrero, Andrea and Raffo, Andrea},
+  journal={Journal of Monetary Economics},
+  volume={61},
+  pages={2--22},
+  year={2014},
+  publisher={Elsevier}
+}
 ```
-
----
-
-##### Related material

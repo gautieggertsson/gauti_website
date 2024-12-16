@@ -1,6 +1,6 @@
 ---
 title: "The Great Escape? A Quantitative Evaluation of the Fed's Liquidity Facilities" 
-date: 
+date: 2017-03-15
 lastmod:
 tags:
 author: ["Gauti B. Eggertsson", "Marco Del Negro", "Andrea Ferrero", "Nobuhiro Kiyotaki"]
@@ -15,12 +15,14 @@ excludeFromResearch: true
 
 ---
 
+##### Related material
+
 ---
 
 ##### Download
 
-+ [IDEAS](https://ideas.repec.org/a/aea/aecrev/v107y2017i3p824-57.html)
-+ [Paper](AER-DEFK.pdf)
++ [Paper](https://ideas.repec.org/a/aea/aecrev/v107y2017i3p824-57.html)
++ [Local PDF](AER-DEFK.pdf)
 
 ---
 
@@ -29,15 +31,22 @@ We introduce liquidity frictions into an otherwise standard DSGE model with nomi
 
 ---
 
+##### Related material
+
 ---
 
 ##### Citation
-
+Marco Del Negro & Gauti Eggertsson & Andrea Ferrero & Nobuhiro Kiyotaki, 2017. "The Great Escape? A Quantitative Evaluation of the Fed's Liquidity Facilities," American Economic Review, American Economic Association, vol. 107(3), pages 824-857, March.
 
 ```BibTeX
-
+@article{del2017great,
+  title={The great escape? A quantitative evaluation of the Fed's liquidity facilities},
+  author={Del Negro, Marco and Eggertsson, Gauti and Ferrero, Andrea and Kiyotaki, Nobuhiro},
+  journal={American Economic Review},
+  volume={107},
+  number={3},
+  pages={824--857},
+  year={2017},
+  publisher={American Economic Association 2014 Broadway, Suite 305, Nashville, TN 37203}
+}
 ```
-
----
-
-##### Related material

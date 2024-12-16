@@ -19,8 +19,8 @@ excludeFromResearch: true
 
 ##### Download
 
-+ [IDEAS](https://ideas.repec.org/a/mcb/jmoncb/v42y2010i4p647-677.html)
-+ [Paper](JMCB_EggLeB.pdf)
++ [Paper](https://ideas.repec.org/a/mcb/jmoncb/v42y2010i4p647-677.html)
++ [Local PDF](JMCB_EggLeB.pdf)
 
 ---
 
@@ -29,15 +29,21 @@ We propose a simple theory to explain why, and under what circumstances, a polit
 
 ---
 
+##### Related material
+
 ---
 
 ##### Citation
-
+Gauti B. Eggertsson & Eric Le Borgne, 2010. "A Political Agency Theory of Central Bank Independence," Journal of Money, Credit and Banking, Blackwell Publishing, vol. 42(4), pages 647-677, June.
 
 ```BibTeX
-
+@article{eggertsson2010political,
+author = {EGGERTSSON, GAUTI B. and LE BORGNE, ERIC},
+title = {A Political Agency Theory of Central Bank Independence},
+journal = {Journal of Money, Credit and Banking},
+volume = {42},
+number = {4},
+pages = {647-677},
+year = {2010}
+}
 ```
-
----
-
-##### Related material

@@ -1,13 +1,13 @@
 ---
 title: "Fiscal Multipliers and Policy Coordination" 
-date: 2013-02-01 #ath hvort manudurinn se rettur
+date: 2013-10-01 #ath hvort manudurinn se rettur
 lastmod:
 tags:
 author: ["Gauti B. Eggertsson"]
 description: 
 summary:
 editPost:
-    URL: ""
+    URL: "https://repositoriodigital.bcentral.cl/xmlui/handle/20.500.12580/3892?locale-attribute=en"
     Text: "Central Banking, Analysis, and Economic Policies Book Series"
 #draft: false
 #hidden: false
@@ -19,8 +19,8 @@ excludeFromResearch: true
 
 ##### Download
 
-+ [IDEAS](https://ideas.repec.org/h/chb/bcchsb/v17c06pp175-234.html)
-+ [Paper](EggertssonChile.pdf)
++ [Paper](https://ideas.repec.org/h/chb/bcchsb/v17c06pp175-234.html)
++ [Local PDF](EggertssonChile.pdf)
 
 ---
 
@@ -29,15 +29,18 @@ This paper analyzes the effectiveness of fiscal policy at zero nominal interest 
 
 ---
 
+##### Related material
+
 ---
 
 ##### Citation
-
+Gauti B. Eggertsson, 2013. "Fiscal Multipliers and Policy Coordination," Central Banking, Analysis, and Economic Policies Book Series, in: Luis Felipe Céspedes & Jordi Galí (ed.),Fiscal Policy and Macroeconomic Performance, edition 1, volume 17, chapter 6, pages 175-234, Central Bank of Chile.
 
 ```BibTeX
-
+@article{eggertsson2013fiscal,
+  title={Fiscal multipliers and policy coordination},
+  author={Eggertsson, Gauti B},
+  year={2013},
+  publisher={Series on Central Banking Analysis and Economic Policies no. 17}
+}
 ```
-
----
-
-##### Related material

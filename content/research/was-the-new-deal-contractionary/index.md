@@ -19,9 +19,8 @@ excludeFromResearch: true
 
 ##### Download
 
-+ [IDEAS](https://ideas.repec.org/a/aea/aecrev/v102y2012i1p524-55.html)
-+ [Paper](eggertsson-2012-was-the-new-deal-contractionary.pdf)
-+ [Web Appendix]()
++ [Paper](https://ideas.repec.org/a/aea/aecrev/v102y2012i1p524-55.html)
++ [Local PDF](eggertsson-2012-was-the-new-deal-contractionary.pdf)
 
 ---
 
@@ -30,15 +29,21 @@ Can government policies that increase the monopoly power of firms and the milita
 
 ---
 
+##### Related material
 ---
 
 ##### Citation
-
+Gauti B. Eggertsson, 2012. "Was the New Deal Contractionary?," American Economic Review, American Economic Association, vol. 102(1), pages 524-555, February.
 
 ```BibTeX
-
+@article{eggertsson2012new,
+  title={Was the new deal contractionary?},
+  author={Eggertsson, Gauti B},
+  journal={American Economic Review},
+  volume={102},
+  number={1},
+  pages={524--555},
+  year={2012},
+  publisher={American Economic Association}
+}
 ```
-
----
-
-##### Related material

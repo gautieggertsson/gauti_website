@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Gauti B. Eggertsson</title>
-    <link>http://localhost:1313/gauti_website/tags/</link>
+    <link>https://emildags.github.io/gauti_website/tags/</link>
     <description>Recent content in Tags on Gauti B. Eggertsson</description>
     <generator>Hugo -- 0.136.5</generator>
     <language>en</language>
     <lastBuildDate>Mon, 04 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/gauti_website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://emildags.github.io/gauti_website/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Business Cycles</title>
-      <link>http://localhost:1313/gauti_website/tags/business-cycles/</link>
+      <link>https://emildags.github.io/gauti_website/tags/business-cycles/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/gauti_website/tags/business-cycles/</guid>
+      <guid>https://emildags.github.io/gauti_website/tags/business-cycles/</guid>
       <description></description>
     </item>
     <item>
       <title>Macroeconomic Models</title>
-      <link>http://localhost:1313/gauti_website/tags/macroeconomic-models/</link>
+      <link>https://emildags.github.io/gauti_website/tags/macroeconomic-models/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/gauti_website/tags/macroeconomic-models/</guid>
+      <guid>https://emildags.github.io/gauti_website/tags/macroeconomic-models/</guid>
       <description></description>
     </item>
     <item>
       <title>Macroeconomics</title>
-      <link>http://localhost:1313/gauti_website/tags/macroeconomics/</link>
+      <link>https://emildags.github.io/gauti_website/tags/macroeconomics/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/gauti_website/tags/macroeconomics/</guid>
+      <guid>https://emildags.github.io/gauti_website/tags/macroeconomics/</guid>
       <description></description>
     </item>
     <item>
       <title>Money and Interest Rates</title>
-      <link>http://localhost:1313/gauti_website/tags/money-and-interest-rates/</link>
+      <link>https://emildags.github.io/gauti_website/tags/money-and-interest-rates/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/gauti_website/tags/money-and-interest-rates/</guid>
+      <guid>https://emildags.github.io/gauti_website/tags/money-and-interest-rates/</guid>
       <description></description>
     </item>
     <item>
       <title>Irregular Verbs</title>
-      <link>http://localhost:1313/gauti_website/tags/irregular-verbs/</link>
+      <link>https://emildags.github.io/gauti_website/tags/irregular-verbs/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/gauti_website/tags/irregular-verbs/</guid>
+      <guid>https://emildags.github.io/gauti_website/tags/irregular-verbs/</guid>
       <description></description>
     </item>
     <item>
       <title>Philology</title>
-      <link>http://localhost:1313/gauti_website/tags/philology/</link>
+      <link>https://emildags.github.io/gauti_website/tags/philology/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/gauti_website/tags/philology/</guid>
+      <guid>https://emildags.github.io/gauti_website/tags/philology/</guid>
       <description></description>
     </item>
     <item>
       <title>Portugese</title>
-      <link>http://localhost:1313/gauti_website/tags/portugese/</link>
+      <link>https://emildags.github.io/gauti_website/tags/portugese/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/gauti_website/tags/portugese/</guid>
+      <guid>https://emildags.github.io/gauti_website/tags/portugese/</guid>
       <description></description>
     </item>
   </channel>

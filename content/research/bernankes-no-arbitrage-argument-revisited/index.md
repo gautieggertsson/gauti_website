@@ -8,19 +8,21 @@ description:
 summary:
 editPost:
     URL: "https://www.nber.org/papers/w22243"
-    Text: "NBER"
+    Text: "NBER w22243"
 #draft: false
 #hidden: false
 excludeFromResearch: true
 
 ---
 
+##### Related material
+
 ---
 
 ##### Download
 
-+ [IDEAS](https://ideas.repec.org/p/nbr/nberwo/22243.html)
-+ [Paper](ChileEggProuxl.pdf)
++ [Paper](https://ideas.repec.org/p/nbr/nberwo/22243.html)
++ [Local PDF](ChileEggProuxl.pdf)
 
 ---
 
@@ -32,12 +34,13 @@ We first show that, at least in theory, open market operations in real assets ca
 ---
 
 ##### Citation
-
+Gauti B. Eggertsson & Kevin Proulx, 2016. "Bernanke's No-arbitrage Argument Revisited: Can Open Market Operations in Real Assets Eliminate the Liquidity Trap?," NBER Working Papers 22243, National Bureau of Economic Research, Inc.
 
 ```BibTeX
-
+@techreport{eggertsson2016bernanke,
+  title={Bernanke's no-arbitrage argument revisited: can open market operations in real assets eliminate the liquidity trap?},
+  author={Eggertsson, Gauti B and Proulx, Kevin},
+  year={2016},
+  institution={National Bureau of Economic Research}
+}
 ```
-
----
-
-##### Related material

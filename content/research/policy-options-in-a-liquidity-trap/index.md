@@ -19,8 +19,8 @@ excludeFromResearch: true
 
 ##### Download
 
-+ [IDEAS](https://ideas.repec.org/a/aea/aecrev/v94y2004i2p76-79.html)
-+ [Paper](EggertssonWoodfordAER.pdf)
++ [Paper](https://ideas.repec.org/a/aea/aecrev/v94y2004i2p76-79.html)
++ [Local PDF](EggertssonWoodfordAER.pdf)
 
 ---
 
@@ -29,15 +29,22 @@ No abstract is available for this item.
 
 ---
 
+##### Related material
+
 ---
 
 ##### Citation
-
+Gauti B. Eggertsson & Michael Woodford, 2004. "Policy Options in a Liquidity Trap," American Economic Review, American Economic Association, vol. 94(2), pages 76-79, May.
 
 ```BibTeX
-
+@article{eggertsson2004policy,
+  title={Policy options in a liquidity trap},
+  author={Eggertsson, Gauti B and Woodford, Michael},
+  journal={American Economic Review},
+  volume={94},
+  number={2},
+  pages={76--79},
+  year={2004},
+  publisher={American Economic Association}
+}
 ```
-
----
-
-##### Related material

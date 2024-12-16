@@ -19,8 +19,8 @@ excludeFromResearch: true
 
 ##### Download
 
-+ [IDEAS](https://ideas.repec.org/a/oup/qjecon/v127y2012i3p1469-1513.html)
-+ [Paper](Eggertsson_Krugman_2012.pdf)
++ [Paper](https://ideas.repec.org/a/oup/qjecon/v127y2012i3p1469-1513.html)
++ [Local PDF](Eggertsson_Krugman_2012.pdf)
 + [Web Appendix](https://drive.google.com/file/d/0BxVZWdXdGQH8azYxckkzSEUwMWc/view?resourcekey=0-jhNM4bVjb5tVDHdIaoEbRg)
 
 ---
@@ -30,15 +30,22 @@ In this article we present a simple new Keynesian--style model of debt-driven sl
 
 ---
 
+##### Related material
+
 ---
 
 ##### Citation
-
+Gauti B. Eggertsson & Paul Krugman, 2012. "Debt, Deleveraging, and the Liquidity Trap: A Fisher-Minsky-Koo Approach," The Quarterly Journal of Economics, President and Fellows of Harvard College, vol. 127(3), pages 1469-1513.
 
 ```BibTeX
-
+@article{eggertsson2012debt,
+  title={Debt, deleveraging, and the liquidity trap: A Fisher-Minsky-Koo approach},
+  author={Eggertsson, Gauti B and Krugman, Paul},
+  journal={The Quarterly Journal of Economics},
+  volume={127},
+  number={3},
+  pages={1469--1513},
+  year={2012},
+  publisher={MIT Press}
+}
 ```
-
----
-
-##### Related material

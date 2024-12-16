@@ -1,6 +1,6 @@
 ---
 title: "A Contagious Malady? Open Economy Dimensions of Secular Stagnation" 
-date:  2016-06-01
+date:  2016-11-01
 lastmod:
 tags:
 author: ["Gauti B. Eggertsson", "Neil R. Mehrotra", "Sanjay R. Singh", "Lawrence H. Summers"]
@@ -15,12 +15,14 @@ excludeFromResearch: true
 
 ---
 
+##### Related material
+
 ---
 
 ##### Download
 
-+ [IDEAS](https://ideas.repec.org/a/pal/imfecr/v64y2016i4d10.1057_s41308-016-0019-8.html)
-+ [Paper](EMSS.pdf)
++ [Paper](https://ideas.repec.org/a/pal/imfecr/v64y2016i4d10.1057_s41308-016-0019-8.html)
++ [Local PDF](EMSS.pdf)
 
 ---
 
@@ -32,12 +34,13 @@ Conditions of secular stagnation—low interest rates, below target inflation, a
 ---
 
 ##### Citation
-
+Gauti B. Eggertsson & Neil R. Mehrotra & Sanjay R. Singh & Lawrence H. Summers, 2016. "A Contagious Malady? Open Economy Dimensions of Secular Stagnation," IMF Economic Review, Palgrave Macmillan;International Monetary Fund, vol. 64(4), pages 581-634, November.
 
 ```BibTeX
-
+@techreport{eggertsson2016contagious,
+  title={A contagious malady? Open economy dimensions of secular stagnation},
+  author={Eggertsson, Gauti B and Mehrotra, Neil R and Singh, Sanjay R and Summers, Lawrence H},
+  year={2016},
+  institution={National Bureau of Economic Research}
+}
 ```
-
----
-
-##### Related material

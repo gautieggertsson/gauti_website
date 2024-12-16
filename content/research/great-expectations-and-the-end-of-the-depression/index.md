@@ -7,20 +7,22 @@ author: ["Gauti B. Eggertsson"]
 description: 
 summary:
 editPost:
-    URL: ""
-    Text: ""
+    URL: "https://www.aeaweb.org/articles?id=10.1257/aer.98.4.1476"
+    Text: "American Economic Review"
 #draft: false
 #hidden: false
 excludeFromResearch: true
 
 ---
 
+##### Related material
+
 ---
 
 ##### Download
 
-+ [IDEAS](https://ideas.repec.org/a/aea/aecrev/v98y2008i4p1476-1516.html)
-+ [Paper](Great_Exp_AER.pdf)
++ [Paper](https://ideas.repec.org/a/aea/aecrev/v98y2008i4p1476-1516.html)
++ [Local PDF](Great_Exp_AER.pdf)
 
 ---
 
@@ -32,12 +34,17 @@ This paper suggests that the US recovery from the Great Depression was driven by
 ---
 
 ##### Citation
-
+Eggertsson, Gauti B. 2008. "Great Expectations and the End of the Depression." American Economic Review, 98 (4): 1476–1516.
 
 ```BibTeX
-
+@article{eggertsson2008great,
+  title={Great Expectations and the End of the Depression},
+  author={Eggertsson, Gauti B},
+  journal={American Economic Review},
+  volume={98},
+  number={4},
+  pages={1476--1516},
+  year={2008},
+  publisher={American Economic Association}
+}
 ```
-
----
-
-##### Related material
