@@ -30,6 +30,12 @@ This paper presents a toolkit to solve for equilibrium in a computationally effi
 
 ##### Related material
 
++ [VoxEu Column](https://cepr.org/voxeu/columns/feds-new-policy-framework-major-improvement-more-can-be-done)
+
++ [Codes via GitHub](https://github.com/gautieggertsson/2-state-toolkit)
+
++ [Replication Files](/gauti_website/data/2-state-toolkit-master.zip)
+
 ---
 
 ##### Citation

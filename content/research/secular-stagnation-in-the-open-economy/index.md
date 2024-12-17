@@ -31,6 +31,11 @@ Conditions of secular stagnation--low interest rates, below target inflation, an
 
 ##### Related material
 
++ [WSJ Real Time Economics Blog](https://www.wsj.com/articles/BL-REB-35457)
+
++ [WSJ Capital Account](https://www.wsj.com/articles/canada-does-the-global-economy-a-favor-1461169055)
+
++ [Equitablog](https://equitablegrowth.org/international-capital-flows-and-secular-stagnation/)
 ---
 
 ##### Citation

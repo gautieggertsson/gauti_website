@@ -37,7 +37,7 @@ description: "Preprints and articles by Gauti B. Eggertsson."
 
 + [Kaldor's and Piketty's Facts: The Rise of Monopoly Power in the United States](/gauti_website/research/kaldors-and-pikettys-facts-the-rise-of-monopoly-power-in-the-united-states) (with Jakob Robbins and Ella Getz Wold), *Journal of Monetary Economics*, Volume 124, November 2021. [Talk](https://drive.google.com/file/d/1DW4zIwUirvUOixT0tQ3ExomT2nrBc7fR/view)
 
-+ [A Toolkit for Solving Models with a Lower Bound on Interest Rates of Stochastic Duration](/gauti_website/research/a-toolkit-for-solving-models-with-a-lower-bound-on-interest-rates-of-stochastic-duration) (with Sergey K. Egiev Alessandro Lin, Josef Platzer and Luca Riva, September 2020), *Review of Economic Dynamics*, Volume 41, July 2021, issue in honor of the memory of Alejandro Justiniano.
++ [A Toolkit for Solving Models with a Lower Bound on Interest Rates of Stochastic Duration](/gauti_website/research/a-toolkit-for-solving-models-with-a-lower-bound-on-interest-rates-of-stochastic-duration) (with Sergey K. Egiev, Alessandro Lin, Josef Platzer and Luca Riva, September 2020), *Review of Economic Dynamics*, Volume 41, July 2021, issue in honor of the memory of Alejandro Justiniano.
   + For codes and programs click [here](https://github.com/gautieggertsson/2-state-toolkit).
 
 + [Medium-Term Money Neutrality and the Effective Lower Bound](/gauti_website/research/medium-term-money-neutrality-and-the-effective-lower-bound) (with Marc Giannoni), 50 year anniversity issue of the *Journal of Money, Credit and Banking*, Volume 52, Issue 52, February 2021.

@@ -30,9 +30,12 @@ The macroeconomic data of the last fifty years have overturned at least two of K
 
 ##### Related material
 
++ [Talk Slides](kaldor_seminar.pptx)
+
 + [Bloomberg](https://www.bloomberg.com/news/articles/2018-02-12/economists-say-the-rise-of-monopoly-power-explains-five-puzzling-trends)
 
 + [New York Times](https://www.nytimes.com/2018/02/13/business/economy/profits-economy.html)
+
 
 ---
 

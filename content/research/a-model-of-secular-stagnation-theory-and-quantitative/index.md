@@ -31,6 +31,10 @@ This paper formalizes and quantifies the secular stagnation hypothesis, defined 
 
 ##### Related material
 
++ [Related Paper](/gauti_website/research/a-model-of-secular-stagnation)
+
++ [Related Blog](/gauti_website/research/a-model-of-secular-stagnation_blog)
+
 ---
 
 ##### Citation

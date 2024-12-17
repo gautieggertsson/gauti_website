@@ -15,8 +15,6 @@ excludeFromResearch: true
 
 ---
 
-##### Related material
-
 ---
 
 ##### Download
@@ -30,6 +28,14 @@ excludeFromResearch: true
 Conditions of secular stagnation—low interest rates, below target inflation, and sluggish output growth—characterize much of the global economy. We consider an overlapping generations, open economy model of secular stagnation, and examine the effect of capital flows on the transmission of stagnation. In a world with a low natural rate of interest, greater capital integration transmits recessions across countries as opposed to lower interest rates. In a global secular stagnation, expansionary fiscal policy carries positive spillovers implying gains from coordination, and fiscal policy is self-financing. Expansionary monetary policy, by contrast, is beggar-thy-neighbor with output gains in one country coming at the expense of the other. Similarly, we find that competitiveness policies including structural labor market reforms or neomercantilist trade policies are also beggar-thy-neighbor in a global secular stagnation.
 
 ---
+
+##### Related material
+
++ [Washington Post](https://www.washingtonpost.com/news/wonk/wp/2016/07/07/the-world-economy-is-turning-japanese/)
+
++ [Paul Krugman's Blog](https://archive.nytimes.com/krugman.blogs.nytimes.com/2016/06/20/tldr-and-modern-macroeconomics-wonkish/?module=BlogPost-Title&version=Blog%20Main&contentCollection=Opinion&action=Click&pgtype=Blogs&region=Body&_r=0)
+
++ [Economist's View](https://economistsview.typepad.com/economistsview/2016/06/a-contagious-malady-open-economy-dimensions-of-secular-stagnation.html)
 
 ---
 
