@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://emildags.github.io/gauti_website/sitemap.xml
