@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Reserach on Gauti B. Eggertsson</title>
-    <link>https://gautieggertsson.github.io/gauti_website/research/</link>
+    <link>http://localhost:1313/gauti_website/research/</link>
     <description>Recent content in Reserach on Gauti B. Eggertsson</description>
     <generator>Hugo -- 0.136.5</generator>
     <language>en</language>
     <lastBuildDate>Mon, 04 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://gautieggertsson.github.io/gauti_website/research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/gauti_website/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Liquidity Traps: A Unified Theory of the Great Depression and the Great Recession</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/a-unified-theory-of-the-great-depression-and-the-great-recession/</link>
+      <link>http://localhost:1313/gauti_website/research/a-unified-theory-of-the-great-depression-and-the-great-recession/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/a-unified-theory-of-the-great-depression-and-the-great-recession/</guid>
+      <guid>http://localhost:1313/gauti_website/research/a-unified-theory-of-the-great-depression-and-the-great-recession/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -39,9 +39,9 @@ back mirror and the political landscape in the US has dramatically changed?&lt;/
     </item>
     <item>
       <title>The Forward Guidance Puzzle is not a Puzzle</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/the-forward-guidence-puzzle-is-not-a-puzzle/</link>
+      <link>http://localhost:1313/gauti_website/research/the-forward-guidence-puzzle-is-not-a-puzzle/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/the-forward-guidence-puzzle-is-not-a-puzzle/</guid>
+      <guid>http://localhost:1313/gauti_website/research/the-forward-guidence-puzzle-is-not-a-puzzle/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -54,16 +54,16 @@ back mirror and the political landscape in the US has dramatically changed?&lt;/
     </item>
     <item>
       <title>The Slanted-L Phillips Curve</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/the-slanted-l-phillips-curve/</link>
+      <link>http://localhost:1313/gauti_website/research/the-slanted-l-phillips-curve/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/the-slanted-l-phillips-curve/</guid>
+      <guid>http://localhost:1313/gauti_website/research/the-slanted-l-phillips-curve/</guid>
       <description>A slanted-L curve effectively captures the non-linearity of the Phillips curve, as shown using cross-country data from major industrialized economies since 2009. The model demonstrates that at high unemployment, demand increases have limited inflationary effects, while at low unemployment, labor shortages amplify both inflationary pressures and the impact of supply shocks.</description>
     </item>
     <item>
       <title>Negative Nominal Interest Rates and the Bank Lending Channel</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/negative-nominal-interest-rates-and-the-bank-lending-channel/</link>
+      <link>http://localhost:1313/gauti_website/research/negative-nominal-interest-rates-and-the-bank-lending-channel/</link>
       <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/negative-nominal-interest-rates-and-the-bank-lending-channel/</guid>
+      <guid>http://localhost:1313/gauti_website/research/negative-nominal-interest-rates-and-the-bank-lending-channel/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -78,23 +78,23 @@ back mirror and the political landscape in the US has dramatically changed?&lt;/
     </item>
     <item>
       <title>The Inflation Surge of the 2020: The Role of Monetary Policy</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/the-inflation-surge-of-the-2020-the-role-of-monetary-policy/</link>
+      <link>http://localhost:1313/gauti_website/research/the-inflation-surge-of-the-2020-the-role-of-monetary-policy/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/the-inflation-surge-of-the-2020-the-role-of-monetary-policy/</guid>
+      <guid>http://localhost:1313/gauti_website/research/the-inflation-surge-of-the-2020-the-role-of-monetary-policy/</guid>
       <description>The Fed’s substantial revisions to its monetary policy strategy in August 2020 and its forward guidance contributed to the largely unanticipated and most definitely unwelcome surge in inflation during the pandemic.</description>
     </item>
     <item>
       <title>It’s Baaack: The Inflation Surge of 2020s and the Return of the Non-Linear Phillips Curve</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/its-baaack_the-inflation-surge-of-2020s-and-the-return-of-the-non-linear-phillips-curve/</link>
+      <link>http://localhost:1313/gauti_website/research/its-baaack_the-inflation-surge-of-2020s-and-the-return-of-the-non-linear-phillips-curve/</link>
       <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/its-baaack_the-inflation-surge-of-2020s-and-the-return-of-the-non-linear-phillips-curve/</guid>
+      <guid>http://localhost:1313/gauti_website/research/its-baaack_the-inflation-surge-of-2020s-and-the-return-of-the-non-linear-phillips-curve/</guid>
       <description>This paper introduces a non-linear New Keynesian Phillips curve (Inv-L NK Phillips Curve) to explain the inflation surge in the 2020s, using job vacancies relative to unemployed workers as a measure of economic slack. It argues that wage rigidity and labor market frictions create strong nonlinearities, suggesting that inflation can be reduced without a severe recession, with the recent surge largely driven by a labor shortage.</description>
     </item>
     <item>
       <title>Time Consistency and the Duration of Government Debt: A Model of Quantitative Easing</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/time-consistency-and-the-duration-of-government-debt-a-model-of-quantitative-easing/</link>
+      <link>http://localhost:1313/gauti_website/research/time-consistency-and-the-duration-of-government-debt-a-model-of-quantitative-easing/</link>
       <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/time-consistency-and-the-duration-of-government-debt-a-model-of-quantitative-easing/</guid>
+      <guid>http://localhost:1313/gauti_website/research/time-consistency-and-the-duration-of-government-debt-a-model-of-quantitative-easing/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -118,9 +118,9 @@ this effect can be substantial.&lt;/p&gt;
     </item>
     <item>
       <title>Kaldor and Piketty’s Facts: The Rise of Monopoly Power in the United States</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/kaldors-and-pikettys-facts-the-rise-of-monopoly-power-in-the-united-states/</link>
+      <link>http://localhost:1313/gauti_website/research/kaldors-and-pikettys-facts-the-rise-of-monopoly-power-in-the-united-states/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/kaldors-and-pikettys-facts-the-rise-of-monopoly-power-in-the-united-states/</guid>
+      <guid>http://localhost:1313/gauti_website/research/kaldors-and-pikettys-facts-the-rise-of-monopoly-power-in-the-united-states/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -135,9 +135,9 @@ this effect can be substantial.&lt;/p&gt;
     </item>
     <item>
       <title>Mr. Keynes and the Classics; A Suggested Reinterpretation</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/mr-keynes-and-the-classics-a-suggested-reinterpretation/</link>
+      <link>http://localhost:1313/gauti_website/research/mr-keynes-and-the-classics-a-suggested-reinterpretation/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/mr-keynes-and-the-classics-a-suggested-reinterpretation/</guid>
+      <guid>http://localhost:1313/gauti_website/research/mr-keynes-and-the-classics-a-suggested-reinterpretation/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -152,9 +152,9 @@ this effect can be substantial.&lt;/p&gt;
     </item>
     <item>
       <title>A Toolkit for Solving Models with a Lower Bound on Interest Rates of Stochastic Duration</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/a-toolkit-for-solving-models-with-a-lower-bound-on-interest-rates-of-stochastic-duration/</link>
+      <link>http://localhost:1313/gauti_website/research/a-toolkit-for-solving-models-with-a-lower-bound-on-interest-rates-of-stochastic-duration/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/a-toolkit-for-solving-models-with-a-lower-bound-on-interest-rates-of-stochastic-duration/</guid>
+      <guid>http://localhost:1313/gauti_website/research/a-toolkit-for-solving-models-with-a-lower-bound-on-interest-rates-of-stochastic-duration/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -169,9 +169,9 @@ this effect can be substantial.&lt;/p&gt;
     </item>
     <item>
       <title>Medium-Term Money Neutrality and the Effective Lower Bound</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/medium-term-money-neutrality-and-the-effective-lower-bound/</link>
+      <link>http://localhost:1313/gauti_website/research/medium-term-money-neutrality-and-the-effective-lower-bound/</link>
       <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/medium-term-money-neutrality-and-the-effective-lower-bound/</guid>
+      <guid>http://localhost:1313/gauti_website/research/medium-term-money-neutrality-and-the-effective-lower-bound/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -186,9 +186,9 @@ this effect can be substantial.&lt;/p&gt;
     </item>
     <item>
       <title>Dynamic Debt Deleveraging and Optimal Monetary Policy</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/dynamic-debt-deleveraging-and-optimal-monetary-policy/</link>
+      <link>http://localhost:1313/gauti_website/research/dynamic-debt-deleveraging-and-optimal-monetary-policy/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/dynamic-debt-deleveraging-and-optimal-monetary-policy/</guid>
+      <guid>http://localhost:1313/gauti_website/research/dynamic-debt-deleveraging-and-optimal-monetary-policy/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -203,9 +203,9 @@ this effect can be substantial.&lt;/p&gt;
     </item>
     <item>
       <title>Aging, Output Per Capita and Secular Stagnation</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/aging-output-per-capita-and-secular-stagnation/</link>
+      <link>http://localhost:1313/gauti_website/research/aging-output-per-capita-and-secular-stagnation/</link>
       <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/aging-output-per-capita-and-secular-stagnation/</guid>
+      <guid>http://localhost:1313/gauti_website/research/aging-output-per-capita-and-secular-stagnation/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -220,9 +220,9 @@ this effect can be substantial.&lt;/p&gt;
     </item>
     <item>
       <title>Log-linear Approximation versus an Exact Solution at the ZLB in the New Keynesian Model</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/log-linear-approximation-versus-an-exact-solution-at-the-zlb-in-the-new-keynesian-model/</link>
+      <link>http://localhost:1313/gauti_website/research/log-linear-approximation-versus-an-exact-solution-at-the-zlb-in-the-new-keynesian-model/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/log-linear-approximation-versus-an-exact-solution-at-the-zlb-in-the-new-keynesian-model/</guid>
+      <guid>http://localhost:1313/gauti_website/research/log-linear-approximation-versus-an-exact-solution-at-the-zlb-in-the-new-keynesian-model/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -237,9 +237,9 @@ this effect can be substantial.&lt;/p&gt;
     </item>
     <item>
       <title>Negative interest rate policy and the bank lending channel</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/negative-interest-rates-and-the-bank-lending-channel/</link>
+      <link>http://localhost:1313/gauti_website/research/negative-interest-rates-and-the-bank-lending-channel/</link>
       <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/negative-interest-rates-and-the-bank-lending-channel/</guid>
+      <guid>http://localhost:1313/gauti_website/research/negative-interest-rates-and-the-bank-lending-channel/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -252,9 +252,9 @@ this effect can be substantial.&lt;/p&gt;
     </item>
     <item>
       <title>A Model of Secular Stagnation: Theory and Quantitative Evaluation</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/a-model-of-secular-stagnation-theory-and-quantitative/</link>
+      <link>http://localhost:1313/gauti_website/research/a-model-of-secular-stagnation-theory-and-quantitative/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/a-model-of-secular-stagnation-theory-and-quantitative/</guid>
+      <guid>http://localhost:1313/gauti_website/research/a-model-of-secular-stagnation-theory-and-quantitative/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -269,9 +269,9 @@ this effect can be substantial.&lt;/p&gt;
     </item>
     <item>
       <title>Sticky prices versus sticky information: Does it matter for policy paradoxes?</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/sticky-prices-versus-sticky-information-does-it-matter-for-policy-paradoxes/</link>
+      <link>http://localhost:1313/gauti_website/research/sticky-prices-versus-sticky-information-does-it-matter-for-policy-paradoxes/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/sticky-prices-versus-sticky-information-does-it-matter-for-policy-paradoxes/</guid>
+      <guid>http://localhost:1313/gauti_website/research/sticky-prices-versus-sticky-information-does-it-matter-for-policy-paradoxes/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -286,9 +286,9 @@ this effect can be substantial.&lt;/p&gt;
     </item>
     <item>
       <title>Is Increased Price Flexibility Stabilizing? Redux</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/is-increased-price-flexibility-stabilizing-redux/</link>
+      <link>http://localhost:1313/gauti_website/research/is-increased-price-flexibility-stabilizing-redux/</link>
       <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/is-increased-price-flexibility-stabilizing-redux/</guid>
+      <guid>http://localhost:1313/gauti_website/research/is-increased-price-flexibility-stabilizing-redux/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -310,9 +310,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Monetary policy with negative nominal interest rates</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/monetary-policy-with-negative-nominal-interest-rates/</link>
+      <link>http://localhost:1313/gauti_website/research/monetary-policy-with-negative-nominal-interest-rates/</link>
       <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/monetary-policy-with-negative-nominal-interest-rates/</guid>
+      <guid>http://localhost:1313/gauti_website/research/monetary-policy-with-negative-nominal-interest-rates/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -325,9 +325,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Rise, Fall, and Resurrection  of Iceland: A Postmortem Analysis  of the 2008 Financial Crisis</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/the-rise-fall-and-resurrection-of-iceland-a-postmortem-analysis-of-the-2008-financial-crisis/</link>
+      <link>http://localhost:1313/gauti_website/research/the-rise-fall-and-resurrection-of-iceland-a-postmortem-analysis-of-the-2008-financial-crisis/</link>
       <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/the-rise-fall-and-resurrection-of-iceland-a-postmortem-analysis-of-the-2008-financial-crisis/</guid>
+      <guid>http://localhost:1313/gauti_website/research/the-rise-fall-and-resurrection-of-iceland-a-postmortem-analysis-of-the-2008-financial-crisis/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -342,9 +342,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Comment on &#39;Sources and Mechanisms of Stagnation and Impaired Growth in Advanced Economies&#39;</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/comment-on-sources-and-mechanism-of-stagnation-and-impaired-growth-in-advanced-economies/</link>
+      <link>http://localhost:1313/gauti_website/research/comment-on-sources-and-mechanism-of-stagnation-and-impaired-growth-in-advanced-economies/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/comment-on-sources-and-mechanism-of-stagnation-and-impaired-growth-in-advanced-economies/</guid>
+      <guid>http://localhost:1313/gauti_website/research/comment-on-sources-and-mechanism-of-stagnation-and-impaired-growth-in-advanced-economies/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -372,9 +372,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Great Escape? A Quantitative Evaluation of the Fed&#39;s Liquidity Facilities</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/the-great-escape-a-quantitative-evaluation-of-the-feds-liquidity-facilities/</link>
+      <link>http://localhost:1313/gauti_website/research/the-great-escape-a-quantitative-evaluation-of-the-feds-liquidity-facilities/</link>
       <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/the-great-escape-a-quantitative-evaluation-of-the-feds-liquidity-facilities/</guid>
+      <guid>http://localhost:1313/gauti_website/research/the-great-escape-a-quantitative-evaluation-of-the-feds-liquidity-facilities/</guid>
       <description>&lt;h5 id=&#34;related-material&#34;&gt;Related material&lt;/h5&gt;
 &lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
@@ -390,9 +390,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Contagious Malady? Open Economy Dimensions of Secular Stagnation</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/a-contagious-malady-open-economy-dimensions-of-secular-stagnation/</link>
+      <link>http://localhost:1313/gauti_website/research/a-contagious-malady-open-economy-dimensions-of-secular-stagnation/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/a-contagious-malady-open-economy-dimensions-of-secular-stagnation/</guid>
+      <guid>http://localhost:1313/gauti_website/research/a-contagious-malady-open-economy-dimensions-of-secular-stagnation/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -407,9 +407,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Secular stagnation in the open economies: How it spreads, how it can be cured</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/secular-stagnation-in-the-open-economies-how-it-spreads-how-it-can-be-cured/</link>
+      <link>http://localhost:1313/gauti_website/research/secular-stagnation-in-the-open-economies-how-it-spreads-how-it-can-be-cured/</link>
       <pubDate>Fri, 22 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/secular-stagnation-in-the-open-economies-how-it-spreads-how-it-can-be-cured/</guid>
+      <guid>http://localhost:1313/gauti_website/research/secular-stagnation-in-the-open-economies-how-it-spreads-how-it-can-be-cured/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -422,9 +422,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bernanke’s No-Arbitrage Argument Revisited: Can Open Market Operations in Real Assets Eliminate the Liquidity Trap?</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/bernankes-no-arbitrage-argument-revisited/</link>
+      <link>http://localhost:1313/gauti_website/research/bernankes-no-arbitrage-argument-revisited/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/bernankes-no-arbitrage-argument-revisited/</guid>
+      <guid>http://localhost:1313/gauti_website/research/bernankes-no-arbitrage-argument-revisited/</guid>
       <description>&lt;h5 id=&#34;related-material&#34;&gt;Related material&lt;/h5&gt;
 &lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
@@ -440,9 +440,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Discussion of &#39;Forward Guidance and Macroeconomic Outcomes Since the Financial Crisis&#39;</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/comment-on-forward-guidance-and-macroeconomic-outcomes-since-the-financial-crisis/</link>
+      <link>http://localhost:1313/gauti_website/research/comment-on-forward-guidance-and-macroeconomic-outcomes-since-the-financial-crisis/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/comment-on-forward-guidance-and-macroeconomic-outcomes-since-the-financial-crisis/</guid>
+      <guid>http://localhost:1313/gauti_website/research/comment-on-forward-guidance-and-macroeconomic-outcomes-since-the-financial-crisis/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -470,9 +470,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Secular Stagnation in the Open Economy</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/secular-stagnation-in-the-open-economy/</link>
+      <link>http://localhost:1313/gauti_website/research/secular-stagnation-in-the-open-economy/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/secular-stagnation-in-the-open-economy/</guid>
+      <guid>http://localhost:1313/gauti_website/research/secular-stagnation-in-the-open-economy/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -487,9 +487,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A model of secular stagnation</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/a-model-of-secular-stagnation_blog/</link>
+      <link>http://localhost:1313/gauti_website/research/a-model-of-secular-stagnation_blog/</link>
       <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/a-model-of-secular-stagnation_blog/</guid>
+      <guid>http://localhost:1313/gauti_website/research/a-model-of-secular-stagnation_blog/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -502,9 +502,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fiscal Policy, Public Debt and the World Crisis</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/fiscal-policy-public-debt-and-the-world-crisis/</link>
+      <link>http://localhost:1313/gauti_website/research/fiscal-policy-public-debt-and-the-world-crisis/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/fiscal-policy-public-debt-and-the-world-crisis/</guid>
+      <guid>http://localhost:1313/gauti_website/research/fiscal-policy-public-debt-and-the-world-crisis/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -519,9 +519,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Can Structural Reforms Help Europe?</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/can-structural-reforms-help-europe/</link>
+      <link>http://localhost:1313/gauti_website/research/can-structural-reforms-help-europe/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/can-structural-reforms-help-europe/</guid>
+      <guid>http://localhost:1313/gauti_website/research/can-structural-reforms-help-europe/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -536,9 +536,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fiscal Multipliers and Policy Coordination</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/fiscal-multipliers-and-policy-coordination/</link>
+      <link>http://localhost:1313/gauti_website/research/fiscal-multipliers-and-policy-coordination/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/fiscal-multipliers-and-policy-coordination/</guid>
+      <guid>http://localhost:1313/gauti_website/research/fiscal-multipliers-and-policy-coordination/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -553,9 +553,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Deficits, Public Debt Dynamics and Tax and Spending Multipliers</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/deficits-public-debt-dynamics-and-tax-and-spending-multipliers/</link>
+      <link>http://localhost:1313/gauti_website/research/deficits-public-debt-dynamics-and-tax-and-spending-multipliers/</link>
       <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/deficits-public-debt-dynamics-and-tax-and-spending-multipliers/</guid>
+      <guid>http://localhost:1313/gauti_website/research/deficits-public-debt-dynamics-and-tax-and-spending-multipliers/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -570,9 +570,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Debt, Deleveraging, and the Liquidity Trap: A Fisher-Minsky-Koo Approach</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/debt-deleveraging-and-the-liquidity-trap-a-fisher-minsky-koo-approach/</link>
+      <link>http://localhost:1313/gauti_website/research/debt-deleveraging-and-the-liquidity-trap-a-fisher-minsky-koo-approach/</link>
       <pubDate>Tue, 24 Jul 2012 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/debt-deleveraging-and-the-liquidity-trap-a-fisher-minsky-koo-approach/</guid>
+      <guid>http://localhost:1313/gauti_website/research/debt-deleveraging-and-the-liquidity-trap-a-fisher-minsky-koo-approach/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -589,9 +589,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Was the New Deal Contractionary?</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/was-the-new-deal-contractionary/</link>
+      <link>http://localhost:1313/gauti_website/research/was-the-new-deal-contractionary/</link>
       <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/was-the-new-deal-contractionary/</guid>
+      <guid>http://localhost:1313/gauti_website/research/was-the-new-deal-contractionary/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -606,9 +606,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Discussion of “How Flexible Can Inflation Targeting Be and Still Work?”</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/commentary-on-how-flexible-can-inflation-targeting-be-and-still-work/</link>
+      <link>http://localhost:1313/gauti_website/research/commentary-on-how-flexible-can-inflation-targeting-be-and-still-work/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/commentary-on-how-flexible-can-inflation-targeting-be-and-still-work/</guid>
+      <guid>http://localhost:1313/gauti_website/research/commentary-on-how-flexible-can-inflation-targeting-be-and-still-work/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -641,9 +641,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Discussion of “Price-Level Targeting and Stabilization Policy”</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/commentary-on-price-level-targeting-and-stabilization-policy/</link>
+      <link>http://localhost:1313/gauti_website/research/commentary-on-price-level-targeting-and-stabilization-policy/</link>
       <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/commentary-on-price-level-targeting-and-stabilization-policy/</guid>
+      <guid>http://localhost:1313/gauti_website/research/commentary-on-price-level-targeting-and-stabilization-policy/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -674,9 +674,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Commentary on Optimal Stabilization Policy by G. Mankiw and M. Winzierl</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/commentary-on-optimal-stabilization-policy/</link>
+      <link>http://localhost:1313/gauti_website/research/commentary-on-optimal-stabilization-policy/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/commentary-on-optimal-stabilization-policy/</guid>
+      <guid>http://localhost:1313/gauti_website/research/commentary-on-optimal-stabilization-policy/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -705,9 +705,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Commodity Prices and the Mistake of 1937: Would Modern Economists Make the Same Mistake?</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/commodity-prices-and-the-mistake-of-1937/</link>
+      <link>http://localhost:1313/gauti_website/research/commodity-prices-and-the-mistake-of-1937/</link>
       <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/commodity-prices-and-the-mistake-of-1937/</guid>
+      <guid>http://localhost:1313/gauti_website/research/commodity-prices-and-the-mistake-of-1937/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -733,9 +733,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>What Fiscal Policy Is Effective at Zero Interest Rates?</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/what-fiscal-policy-is-effective-at-zero-interest-rates/</link>
+      <link>http://localhost:1313/gauti_website/research/what-fiscal-policy-is-effective-at-zero-interest-rates/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/what-fiscal-policy-is-effective-at-zero-interest-rates/</guid>
+      <guid>http://localhost:1313/gauti_website/research/what-fiscal-policy-is-effective-at-zero-interest-rates/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -750,9 +750,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Reply to Steven Horwitz Commentary on “Great Expectations and the End of the Depression“</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/a-reply-to-steven-horwitz-commentary-on-great-expectations-and-the-end-of-the-depression/</link>
+      <link>http://localhost:1313/gauti_website/research/a-reply-to-steven-horwitz-commentary-on-great-expectations-and-the-end-of-the-depression/</link>
       <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/a-reply-to-steven-horwitz-commentary-on-great-expectations-and-the-end-of-the-depression/</guid>
+      <guid>http://localhost:1313/gauti_website/research/a-reply-to-steven-horwitz-commentary-on-great-expectations-and-the-end-of-the-depression/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -783,9 +783,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Political Agency Theory of Central Bank Independence</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/a-political-agency-theory-of-central-bank-independence/</link>
+      <link>http://localhost:1313/gauti_website/research/a-political-agency-theory-of-central-bank-independence/</link>
       <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/a-political-agency-theory-of-central-bank-independence/</guid>
+      <guid>http://localhost:1313/gauti_website/research/a-political-agency-theory-of-central-bank-independence/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -800,9 +800,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A comment on Casey Mulligan’s test of the Paradox of Toil</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/a-comment-on-casey-mullingans-test-of-the-paradox-of-toil/</link>
+      <link>http://localhost:1313/gauti_website/research/a-comment-on-casey-mullingans-test-of-the-paradox-of-toil/</link>
       <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/a-comment-on-casey-mullingans-test-of-the-paradox-of-toil/</guid>
+      <guid>http://localhost:1313/gauti_website/research/a-comment-on-casey-mullingans-test-of-the-paradox-of-toil/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -815,9 +815,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Bayesian Approach to Estimating Tax and Spending Multipliers</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/a-bayesian-approach-to-estimating-tax-and-spending-multipliers/</link>
+      <link>http://localhost:1313/gauti_website/research/a-bayesian-approach-to-estimating-tax-and-spending-multipliers/</link>
       <pubDate>Sun, 01 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/a-bayesian-approach-to-estimating-tax-and-spending-multipliers/</guid>
+      <guid>http://localhost:1313/gauti_website/research/a-bayesian-approach-to-estimating-tax-and-spending-multipliers/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -832,9 +832,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>FOMC briefing on &#39;Federal Reserve experiences with Very Low Interest Rates&#39;</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/fomc-briefing-on-federal-reserve-experiences-with-very-low-interest-rates/</link>
+      <link>http://localhost:1313/gauti_website/research/fomc-briefing-on-federal-reserve-experiences-with-very-low-interest-rates/</link>
       <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/fomc-briefing-on-federal-reserve-experiences-with-very-low-interest-rates/</guid>
+      <guid>http://localhost:1313/gauti_website/research/fomc-briefing-on-federal-reserve-experiences-with-very-low-interest-rates/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -850,9 +850,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Great Expectations and the End of the Depression</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/great-expectations-and-the-end-of-the-depression/</link>
+      <link>http://localhost:1313/gauti_website/research/great-expectations-and-the-end-of-the-depression/</link>
       <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/great-expectations-and-the-end-of-the-depression/</guid>
+      <guid>http://localhost:1313/gauti_website/research/great-expectations-and-the-end-of-the-depression/</guid>
       <description>&lt;h5 id=&#34;related-material&#34;&gt;Related material&lt;/h5&gt;
 &lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
@@ -868,9 +868,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Liquidity Trap</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/the-liquidity-trap-the-new-palgrave-dictionary/</link>
+      <link>http://localhost:1313/gauti_website/research/the-liquidity-trap-the-new-palgrave-dictionary/</link>
       <pubDate>Sat, 01 Mar 2008 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/the-liquidity-trap-the-new-palgrave-dictionary/</guid>
+      <guid>http://localhost:1313/gauti_website/research/the-liquidity-trap-the-new-palgrave-dictionary/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -885,9 +885,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Optimal Time-Consistent Monetary Policy in the New Keynesian Model with Repeated Simultaneous Play</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/optimal-time-consistent-monetary-policy-in-the-new-keynesian-model/</link>
+      <link>http://localhost:1313/gauti_website/research/optimal-time-consistent-monetary-policy-in-the-new-keynesian-model/</link>
       <pubDate>Sun, 01 Jul 2007 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/optimal-time-consistent-monetary-policy-in-the-new-keynesian-model/</guid>
+      <guid>http://localhost:1313/gauti_website/research/optimal-time-consistent-monetary-policy-in-the-new-keynesian-model/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -902,9 +902,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Mistake of 1937: A General Equilibrium Analysis</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/the-mistake-of-1937-a-general-equilibrium-analysis/</link>
+      <link>http://localhost:1313/gauti_website/research/the-mistake-of-1937-a-general-equilibrium-analysis/</link>
       <pubDate>Fri, 01 Dec 2006 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/the-mistake-of-1937-a-general-equilibrium-analysis/</guid>
+      <guid>http://localhost:1313/gauti_website/research/the-mistake-of-1937-a-general-equilibrium-analysis/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -919,9 +919,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Optimal Monetary and Fiscal Policy in a Liquidity Trap</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/optimal-monetary-and-fiscal-policy-in-a-liquidity-trap/</link>
+      <link>http://localhost:1313/gauti_website/research/optimal-monetary-and-fiscal-policy-in-a-liquidity-trap/</link>
       <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/optimal-monetary-and-fiscal-policy-in-a-liquidity-trap/</guid>
+      <guid>http://localhost:1313/gauti_website/research/optimal-monetary-and-fiscal-policy-in-a-liquidity-trap/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -936,9 +936,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Comment on Monetary and Fiscal Policy in a Low Inflation Economy with Learning</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/comment-on-monetary-and-fiscal-policy-in-a-low-inflation-economy-with-learning/</link>
+      <link>http://localhost:1313/gauti_website/research/comment-on-monetary-and-fiscal-policy-in-a-low-inflation-economy-with-learning/</link>
       <pubDate>Mon, 01 May 2006 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/comment-on-monetary-and-fiscal-policy-in-a-low-inflation-economy-with-learning/</guid>
+      <guid>http://localhost:1313/gauti_website/research/comment-on-monetary-and-fiscal-policy-in-a-low-inflation-economy-with-learning/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -966,9 +966,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Deflation Bias and Committing to Being Irresponsible</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/the-deflation-bias-and-committing-to-being-irresponsible/</link>
+      <link>http://localhost:1313/gauti_website/research/the-deflation-bias-and-committing-to-being-irresponsible/</link>
       <pubDate>Wed, 01 Mar 2006 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/the-deflation-bias-and-committing-to-being-irresponsible/</guid>
+      <guid>http://localhost:1313/gauti_website/research/the-deflation-bias-and-committing-to-being-irresponsible/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -985,9 +985,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Does Excess Liquidity Pose a Threat in Japan?</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/does-excess-liquidity-pose-a-threat-in-japan/</link>
+      <link>http://localhost:1313/gauti_website/research/does-excess-liquidity-pose-a-threat-in-japan/</link>
       <pubDate>Fri, 01 Apr 2005 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/does-excess-liquidity-pose-a-threat-in-japan/</guid>
+      <guid>http://localhost:1313/gauti_website/research/does-excess-liquidity-pose-a-threat-in-japan/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -1000,9 +1000,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Optimal Monetary and Fiscal Policy and the Liquidity Trap</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/optimal-monetary-and-fiscal-policy-and-the-liquidity-trap/</link>
+      <link>http://localhost:1313/gauti_website/research/optimal-monetary-and-fiscal-policy-and-the-liquidity-trap/</link>
       <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/optimal-monetary-and-fiscal-policy-and-the-liquidity-trap/</guid>
+      <guid>http://localhost:1313/gauti_website/research/optimal-monetary-and-fiscal-policy-and-the-liquidity-trap/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -1015,9 +1015,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Policy Options in a Liquidity Trap</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/policy-options-in-a-liquidity-trap/</link>
+      <link>http://localhost:1313/gauti_website/research/policy-options-in-a-liquidity-trap/</link>
       <pubDate>Sat, 01 May 2004 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/policy-options-in-a-liquidity-trap/</guid>
+      <guid>http://localhost:1313/gauti_website/research/policy-options-in-a-liquidity-trap/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -1048,9 +1048,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Comment on Macroeconomic Policy in the European Monetary Union</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/comment-on-macroeconomic-policy-in-the-european-monetary-union/</link>
+      <link>http://localhost:1313/gauti_website/research/comment-on-macroeconomic-policy-in-the-european-monetary-union/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/comment-on-macroeconomic-policy-in-the-european-monetary-union/</guid>
+      <guid>http://localhost:1313/gauti_website/research/comment-on-macroeconomic-policy-in-the-european-monetary-union/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -1076,9 +1076,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Zero Bound on Interest Rates and Optimal Monetary Policy</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/the-zero-interest-rate-bound-and-optimal-monetary-policy/</link>
+      <link>http://localhost:1313/gauti_website/research/the-zero-interest-rate-bound-and-optimal-monetary-policy/</link>
       <pubDate>Thu, 27 Mar 2003 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/the-zero-interest-rate-bound-and-optimal-monetary-policy/</guid>
+      <guid>http://localhost:1313/gauti_website/research/the-zero-interest-rate-bound-and-optimal-monetary-policy/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -1093,9 +1093,9 @@ simple model continue to apply.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to Fight Deflation in a Liquidity Trap: Committing to Being Irresponsible</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/how-to-fight-deflation-at-zero-nominal-interest-rates/</link>
+      <link>http://localhost:1313/gauti_website/research/how-to-fight-deflation-at-zero-nominal-interest-rates/</link>
       <pubDate>Sat, 01 Mar 2003 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/how-to-fight-deflation-at-zero-nominal-interest-rates/</guid>
+      <guid>http://localhost:1313/gauti_website/research/how-to-fight-deflation-at-zero-nominal-interest-rates/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -1117,9 +1117,9 @@ the real rate of return.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Committing to being Irresponsible: Deficit Spending to Escape a Liquidity Trap</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/committing-to-being-irresponsible-deficit-spending-to-escape-a-liquidity-trap/</link>
+      <link>http://localhost:1313/gauti_website/research/committing-to-being-irresponsible-deficit-spending-to-escape-a-liquidity-trap/</link>
       <pubDate>Thu, 01 Nov 2001 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/committing-to-being-irresponsible-deficit-spending-to-escape-a-liquidity-trap/</guid>
+      <guid>http://localhost:1313/gauti_website/research/committing-to-being-irresponsible-deficit-spending-to-escape-a-liquidity-trap/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -1149,9 +1149,9 @@ in Japan during the Great Depression can be rationalized by our model.&lt;/p&gt;
     </item>
     <item>
       <title>Real Government Spending in a Liquidity Trap</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/real-government-spending-in-a-liquidity-trap/</link>
+      <link>http://localhost:1313/gauti_website/research/real-government-spending-in-a-liquidity-trap/</link>
       <pubDate>Thu, 01 Nov 2001 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/real-government-spending-in-a-liquidity-trap/</guid>
+      <guid>http://localhost:1313/gauti_website/research/real-government-spending-in-a-liquidity-trap/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -1166,9 +1166,9 @@ spending from a time varying target level. Using this welfare criterion, optimal
     </item>
     <item>
       <title></title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/inflation-budgeting-proposal-from-fall-2010-blackbook/</link>
+      <link>http://localhost:1313/gauti_website/research/inflation-budgeting-proposal-from-fall-2010-blackbook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/inflation-budgeting-proposal-from-fall-2010-blackbook/</guid>
+      <guid>http://localhost:1313/gauti_website/research/inflation-budgeting-proposal-from-fall-2010-blackbook/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -1185,9 +1185,9 @@ spending from a time varying target level. Using this welfare criterion, optimal
     </item>
     <item>
       <title>A Model of Secular Stagnation</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/a-model-of-secular-stagnation/</link>
+      <link>http://localhost:1313/gauti_website/research/a-model-of-secular-stagnation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/a-model-of-secular-stagnation/</guid>
+      <guid>http://localhost:1313/gauti_website/research/a-model-of-secular-stagnation/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -1202,9 +1202,9 @@ spending from a time varying target level. Using this welfare criterion, optimal
     </item>
     <item>
       <title>Commentary on Slowing Business Dynamism and Productivity Growth in the United States</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/commentary-slowing-business-dynamics/</link>
+      <link>http://localhost:1313/gauti_website/research/commentary-slowing-business-dynamics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/commentary-slowing-business-dynamics/</guid>
+      <guid>http://localhost:1313/gauti_website/research/commentary-slowing-business-dynamics/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -1232,9 +1232,9 @@ spending from a time varying target level. Using this welfare criterion, optimal
     </item>
     <item>
       <title>Second Discussant Comment on “Fiscal Policy as a Stabilization Tool”</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/comment-on-fiscal-policy-as-a-stabilization-tool/</link>
+      <link>http://localhost:1313/gauti_website/research/comment-on-fiscal-policy-as-a-stabilization-tool/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/comment-on-fiscal-policy-as-a-stabilization-tool/</guid>
+      <guid>http://localhost:1313/gauti_website/research/comment-on-fiscal-policy-as-a-stabilization-tool/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -1265,9 +1265,9 @@ spending from a time varying target level. Using this welfare criterion, optimal
     </item>
     <item>
       <title>The Paradox of Toil</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/the-paradox-of-toil/</link>
+      <link>http://localhost:1313/gauti_website/research/the-paradox-of-toil/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/the-paradox-of-toil/</guid>
+      <guid>http://localhost:1313/gauti_website/research/the-paradox-of-toil/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
@@ -1282,9 +1282,9 @@ spending from a time varying target level. Using this welfare criterion, optimal
     </item>
     <item>
       <title>To accommodate or not: The Federal Reserve’s new normal</title>
-      <link>https://gautieggertsson.github.io/gauti_website/research/to-accomodate-or-not-the-federal-reserves-new-normal/</link>
+      <link>http://localhost:1313/gauti_website/research/to-accomodate-or-not-the-federal-reserves-new-normal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gautieggertsson.github.io/gauti_website/research/to-accomodate-or-not-the-federal-reserves-new-normal/</guid>
+      <guid>http://localhost:1313/gauti_website/research/to-accomodate-or-not-the-federal-reserves-new-normal/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
 &lt;ul&gt;
