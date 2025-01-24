@@ -6,7 +6,24 @@
     <description>Recent content in Reserach on Gauti B. Eggertsson</description>
     <generator>Hugo -- 0.136.5</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2009 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://gautieggertsson.github.io/gauti_website/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Bayesian Approach to Estimating Tax and Spending Multipliers</title>
+      <link>https://gautieggertsson.github.io/gauti_website/research/a-bayesian-approach-to-estimating-tax-and-spending-multipliers/</link>
+      <pubDate>Sun, 01 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>https://gautieggertsson.github.io/gauti_website/research/a-bayesian-approach-to-estimating-tax-and-spending-multipliers/</guid>
+      <description>&lt;hr&gt;
+&lt;h5 id=&#34;download&#34;&gt;Download&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.newyorkfed.org/research/staff_reports/sr403.html&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;sr403.pdf&#34;&gt;Local PDF&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h5 id=&#34;abstract&#34;&gt;Abstract&lt;/h5&gt;
+&lt;p&gt;This paper outlines a simple Bayesian methodology for estimating tax and spending multipliers in a dynamic stochastic general equilibrium (DSGE) model. After forming priors about the parameters of the model and the relevant shock, we used the model to exactly match only one data point: the trough of the Great Depression, that is, an output collapse of 30 percent, deflation of 10 percent, and a zero short-term nominal interest rate. Because we form our priors as distributions, the key economic inference of our analysis―the multipliers of tax and spending―are well-defined probability distributions derived from the posterior of the model. While the Bayesian methods used are standard, the application is slightly unusual. We conjecture that this methodology can be applied in several different settings with severe data limitations and where more informal calibrations have been the norm. The main advantage over usual calibration exercises is that the posterior of the model offers an interesting way to think about sensitivity analysis and gives researchers a useful way to describe model-based inference. We apply our simple estimation method to the American Recovery and Reinvestment Act (ARRA), passed by Congress as part of the 2009 stimulus plan. The mean of our estimate indicates that ARRA increased output by 3.6 percent in 2009 and 2010. The standard deviation of this estimate is 1 percent.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>A Bayesian Approach to Estimating Tax and Spending Multipliers on Gauti B. Eggertsson</title>
-    <link>https://gautieggertsson.github.io/gauti_website/research/a-bayesian-approach-to-estimating-tax-and-spending-multipliers/</link>
+    <link>http://localhost:1313/gauti_website/research/a-bayesian-approach-to-estimating-tax-and-spending-multipliers/</link>
     <description>Recent content in A Bayesian Approach to Estimating Tax and Spending Multipliers on Gauti B. Eggertsson</description>
     <generator>Hugo -- 0.136.5</generator>
     <language>en</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://gautieggertsson.github.io/gauti_website/research/a-bayesian-approach-to-estimating-tax-and-spending-multipliers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/gauti_website/research/a-bayesian-approach-to-estimating-tax-and-spending-multipliers/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
