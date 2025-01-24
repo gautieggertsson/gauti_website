@@ -23,7 +23,7 @@ menu:
           url: courses/
           weight: 4
         - name: CV
-          url: CV/
+          url: cv/
           weight: 5
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=6-MmtygAAAAJ&hl=en
@@ -32,7 +32,7 @@ menu:
           url: https://ideas.repec.org/e/peg7.html
           weight: 7 
         - name: Podcasts
-          url: Podcasts/
+          url: podcasts/
           weight: 8
         - name: Iceland
           url: iceland/
@@ -90,13 +90,13 @@ params:
             - name: Teaching Materials
               url: courses/
             - name: CV
-              url: CV/
+              url: cv/
             - name: Google Scholar
               url: https://scholar.google.com/citations?user=6-MmtygAAAAJ&hl=en
             - name: REPEC
               url: https://ideas.repec.org/e/peg7.html 
             - name: Podcasts
-              url: Podcasts/
+              url: podcasts/
             - name: Iceland
               url: iceland/
             - name: Blog
