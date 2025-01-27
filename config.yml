@@ -117,7 +117,9 @@ params:
       text: "Gauti B. Eggertsson"
       icon: favicon.ico
       iconHeight: 18
-
+    customCSS:
+    - css/common/custom.css  
+    
 markup:
     goldmark:
         renderer:
@@ -129,3 +131,4 @@ markup:
         endLevel: 2
         ordered: false
         startLevel: 2
+paginate: 0
