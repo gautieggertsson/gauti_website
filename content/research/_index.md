@@ -9,7 +9,7 @@ description: "Preprints and articles by Gauti B. Eggertsson."
 
 ### Recent (completed and working papers):
 
-- [The Forward Guidence Puzzle is not a Puzzle](/research/the-forward-guidence-puzzle-is-not-a-puzzle) (with Finn D. Schüle), NBER WP 33180, November 2024.
+- [The Forward Guidence Puzzle is not a Puzzle]({{< ref "research/the-forward-guidence-puzzle-is-not-a-puzzle/index.md" >}}) (with Finn D. Schüle), NBER WP 33180, November 2024.
 
 - [A Unified Theory of the Great Depression and the Great Recession](/gauti_website/research/a-unified-theory-of-the-great-depression-and-the-great-recession) (with Sergey K. Egiev), *Journal of Economic Literature*, forthcoming.
 
