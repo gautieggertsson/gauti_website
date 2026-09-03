@@ -20,7 +20,7 @@ excludeFromResearch: true
 ##### Download
 
 + [Paper](https://www.ecb.europa.eu/press/conferences/html/20170626_ecb_forum_on_central_banking.en.html)
-+ [Local PDF]()
++ [Local PDF](commentECB.pdf)
 
 ---
 

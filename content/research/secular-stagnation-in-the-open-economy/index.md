@@ -20,7 +20,7 @@ excludeFromResearch: true
 ##### Download
 
 + [Paper](https://ideas.repec.org/a/aea/aecrev/v106y2016i5p503-07.html)
-+ [Local PDF](AER-P&PEggMehrSumm.pdf)
++ [Local PDF](AER-PP-EggMehrSumm.pdf)
 
 ---
 

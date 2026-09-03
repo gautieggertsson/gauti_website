@@ -20,7 +20,7 @@ excludeFromResearch: true
 
 ##### Download
 
-+ [Paper](Benignio_Eggertsson_AEA_P&P.pdf)
++ [Paper](Benigno_Eggertsson_AEA_PP.pdf)
 + [NBER](https://www.nber.org/papers/w32172)
 
 ---

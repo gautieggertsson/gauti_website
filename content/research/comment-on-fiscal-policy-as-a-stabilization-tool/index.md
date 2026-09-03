@@ -19,8 +19,7 @@ excludeFromResearch: true
 
 ##### Download
 
-+ [Paper]()
-+ [Local PDF]()
++ [Local PDF](BEJournal.pdf)
 
 ---
 

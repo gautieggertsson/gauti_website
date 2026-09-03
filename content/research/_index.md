@@ -1,11 +1,9 @@
 ---
-title: "Reserach"
-description: "Preprints and articles by Gauti B. Eggertsson."
+title: "Research"
+description: "Working papers, published articles, commentaries, and older notes."
 ---
 
-<h1 align="center">Research</h1>
 
----
 
 ### Recent (completed and working papers):
 
@@ -17,13 +15,13 @@ description: "Preprints and articles by Gauti B. Eggertsson."
 
 - [The Inflation Surge of the 2020: The Role of Monetary Policy]({{< ref "research/the-inflation-surge-of-the-2020-the-role-of-monetary-policy/index.md" >}}) (with Donald Kohn), August 2023.
 
-- [*It’s Baaack: The Inflation Surge of 2020s and the Return of the Non-Linear Phillips Curve]({{< ref "research/its-baaack_the-inflation-surge-of-2020s-and-the-return-of-the-non-Linear-phillips-curve/index.md" >}}) (with Pierpaolo Benignio), Preliminary Revision, December, 2023.
+- [It’s Baaack: The Inflation Surge of 2020s and the Return of the Non-Linear Phillips Curve]({{< ref "research/its-baaack_the-inflation-surge-of-2020s-and-the-return-of-the-non-Linear-phillips-curve/index.md" >}}) (with Pierpaolo Benignio), Preliminary Revision, December, 2023.
 
 ### Most Recent Unpublished Working Papers
 
 - [The Inflation Surge of the 2020: The Role of Monetary Policy]({{< ref "research/the-inflation-surge-of-the-2020-the-role-of-monetary-policy/index.md" >}}) (with Donald Kohn), August 2023.
 
-- [*It’s Baaack: The Inflation Surge of 2020s and the Return of the Non-Linear Phillips Curve]({{< ref "research/its-baaack_the-inflation-surge-of-2020s-and-the-return-of-the-non-Linear-phillips-curve/index.md" >}}) (with Pierpaolo Benignio), Preliminary Revision, December, 2023.
+- [It’s Baaack: The Inflation Surge of 2020s and the Return of the Non-Linear Phillips Curve]({{< ref "research/its-baaack_the-inflation-surge-of-2020s-and-the-return-of-the-non-Linear-phillips-curve/index.md" >}}) (with Pierpaolo Benignio), Preliminary Revision, December, 2023.
 
 + [Mr. Keynes and the Classics; A Suggested Reinterpretation]({{< ref "research/mr-keynes-and-the-classics-a-suggested-reinterpretation/index.md" >}}) (with Cosimo Petracchi), September 2021.
 

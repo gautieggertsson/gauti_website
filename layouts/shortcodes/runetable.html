@@ -1,0 +1,16 @@
+{{- $d := site.Data.runes -}}
+<div class="rune-table-wrap"><table class="rune-table">
+<thead><tr><th>Letter</th><th>Rune</th><th>Name</th><th>About</th></tr></thead>
+<tbody>
+{{- $seen := slice }}
+{{- range $i, $ch := $d._name }}
+{{- if eq $ch ":" }}
+<tr class="sep"><td></td><td><span class="rune-sep">᛬</span></td><td>word divider</td><td>{{ if in $seen ":" }}{{ else }}Runic inscriptions rarely used spaces; dots separated words.{{ end }}</td></tr>
+{{- $seen = $seen | append ":" }}
+{{- else }}
+{{- $r := index $d $ch }}
+<tr><td class="lat">{{ index $d._latin $i }}</td><td class="gl">{{ $r.svg | safeHTML }} <span class="uni">{{ $r.uni }}</span></td><td>{{ $r.name }}</td><td>{{ if in $seen $ch }}<span class="again">Same rune as above.</span>{{ else }}{{ $r.note }}{{ end }}</td></tr>
+{{- $seen = $seen | append $ch }}
+{{- end }}
+{{- end }}
+</tbody></table></div>

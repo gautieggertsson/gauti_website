@@ -1,0 +1,61 @@
+{{ define "main" }}
+<section class="hero">
+  <div class="hero-side">
+    <div class="hero-photo"><img src="{{ .Site.Params.photo | relURL }}" alt="Portrait of {{ .Site.Params.author }}" width="500" height="500" fetchpriority="high"></div>
+    <a class="brown" href="https://economics.brown.edu/" rel="noopener" title="Economics Department, Brown University"><img src="{{ "brown-logo.png" | relURL }}" alt="Brown University" width="331" height="384"></a>
+  </div>
+  <div>
+    <p class="kicker">{{ .Site.Params.position }}</p>
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.lede }}<p class="lede">{{ . }}</p>{{ end }}
+    <div class="chips">
+      {{- range .Site.Params.links }}
+      <a class="chip{{ if ne .name "Email" }} quiet{{ end }}" href="{{ .url }}"{{ if hasPrefix .url "http" }} rel="noopener"{{ end }}>{{ .name }}</a>
+      {{- if eq .name "Email" }}
+      <a class="chip quiet" href="{{ "bio/" | relURL }}">Bio</a>
+      {{- end }}
+      {{- end }}
+    </div>
+  </div>
+</section>
+
+{{/* Featured papers: explicit list from config, else newest dated research pages. */}}
+{{ $featured := slice }}
+{{ range .Site.Params.featured }}{{ with site.GetPage . }}{{ $featured = $featured | append . }}{{ end }}{{ end }}
+{{ if not $featured }}
+  {{ range where site.RegularPages "Section" "research" }}{{ if not .Date.IsZero }}{{ $featured = $featured | append . }}{{ end }}{{ end }}
+  {{ $featured = first 6 (sort $featured "Date" "desc") }}
+{{ end }}
+{{ with $featured }}
+<section class="section" aria-labelledby="recent">
+  <div class="section-head">
+    <h2 id="recent">Recent work</h2>
+    <a class="more" href="{{ "research/" | relURL }}">All research →</a>
+  </div>
+  <div class="cards">
+    {{ range . }}
+    <a class="card" href="{{ .RelPermalink }}">
+      <span class="meta">{{ with .Params.editPost }}{{ .Text }}{{ end }}{{ if not .Date.IsZero }}{{ with .Params.editPost }}{{ if .Text }} · {{ end }}{{ end }}{{ .Date.Format "2006" }}{{ end }}</span>
+      <span class="title">{{ .Title }}</span>
+      {{ with .Params.author }}<span class="authors">{{ delimit . ", " " and " }}</span>{{ end }}
+      {{ with .Params.summary }}<span class="summary">{{ . }}</span>{{ end }}
+      <span class="cta">Read →</span>
+    </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
+<section class="section" aria-labelledby="explore">
+  <div class="section-head"><h2 id="explore">On this site</h2></div>
+  <div class="tiles">
+    {{ range .Site.Menus.main }}{{ if not (hasPrefix .URL "http") }}
+    <a class="tile" href="{{ .URL }}">
+      <p class="tk">{{ .Name }}</p>
+      <p class="tt">{{ with .Page }}{{ .Title }}{{ else }}{{ .Name }}{{ end }}</p>
+      {{ with .Page }}{{ with .Description }}<p class="td">{{ . }}</p>{{ end }}{{ end }}
+    </a>
+    {{ end }}{{ end }}
+  </div>
+</section>
+{{ end }}

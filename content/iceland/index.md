@@ -1,13 +1,10 @@
 ---
-title:
-description: "A Guide to Iceland"
+title: "A Guide to Iceland"
+description: "What to do in Iceland, from a Reykjavík native who gets asked a lot."
 ---
 
-<h1 align="center">Iceland</h1>
 
----
 
-A Guide to Iceland. What to do?
 
  
 

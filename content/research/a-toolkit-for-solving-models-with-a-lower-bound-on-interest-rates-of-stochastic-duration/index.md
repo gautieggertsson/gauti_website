@@ -34,7 +34,7 @@ This paper presents a toolkit to solve for equilibrium in a computationally effi
 
 + [Codes via GitHub](https://github.com/gautieggertsson/2-state-toolkit)
 
-+ [Replication Files](/gauti_website/data/2-state-toolkit-master.zip)
++ [Replication Files](/data/2-state-toolkit-master.zip)
 
 ---
 

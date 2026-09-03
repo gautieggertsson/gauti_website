@@ -22,7 +22,7 @@ excludeFromResearch: true
 ##### Download
 
 + [Paper](https://ideas.repec.org/p/nbr/nberwo/22243.html)
-+ [Local PDF](ChileEggProuxl.pdf)
++ [Local PDF](ChileEggProulx.pdf)
 
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Courses"
-description:
+title: "Teaching Materials"
+description: "Lecture notes, slides, and problem sets."
 ---
 
-<h2 style="text-align: center; color: red;">This website is currently under construction. Check back soon!</h2>
+Teaching materials will be posted here. Check back soon.

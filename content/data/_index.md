@@ -1,10 +1,6 @@
 ---
 title: "Replication Files"
-description: "Datasets on various philological topics."
+description: "Code and data for replicating published results."
 ---
 
-<h1 align="center">Replication Files</h1>
-
----
-
-- [2-state-toolkit-master.zip](2-state-toolkit-master.zip)
+- [Two-state toolkit for solving models with a lower bound on interest rates](2-state-toolkit-master.zip) (zip). The current version is maintained on [GitHub](https://github.com/gautieggertsson/2-state-toolkit).

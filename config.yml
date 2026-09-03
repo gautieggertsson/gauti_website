@@ -1,134 +1,81 @@
 baseURL: "https://gautieggertsson.github.io/gauti_website/"
 title: Gauti B. Eggertsson
-theme: PaperMod
-
-enableInlineShortcodes: true
+languageCode: en-us
 enableRobotsTXT: true
+enableInlineShortcodes: true
 
-taxonomies:
-    tag: tags
+# The site uses its own layouts in /layouts (no theme). Leftover template
+# demo pages are ignored here until they are deleted from /content.
+ignoreFiles:
+  - 'content/books/'
+  - 'content/papers_old/'
+  - 'content/posts/'
+  - 'content/tags/'
+  - 'content/location\.md'
+  - 'content/officehours\.md'
+  - 'content/archive\.md'
+
+disableKinds: ["taxonomy", "term", "RSS"]
 
 menu:
-    main:
-        - name: Home
-          url: /
-          weight: 1
-        - name: Research
-          url: research/
-          weight: 2
-        - name: Replication Files
-          url: data/
-          weight: 3
-        - name: Teaching Materials
-          url: courses/
-          weight: 4
-        - name: CV
-          url: cv/
-          weight: 5
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=6-MmtygAAAAJ&hl=en
-          weight: 6
-        - name: REPEC
-          url: https://ideas.repec.org/e/peg7.html
-          weight: 7 
-        - name: Podcasts
-          url: podcasts/
-          weight: 8
-        - name: Iceland
-          url: iceland/
-          weight: 9        
-        - name: Blog
-          url: https://gautieggertsson.blogspot.com/
-          weight: 10
+  main:
+    - name: Home
+      pageRef: /
+      weight: 1
+    - name: Research
+      pageRef: /research
+      weight: 2
+    - name: Replication Files
+      pageRef: /data
+      weight: 3
+    - name: Teaching
+      pageRef: /courses
+      weight: 4
+    - name: CV
+      pageRef: /cv
+      weight: 5
+    - name: Podcasts
+      pageRef: /podcasts
+      weight: 6
+    - name: Iceland
+      pageRef: /iceland
+      weight: 7
+    - name: Blog
+      url: https://gautieggertsson.blogspot.com/
+      weight: 8
 
 params:
-    description: "Gauti B. Eggertsson is a macroeconomist and the Dupee Family Professor of Economics at Brown University Economics Department.
-     He received his Ph.D. in Economics from Princeton University in 2004, after having completed his B.S. in economics from the University of Iceland.
-      He has worked at Research Departments of the International Monetary Fund and the Federal Reserve Bank of New York.
-       Since graduation he has also been visiting faculty at Princeton, Yale,
-        and Columbia where he taught international finance and macroeconomics at both graduate and undergraduate level.
-         Eggertsson has published in a variety of professional journals such as the American Economic Review, American Economic Journal:
-          Macroeconomics, American Economic Review: Insights, Brookings Papers on Economics Activity, Economic Journal, Journal of Monetary Economics,
-           Journal of Money, Credit and Banking, Review of Economic Studies, Review of Economic Dynamics and the Quarterly Journal of Economics.
-            The main focus of his work is the analysis of monetary and fiscal policy over the business cycle, both from a modern and historical perspective."
-    author: Gauti B. Eggertsson
-    # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
-    defaultTheme: light
-    hideFooter: false
-    disableThemeToggle: true
-    ShowShareButtons: false
-    ShowReadingTime: false
-    disableSpecial1stPost: true
-    disableAnchoredHeadings: true
-    ShowPostNavLinks: false
-    ShowBreadCrumbs: false
-    ShowCodeCopyButtons: true
-    ShowAllPagesInArchive: false
-    MainSections: ["books","courses","research","data"]
-    ShowToc: false
-    disableScrollToTop: true
-    TocOpen: true
-    ShowWordCount: false
-    UseHugoToc: true
-    comments: false
-    math: true
-    profileMode:
-          enabled: true
-          title: >
-           Gauti Bergþóruson Eggertsson, Dupee Family Professor of Economics at Brown
-          subtitle: > 
-           <p style='text-align: justify;'>Gauti B. Eggertsson is a macroeconomist and a Professor of Economics at Brown University Economics Department. He received his Ph.D. in Economics from Princeton University in 2004, after having completed his B.S. in economics from the University of Iceland. He has worked at Research Departments of the International Monetary Fund and the Federal Reserve Bank of New York. Since graduation he has also been visiting faculty at Princeton, Yale, and Columbia where he taught international finance and macroeconomics at both graduate and undergraduate level. Eggertsson has published in a variety of professional journals such as the American Economic Review, American Economic Journal: Macroeconomics, American Economic Review: Insights, Brookings Papers on Economics Activity, Economic Journal, Journal of Monetary Economics, Journal of Money, Credit and Banking, Review of Economic Studies, Review of Economic Dynamics and the Quarterly Journal of Economics. The main focus of his work is the analysis of monetary and fiscal policy over the business cycle, both from a modern and historical perspective. Change</p>
-          imageUrl: "gauti_pic.jpg"
-          imageWidth: 160
-          imageHeight: 160
-          buttons:
-            - name: Research
-              url: research/
-            - name: Replication Files
-              url: data/
-            - name: Teaching Materials
-              url: courses/
-            - name: CV
-              url: cv/
-            - name: Google Scholar
-              url: https://scholar.google.com/citations?user=6-MmtygAAAAJ&hl=en
-            - name: REPEC
-              url: https://ideas.repec.org/e/peg7.html 
-            - name: Podcasts
-              url: podcasts/
-            - name: Iceland
-              url: iceland/
-            - name: Blog
-              url: https://gautieggertsson.blogspot.com/
+  author: Gauti B. Eggertsson
+  description: "Gauti B. Eggertsson is a macroeconomist, the Dupee Family Professor of Social Sciences and Professor of Economics at the Economics Department, Brown University. His work analyzes monetary and fiscal policy over the business cycle, from a modern and a historical perspective."
+  affiliation: "Economics Department, Brown University"
+  position: "Dupee Family Professor of Social Sciences and Professor of Economics"
+  email: gauti_eggertsson@brown.edu
+  photo: gauti_pic.jpg
+  # External profiles shown as chips on the home page and in the footer.
+  links:
+    - name: Email
+      url: mailto:gauti_eggertsson@brown.edu
+    - name: Google Scholar
+      url: https://scholar.google.com/citations?user=6-MmtygAAAAJ&hl=en
+    - name: RePEc
+      url: https://ideas.repec.org/e/peg7.html
+    - name: Brown University
+      url: https://economics.brown.edu/people/gauti-eggertsson
+    - name: Blog
+      url: https://gautieggertsson.blogspot.com/
+  # Papers featured on the home page, in this order. Paths are relative to /content.
+  featured:
+    - /research/the-forward-guidence-puzzle-is-not-a-puzzle
+    - /research/a-unified-theory-of-the-great-depression-and-the-great-recession
+    - /research/the-slanted-l-phillips-curve
+    - /research/the-inflation-surge-of-the-2020-the-role-of-monetary-policy
+    - /research/its-baaack_the-inflation-surge-of-2020s-and-the-return-of-the-non-Linear-phillips-curve
+    - /research/negative-nominal-interest-rates-and-the-bank-lending-channel
 
-    socialIcons:
-        - name: Email
-          url: mailto:gauti_eggertsson@brown.edu
-        - name: Substack
-          url: 
-
-    assets:
-        disableScrollBarStyle: true
-    cover:
-        hiddenInList: false
-        hiddenInSingle: true
-    label:
-      text: "Gauti B. Eggertsson"
-      icon: favicon.ico
-      iconHeight: 18
-    customCSS:
-    - css/common/custom.css  
-    
 markup:
-    goldmark:
-        renderer:
-            unsafe: true
-    highlight:
-        guessSyntax: true
-        style: autumn 
-    tableOfContents:
-        endLevel: 2
-        ordered: false
-        startLevel: 2
-paginate: 0
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    guessSyntax: true
+    style: autumn

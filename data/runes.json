@@ -1,0 +1,119 @@
+{
+ "g": {
+  "svg": "<svg class=\"rune\" viewBox=\"-1 -1 12 22\" width=\"10.9\" height=\"20\" aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"5,1 5,19\"/><polyline points=\"5,2 9.5,8\"/></g><g fill=\"currentColor\"><circle cx=\"7.6\" cy=\"7.2\" r=\"1.4\"/></g></svg>",
+  "uni": "ᚵ",
+  "name": "dotted kaun",
+  "sound": "g",
+  "note": "The k-rune kaun with a dot added to mark the voiced sound g. Dotted runes are a medieval addition."
+ },
+ "a": {
+  "svg": "<svg class=\"rune\" viewBox=\"-1 -1 12 22\" width=\"10.9\" height=\"20\" aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"5,1 5,19\"/><polyline points=\"8,5 2,11\"/></g><g fill=\"currentColor\"></g></svg>",
+  "uni": "ᛅ",
+  "name": "ár",
+  "sound": "a",
+  "note": "Ár means \"year\" or \"harvest\"."
+ },
+ "u": {
+  "svg": "<svg class=\"rune\" viewBox=\"-1 -1 12 22\" width=\"10.9\" height=\"20\" aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"3,19 3,1 8,7 8,19\"/></g><g fill=\"currentColor\"></g></svg>",
+  "uni": "ᚢ",
+  "name": "úr",
+  "sound": "u",
+  "note": "Úr, \"drizzle\" in the Icelandic rune poem, aurochs in the older tradition."
+ },
+ "t": {
+  "svg": "<svg class=\"rune\" viewBox=\"-1 -1 12 22\" width=\"10.9\" height=\"20\" aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"5,1 5,19\"/><polyline points=\"1,6 5,1 9,6\"/></g><g fill=\"currentColor\"></g></svg>",
+  "uni": "ᛏ",
+  "name": "Týr",
+  "sound": "t",
+  "note": "Named for the god Týr."
+ },
+ "i": {
+  "svg": "<svg class=\"rune\" viewBox=\"-1 -1 12 22\" width=\"10.9\" height=\"20\" aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"5,1 5,19\"/></g><g fill=\"currentColor\"></g></svg>",
+  "uni": "ᛁ",
+  "name": "íss",
+  "sound": "i",
+  "note": "Íss means \"ice\"."
+ },
+ "b": {
+  "svg": "<svg class=\"rune\" viewBox=\"-1 -1 12 22\" width=\"10.9\" height=\"20\" aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"5,1 5,19\"/><polyline points=\"5,1 9,5 5,10 9,15 5,19\"/></g><g fill=\"currentColor\"></g></svg>",
+  "uni": "ᛒ",
+  "name": "bjarkan",
+  "sound": "b",
+  "note": "Bjarkan, the birch."
+ },
+ "e": {
+  "svg": "<svg class=\"rune\" viewBox=\"-1 -1 12 22\" width=\"10.9\" height=\"20\" aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"5,1 5,19\"/></g><g fill=\"currentColor\"><circle cx=\"5\" cy=\"10\" r=\"2.2\"/></g></svg>",
+  "uni": "ᛂ",
+  "name": "dotted íss",
+  "sound": "e",
+  "note": "The i-rune with a dot to mark e. Without the dot, e and i shared one rune."
+ },
+ "r": {
+  "svg": "<svg class=\"rune\" viewBox=\"-1 -1 12 22\" width=\"10.9\" height=\"20\" aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"5,1 5,19\"/><polyline points=\"5,1 9,5 5,9 9,19\"/></g><g fill=\"currentColor\"></g></svg>",
+  "uni": "ᚱ",
+  "name": "reið",
+  "sound": "r",
+  "note": "Reið means \"ride\" or \"wagon\"."
+ },
+ "s": {
+  "svg": "<svg class=\"rune\" viewBox=\"-1 -1 12 22\" width=\"10.9\" height=\"20\" aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"7,1 3,7 7,13 3,19\"/></g><g fill=\"currentColor\"></g></svg>",
+  "uni": "ᛋ",
+  "name": "sól",
+  "sound": "s",
+  "note": "Sól, the sun."
+ },
+ "o": {
+  "svg": "<svg class=\"rune\" viewBox=\"-1 -1 12 22\" width=\"10.9\" height=\"20\" aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"5,1 5,19\"/><polyline points=\"2,7 8,4\"/><polyline points=\"2,13 8,10\"/></g><g fill=\"currentColor\"></g></svg>",
+  "uni": "ᚮ",
+  "name": "óss",
+  "sound": "o",
+  "note": "Óss, \"river mouth\" in the Icelandic rune poem; the medieval form marks o."
+ },
+ "n": {
+  "svg": "<svg class=\"rune\" viewBox=\"-1 -1 12 22\" width=\"10.9\" height=\"20\" aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"5,1 5,19\"/><polyline points=\"2,7 8,13\"/></g><g fill=\"currentColor\"></g></svg>",
+  "uni": "ᚾ",
+  "name": "nauð",
+  "sound": "n",
+  "note": "Nauð means \"need\" or \"distress\"."
+ },
+ "_name": [
+  "g",
+  "a",
+  "u",
+  "t",
+  "i",
+  ":",
+  "b",
+  ":",
+  "e",
+  "g",
+  "g",
+  "e",
+  "r",
+  "t",
+  "s",
+  "s",
+  "o",
+  "n"
+ ],
+ "_latin": [
+  "G",
+  "a",
+  "u",
+  "t",
+  "i",
+  "",
+  "B",
+  "",
+  "E",
+  "g",
+  "g",
+  "e",
+  "r",
+  "t",
+  "s",
+  "s",
+  "o",
+  "n"
+ ]
+}

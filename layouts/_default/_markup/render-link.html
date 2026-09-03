@@ -1,1 +1,6 @@
-<a href="{{ .Destination | safeURL }}"{{ with .Title}} title="{{ . }}"{{ end }}{{ if strings.HasPrefix .Destination "http" }} target="_blank"{{ end }}>{{ .Text | safeHTML }}</a>
+{{- /* Root-relative links in markdown ("/data/x.zip") get the site's base path prepended,
+       so they work both locally and under the /gauti_website/ subpath on GitHub Pages. */ -}}
+{{- $u := .Destination -}}
+{{- if and (hasPrefix $u "/") (not (hasPrefix $u "//")) }}{{ $u = relURL $u }}{{ end -}}
+<a href="{{ $u | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if hasPrefix $u "http" }} rel="noopener"{{ end }}>{{ .Text | safeHTML }}</a>
+{{- /* no trailing newline */ -}}

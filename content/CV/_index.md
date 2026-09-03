@@ -1,10 +1,8 @@
 ---
 title: "Curriculum vitae"
-description: "Curriculum vitae for Gauti B. Eggertsson."
+description: "Curriculum vitae of Gauti B. Eggertsson (PDF)."
 ---
 
-<h1 align="center">Curriculum Vitae</h1>
 
----
 
 - [CV-Eggertsson_2022.pdf](CV-Eggertsson_2022.pdf)
