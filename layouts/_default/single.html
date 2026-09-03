@@ -14,7 +14,7 @@
 <nav class="paper-foot" aria-label="Research navigation">
   <a class="chip" href="{{ "research/" | relURL }}">← All research</a>
   {{ with .Site.GetPage "/data" }}<a class="chip quiet" href="{{ .RelPermalink }}">Replication files</a>{{ end }}
-  <a class="chip quiet" href="{{ "/" | relURL }}">Home</a>
+  <a class="chip quiet" href="{{ "" | relURL }}">Home</a>
 </nav>
 {{ else }}
 <header class="page-head">
