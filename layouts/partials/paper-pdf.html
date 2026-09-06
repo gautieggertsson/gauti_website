@@ -1,0 +1,9 @@
+{{- /* Returns the direct-download PDF for a research page: the `pdf` front matter
+       param if set, else the first PDF in the page bundle. Empty string if none. */ -}}
+{{- $out := "" -}}
+{{- with .Params.pdf -}}
+  {{- with $.Resources.Get . }}{{ $out = .RelPermalink }}{{ else }}{{ $out = . | relURL }}{{ end -}}
+{{- else -}}
+  {{- with .Resources.Match "*.pdf" }}{{ $out = (index . 0).RelPermalink }}{{ end -}}
+{{- end -}}
+{{- return $out -}}

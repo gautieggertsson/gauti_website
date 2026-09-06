@@ -12,6 +12,7 @@ editPost:
 #draft: false
 #hidden: false
 excludeFromResearch: true
+pdf: JMCB.pdf
 
 ---
 

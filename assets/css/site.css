@@ -170,6 +170,12 @@ hr.rule{border:0;border-top:1px solid var(--line);margin:34px 0}
 .paper-body .prose p{max-width:72ch}
 
 .paper-body .prose>hr:first-child{display:none}
+.paper-download{margin:0 0 14px}
+.chip.solid{background:var(--blue);color:#fff;border-color:var(--blue)}
+.chip.solid:hover{background:transparent;color:var(--blue)}
+.pdf-btn{display:inline-block;font-family:var(--mono);font-size:9.5px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--blue);border:1.5px solid var(--blue);border-radius:999px;padding:2px 8px;margin-left:6px;text-decoration:none;vertical-align:2px;white-space:nowrap}
+.pdf-btn:hover{background:var(--blue);color:#fff}
+.pubs li a.pdf-btn:first-child{font-weight:600}
 .paper-foot{display:flex;flex-wrap:wrap;gap:8px;border-top:1px solid var(--line);margin-top:36px;padding-top:22px;max-width:800px}
 
 /* ---------- footer ---------- */

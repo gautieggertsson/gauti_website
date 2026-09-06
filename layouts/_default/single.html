@@ -5,6 +5,7 @@
   <p class="kicker">{{ with .Params.editPost }}{{ if .URL }}<a href="{{ .URL }}" rel="noopener">{{ .Text }}</a>{{ else }}{{ .Text }}{{ end }}{{ else }}Research{{ end }}</p>
   <h1>{{ .Title }}</h1>
   {{ with .Params.author }}<p class="paper-authors">{{ delimit . ", " " and " }}</p>{{ end }}
+  {{ with partial "paper-pdf.html" . }}<p class="paper-download"><a class="chip solid" href="{{ . }}">Download PDF</a></p>{{ end }}
   <p class="paper-meta">
     {{ if not .Date.IsZero }}<span><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2006" }}</time></span>{{ end }}
     {{ with .Lastmod }}{{ if and (not .IsZero) (ne . $.Date) }}<span>Updated {{ .Format "January 2006" }}</span>{{ end }}{{ end }}
