@@ -1,5 +1,8 @@
 ---
 title: "Great Expectations and the End of the Depression" 
+volume: "98"
+issue: "4"
+pages: "1476–1516"
 date: 2008-09-01
 lastmod:
 tags:

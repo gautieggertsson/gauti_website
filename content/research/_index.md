@@ -40,7 +40,7 @@ description: "Working papers, published articles, commentaries, and older notes.
 + [A Toolkit for Solving Models with a Lower Bound on Interest Rates of Stochastic Duration](/research/a-toolkit-for-solving-models-with-a-lower-bound-on-interest-rates-of-stochastic-duration/) (with Sergey K. Egiev, Alessandro Lin, Josef Platzer and Luca Riva, September 2020), *Review of Economic Dynamics*, Volume 41, July 2021, issue in honor of the memory of Alejandro Justiniano.
   + For codes and programs click [here](https://github.com/gautieggertsson/2-state-toolkit).
 
-+ [Medium-Term Money Neutrality and the Effective Lower Bound](/research/medium-term-money-neutrality-and-the-effective-lower-bound/) (with Marc Giannoni), 50 year anniversity issue of the *Journal of Money, Credit and Banking*, Volume 52, Issue 52, February 2021.
++ [Medium-Term Money Neutrality and the Effective Lower Bound](/research/medium-term-money-neutrality-and-the-effective-lower-bound/) (with Marc Giannoni), 50 year anniversity issue of the *Journal of Money, Credit and Banking*, Volume 52, Issue S2, February 2021.
 
 + [Dynamic Debt Deleveraging and Optimal Monetary Policy](/research/dynamic-debt-deleveraging-and-optimal-monetary-policy/) (with Pierpaolo Benigno and Federica Romei), *American Economic Journal: Macroeconomics*, Vol 12, no. 2, April 2020.
 
@@ -74,15 +74,15 @@ description: "Working papers, published articles, commentaries, and older notes.
 
 + [Fiscal Multipliers and Policy Coordination](/research/fiscal-multipliers-and-policy-coordination/) in J. Gali, editor, *Fiscal Policy and Macroeconomic Performance*, Santiago: Central Bank of Chile, October 2013.
 
-+ [What Fiscal Policy is Effective at Zero Interest Rates?](/research/what-fiscal-policy-is-effective-at-zero-interest-rates/), *NBER Macroeconomic Annual*, 2010.
++ [What Fiscal Policy is Effective at Zero Interest Rates?](/research/what-fiscal-policy-is-effective-at-zero-interest-rates/), *NBER Macroeconomics Annual 2010*, Vol. 25: 59–112, May 2011.
 
 + [A Political Agency Theory of Central Bank Independence](/research/a-political-agency-theory-of-central-bank-independence/) (with Eric Le Borgne), *Journal of Money, Credit and Banking*, Vol. 42, No. 4, June 2010.
 
-+ [Great Expectations and the End of the Depression](/research/great-expectations-and-the-end-of-the-depression/), *American Economic Review*, 2008: 90(4).
++ [Great Expectations and the End of the Depression](/research/great-expectations-and-the-end-of-the-depression/), *American Economic Review*, 98(4): 1476–1516, September 2008.
 
 + [The Mistake of 1937: A General Equilibrium Analysis](/research/the-mistake-of-1937-a-general-equilibrium-analysis/) (with Benjamin Pugsley), *Monetary and Economic Studies*, 24(S-1), December 2006.
 
-+ [The Deflation Bias and Committing to being Irresponsible](/research/the-deflation-bias-and-committing-to-being-irresponsible/), *Journal of Money, Credit and Banking*, 36 (2), 2006.
++ [The Deflation Bias and Committing to being Irresponsible](/research/the-deflation-bias-and-committing-to-being-irresponsible/), *Journal of Money, Credit and Banking*, 38(2): 283–321, March 2006.
 
 + [Optimal Monetary and Fiscal Policy in a Liquidity Trap](/research/optimal-monetary-and-fiscal-policy-in-a-liquidity-trap/) (with Michael Woodford), *NBER International Seminar on Macroeconomics* 2004.
 
@@ -98,13 +98,13 @@ description: "Working papers, published articles, commentaries, and older notes.
 
 + [Comment on Monetary and Fiscal Policy in a Low Inflation Economy with Learning](/research/comment-on-monetary-and-fiscal-policy-in-a-low-inflation-economy-with-learning/), *Bank of Korea Annual Conference Volume*, 2006.
 
-+ [A Reply to Steven Horwitz Commentary on "Great Expectations and the End of the Depression"](/research/a-reply-to-steven-horwitz-commentary-on-great-expectations-and-the-end-of-the-depression/), *Economic Journal Watch*, September, 2010.
++ [A Reply to Steven Horwitz Commentary on "Great Expectations and the End of the Depression"](/research/a-reply-to-steven-horwitz-commentary-on-great-expectations-and-the-end-of-the-depression/), *Econ Journal Watch*, 7(3): 197–204, September 2010.
 
 + [Commentary on Price-Level Targeting and Stabilization Policy by A. Berentsen and C. Waller](/research/commentary-on-price-level-targeting-and-stabilization-policy/), *Journal of Money Credit and Banking*, October 2011, vol 43., p. 581-588.
  
 + [Commentary on Optimal Stabilization Policy by G. Mankiw and M. Winzierl](/research/commentary-on-optimal-stabilization-policy/), *Brookings Papers on Economic Activity*, spring 2011.
 
-+ [Commentary on How Flexible Can Inflation Targeting be and Still Work? by Kenneth N. Kuttner and Adam S Posen](/research/commentary-on-how-flexible-can-inflation-targeting-be-and-still-work/), *International Journal of Central Banking*, Volume 9, Supplement 1, January 2012. 
++ [Commentary on How Flexible Can Inflation Targeting be and Still Work? by Kenneth N. Kuttner and Adam S Posen](/research/commentary-on-how-flexible-can-inflation-targeting-be-and-still-work/), *International Journal of Central Banking*, Volume 8, Supplement 1, January 2012. 
 
 + [Comment on Fiscal Policy as a Stabilization Tool by Antonias Fatas and Ilian Mihov](/research/comment-on-fiscal-policy-as-a-stabilization-tool/), *B.E. Journal of Macroeconomics*, Volume 12, Issue 3, October 2012.
 

@@ -1,5 +1,8 @@
 ---
 title: "Aging, Output Per Capita and Secular Stagnation" 
+volume: "1"
+issue: "3"
+pages: "325–342"
 date: 2019-12-03
 lastmod:
 tags:

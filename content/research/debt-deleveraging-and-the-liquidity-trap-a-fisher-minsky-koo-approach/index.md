@@ -1,5 +1,8 @@
 ---
 title: "Debt, Deleveraging, and the Liquidity Trap: A Fisher-Minsky-Koo Approach" 
+volume: "127"
+issue: "3"
+pages: "1469–1513"
 date: 2012-08-01
 lastmod:
 tags:

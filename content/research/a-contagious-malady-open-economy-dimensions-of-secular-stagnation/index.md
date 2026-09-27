@@ -1,5 +1,8 @@
 ---
 title: "A Contagious Malady? Open Economy Dimensions of Secular Stagnation" 
+volume: "64"
+issue: "4"
+pages: "581–634"
 date: 2016-12-01
 lastmod:
 tags:

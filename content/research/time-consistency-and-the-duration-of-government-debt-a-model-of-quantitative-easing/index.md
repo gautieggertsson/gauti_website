@@ -1,5 +1,8 @@
 ---
 title: "Time Consistency and the Duration of Government Debt: A Model of Quantitative Easing" 
+volume: "90"
+issue: "4"
+pages: "1759–1799"
 date: 2023-07-01
 lastmod:
 tags:

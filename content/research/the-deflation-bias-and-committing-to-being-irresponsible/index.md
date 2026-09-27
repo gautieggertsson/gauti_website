@@ -1,5 +1,8 @@
 ---
 title: "The Deflation Bias and Committing to Being Irresponsible" 
+volume: "38"
+issue: "2"
+pages: "283–321"
 date: 2006-03-01
 lastmod:
 tags:

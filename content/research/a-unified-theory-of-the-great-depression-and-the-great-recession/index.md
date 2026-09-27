@@ -1,5 +1,8 @@
 ---
 title: "Liquidity Traps: A Unified Theory of the Great Depression and the Great Recession" 
+volume: "63"
+issue: "4"
+pages: "1424–1551"
 date: 2025-12-01
 lastmod:
 tags:

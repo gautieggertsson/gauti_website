@@ -35,7 +35,8 @@
   <div class="cards">
     {{ range . }}
     <a class="card" href="{{ .RelPermalink }}">
-      <span class="meta">{{ with .Params.editPost }}{{ .Text }}{{ end }}{{ if not .Date.IsZero }}{{ with .Params.editPost }}{{ if .Text }} · {{ end }}{{ end }}{{ .Date.Format "2006" }}{{ end }}</span>
+      {{- $p := . }}{{ $venue := .Params.journal }}{{ if not $venue }}{{ with .Params.editPost }}{{ $venue = .Text }}{{ end }}{{ end }}
+      <span class="meta">{{ $venue }}{{ with $p.Params.volume }} {{ . }}{{ with $p.Params.issue }}({{ . }}){{ end }}{{ end }}{{ if not $p.Date.IsZero }}{{ if $venue }} · {{ end }}{{ $p.Date.Format "2006" }}{{ end }}</span>
       <span class="title">{{ .Title }}</span>
       {{ with .Params.author }}<span class="authors">{{ delimit . ", " " and " }}</span>{{ end }}
       {{ with .Params.summary }}<span class="summary">{{ . }}</span>{{ end }}

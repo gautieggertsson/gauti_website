@@ -1,5 +1,7 @@
 ---
 title: "Kaldor and Piketty’s Facts: The Rise of Monopoly Power in the United States" 
+volume: "124"
+pages: "19–38"
 date: 2021-11-01
 lastmod:
 tags:

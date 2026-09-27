@@ -1,5 +1,8 @@
 ---
 title: "Discussion of “Price-Level Targeting and Stabilization Policy”" 
+volume: "43"
+issue: "S2"
+pages: "581–588"
 date: 2011-10-01
 lastmod:
 tags:

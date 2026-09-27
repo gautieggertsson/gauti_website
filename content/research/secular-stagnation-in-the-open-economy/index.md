@@ -1,5 +1,8 @@
 ---
 title: "Secular Stagnation in the Open Economy" 
+volume: "106"
+issue: "5"
+pages: "503–507"
 date: 2016-05-01
 lastmod:
 tags:

@@ -1,5 +1,7 @@
 ---
 title: "Commentary on Optimal Stabilization Policy by G. Mankiw and M. Winzierl" 
+volume: "42"
+issue: "1"
 date: 2011-03-01
 lastmod:
 tags:

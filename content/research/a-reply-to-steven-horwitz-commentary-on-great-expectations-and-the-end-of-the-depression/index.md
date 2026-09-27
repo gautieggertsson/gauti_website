@@ -1,5 +1,9 @@
 ---
 title: "A Reply to Steven Horwitz Commentary on “Great Expectations and the End of the Depression“" 
+journal: "Econ Journal Watch"
+volume: "7"
+issue: "3"
+pages: "197–204"
 date: 2010-09-01
 lastmod:
 tags:
@@ -8,7 +12,7 @@ description:
 summary:
 editPost:
     URL: "https://ideas.repec.org/a/ejw/journl/v7y2010i3p197-204.html"
-    Text: "Economic Journal Watch"
+    Text: "Econ Journal Watch"
 #draft: false
 #hidden: false
 excludeFromResearch: true

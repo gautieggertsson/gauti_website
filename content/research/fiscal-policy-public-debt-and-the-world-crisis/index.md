@@ -1,5 +1,8 @@
 ---
 title: "Fiscal Policy, Public Debt and the World Crisis" 
+volume: "15"
+issue: "2"
+pages: "225–242"
 date: 2014-05-01
 lastmod:
 tags:

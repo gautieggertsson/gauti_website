@@ -1,6 +1,8 @@
 ---
 title: "Sticky prices versus sticky information: Does it
 matter for policy paradoxes?" 
+volume: "31"
+pages: "363–392"
 date: 2019-01-01
 lastmod:
 tags:

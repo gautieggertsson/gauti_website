@@ -1,5 +1,8 @@
 ---
 title: "The Rise, Fall, and Resurrection  of Iceland: A Postmortem Analysis  of the 2008 Financial Crisis" 
+volume: "48"
+issue: "2"
+pages: "191–308"
 date: 2017-09-07
 lastmod:
 tags:

@@ -1,5 +1,8 @@
 ---
 title: "Second Discussant Comment on “Fiscal Policy as a Stabilization Tool”" 
+volume: "12"
+issue: "3"
+pages: "1–6"
 date: 2012-10-25
 lastmod:
 tags:

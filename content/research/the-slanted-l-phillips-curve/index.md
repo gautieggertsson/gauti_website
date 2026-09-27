@@ -1,5 +1,8 @@
 ---
 title: "The Slanted-L Phillips Curve" 
+journal: "AEA Papers and Proceedings"
+volume: "114"
+pages: "84–89"
 category: "Recent"
 date: 2024-02-01
 lastmod: 2024-11-04
@@ -13,7 +16,7 @@ cover:
     relative: false
 editPost:
     URL: "https://www.aeaweb.org/articles?id=10.1257/pandp.20241051"
-    Text: "American Economic Association"
+    Text: "AEA Papers and Proceedings"
 #draft: false
 excludeFromResearch: true
 ---

@@ -1,5 +1,7 @@
 ---
 title: "A Toolkit for Solving Models with a Lower Bound on Interest Rates of Stochastic Duration" 
+volume: "41"
+pages: "121–173"
 date: 2021-07-01
 lastmod:
 tags:

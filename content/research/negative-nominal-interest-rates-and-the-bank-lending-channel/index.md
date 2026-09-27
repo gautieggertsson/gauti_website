@@ -1,5 +1,8 @@
 ---
 title: "Negative Nominal Interest Rates and the Bank Lending Channel" 
+volume: "91"
+issue: "4"
+pages: "2201–2275"
 date: 2024-07-01
 lastmod:
 tags:

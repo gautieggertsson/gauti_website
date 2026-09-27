@@ -1,5 +1,8 @@
 ---
 title: "A Political Agency Theory of Central Bank Independence" 
+volume: "42"
+issue: "4"
+pages: "647–677"
 date: 2010-06-01
 lastmod:
 tags:

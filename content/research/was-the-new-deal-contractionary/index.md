@@ -1,5 +1,8 @@
 ---
 title: "Was the New Deal Contractionary?" 
+volume: "102"
+issue: "1"
+pages: "524–555"
 date: 2012-02-01
 lastmod:
 tags:

@@ -1,5 +1,7 @@
 ---
 title: "Log-linear Approximation versus an Exact Solution at the ZLB in the New Keynesian Model" 
+volume: "105"
+pages: "21–43"
 date: 2019-08-01
 lastmod:
 tags:

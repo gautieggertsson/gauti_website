@@ -1,5 +1,8 @@
 ---
 title: "Medium-Term Money Neutrality and the Effective Lower Bound" 
+volume: "52"
+issue: "S2"
+pages: "561–600"
 date: 2021-02-05
 lastmod:
 tags:

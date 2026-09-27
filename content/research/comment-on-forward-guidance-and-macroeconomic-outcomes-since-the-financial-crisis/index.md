@@ -1,5 +1,8 @@
 ---
 title: "Discussion of 'Forward Guidance and Macroeconomic Outcomes Since the Financial Crisis'" 
+journal: "NBER Macroeconomics Annual"
+volume: "31"
+pages: "364–374"
 date: 2016-05-01
 lastmod:
 tags:
@@ -8,7 +11,7 @@ description:
 summary:
 editPost:
     URL: ""
-    Text: ""
+    Text: "NBER Macroeconomics Annual"
 #draft: false
 #hidden: false
 excludeFromResearch: true

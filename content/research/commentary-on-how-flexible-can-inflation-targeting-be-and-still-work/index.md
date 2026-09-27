@@ -1,5 +1,8 @@
 ---
 title: "Discussion of “How Flexible Can Inflation Targeting Be and Still Work?”" 
+journal: "International Journal of Central Banking"
+volume: "8"
+issue: "S1"
 date: 2012-01-01
 lastmod:
 tags:
@@ -8,7 +11,7 @@ description:
 summary:
 editPost:
     URL: ""
-    Text: ""
+    Text: "International Journal of Central Banking"
 #draft: false
 #hidden: false
 excludeFromResearch: true

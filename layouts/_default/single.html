@@ -7,6 +7,9 @@
   {{ with .Params.author }}<p class="paper-authors">{{ delimit . ", " " and " }}</p>{{ end }}
   {{ with partial "paper-pdf.html" . }}<p class="paper-download"><a class="chip solid" href="{{ . }}">Download PDF</a></p>{{ end }}
   <p class="paper-meta">
+    {{ with .Params.volume }}<span>Vol. {{ . }}</span>{{ end }}
+    {{ with .Params.issue }}<span>No. {{ . }}</span>{{ end }}
+    {{ with .Params.pages }}<span>pp. {{ . }}</span>{{ end }}
     {{ if not .Date.IsZero }}<span><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2006" }}</time></span>{{ end }}
     {{ with .Lastmod }}{{ if and (not .IsZero) (ne . $.Date) }}<span>Updated {{ .Format "January 2006" }}</span>{{ end }}{{ end }}
   </p>

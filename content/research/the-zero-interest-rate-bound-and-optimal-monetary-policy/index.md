@@ -1,5 +1,8 @@
 ---
 title: "The Zero Bound on Interest Rates and Optimal Monetary Policy" 
+volume: "34"
+issue: "1"
+pages: "139–233"
 date: 2003-03-27
 lastmod:
 tags:

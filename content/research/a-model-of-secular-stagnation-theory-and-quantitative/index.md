@@ -1,5 +1,8 @@
 ---
 title: "A Model of Secular Stagnation: Theory and Quantitative Evaluation" 
+volume: "11"
+issue: "1"
+pages: "1–48"
 date: 2019-01-01
 lastmod:
 tags:

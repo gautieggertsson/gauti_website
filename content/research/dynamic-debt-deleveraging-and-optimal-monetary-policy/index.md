@@ -1,5 +1,8 @@
 ---
 title: "Dynamic Debt Deleveraging and Optimal Monetary Policy" 
+volume: "12"
+issue: "2"
+pages: "310–350"
 date: 2020-04-01
 lastmod:
 tags:

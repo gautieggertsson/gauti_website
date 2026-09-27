@@ -1,5 +1,8 @@
 ---
 title: "The Great Escape? A Quantitative Evaluation of the Fed's Liquidity Facilities" 
+volume: "107"
+issue: "3"
+pages: "824–857"
 date: 2017-03-15
 lastmod:
 tags:

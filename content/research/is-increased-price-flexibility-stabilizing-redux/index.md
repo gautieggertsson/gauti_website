@@ -1,5 +1,7 @@
 ---
 title: "Is Increased Price Flexibility Stabilizing? Redux" 
+volume: "100"
+pages: "66–82"
 date: 2018-12-15
 lastmod:
 tags:

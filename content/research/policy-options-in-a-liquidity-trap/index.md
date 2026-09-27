@@ -1,5 +1,8 @@
 ---
 title: "Policy Options in a Liquidity Trap" 
+volume: "94"
+issue: "2"
+pages: "76–79"
 date: 2004-05-01
 lastmod:
 tags:

@@ -1,5 +1,8 @@
 ---
 title: "Deficits, Public Debt Dynamics and Tax and Spending Multipliers" 
+volume: "123"
+issue: "566"
+pages: "133–163"
 date: 2013-02-01
 lastmod:
 tags:

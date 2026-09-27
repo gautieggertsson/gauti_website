@@ -1,5 +1,8 @@
 ---
 title: "The Mistake of 1937: A General Equilibrium Analysis" 
+volume: "24"
+issue: "S-1"
+pages: "151–190"
 date: 2006-12-01
 lastmod:
 tags:

@@ -1,6 +1,9 @@
 ---
 title: "What Fiscal Policy Is Effective at Zero Interest Rates?" 
-date:  2011-01-01 #ath date
+journal: "NBER Macroeconomics Annual"
+volume: "25"
+pages: "59–112"
+date: 2011-05-01
 lastmod:
 tags:
 author: ["Gauti B. Eggertsson"]
@@ -8,7 +11,7 @@ description:
 summary:
 editPost:
     URL: "https://www.nber.org/books-and-chapters/nber-macroeconomics-annual-2010-volume-25/what-fiscal-policy-effective-zero-interest-rates"
-    Text: "NBER Macroeconomics Annual 2010, volume 25"
+    Text: "NBER Macroeconomics Annual"
 #draft: false
 #hidden: false
 excludeFromResearch: true

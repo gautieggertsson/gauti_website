@@ -1,5 +1,7 @@
 ---
 title: "Can Structural Reforms Help Europe?" 
+volume: "61"
+pages: "2–22"
 date: 2014-01-01
 lastmod:
 tags:
