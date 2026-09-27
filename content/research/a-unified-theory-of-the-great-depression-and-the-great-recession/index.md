@@ -1,14 +1,14 @@
 ---
 title: "Liquidity Traps: A Unified Theory of the Great Depression and the Great Recession" 
 date: 2024-11-01
-lastmod:
+lastmod: 2025-12-01
 tags:
 author: ["Gauti B. Eggertsson", "Sergey K. Egiev"]
 description: 
-summary:
+summary: "A unified framework explaining the U.S. Great Depression, the U.S. Great Recession, and Japan's Long Recession as liquidity traps driven by negative natural interest rates, and what that implies for monetary credibility and fiscal policy."
 editPost:
-    URL: "https://www.nber.org/papers/w33195"
-    Text: "NBER 33195"
+    URL: "https://www.aeaweb.org/articles?id=10.1257/jel.20241306"
+    Text: "Journal of Economic Literature"
 #draft: false
 #hidden: true
 excludeFromResearch: true
@@ -18,8 +18,10 @@ excludeFromResearch: true
 
 ##### Download
 
-+ [Paper](https://ideas.repec.org/p/nbr/nberwo/33195.html)
-+ [Local PDF](Eggertsson_JEL.pdf)
++ [Paper (published version)](Eggertsson_JEL.pdf)
++ [Journal of Economic Literature](https://www.aeaweb.org/articles?id=10.1257/jel.20241306)
++ [NBER Working Paper 33195](https://www.nber.org/papers/w33195)
++ [Data and code (openICPSR)](https://www.openicpsr.org/openicpsr/project/237322/version/V1/view)
 
 ---
 
@@ -48,13 +50,17 @@ back mirror and the political landscape in the US has dramatically changed?
 
 ##### Citation
 
-Gauti B. Eggertsson & Sergey K. Egiev, 2024. "Liquidity Traps: A Unified Theory of the Great Depression and Great Recession," NBER Working Papers 33195, National Bureau of Economic Research, Inc.
+Eggertsson, Gauti B., and Sergey K. Egiev. 2025. "Liquidity Traps: A Unified Theory of the Great Depression and the Great Recession." *Journal of Economic Literature* 63 (4): 1424–1551. https://doi.org/10.1257/jel.20241306.
 
 ```BibTeX
-@techreport{eggertsson2024liquidity,
-  title={Liquidity Traps: A Unified Theory of the Great Depression and Great Recession},
-  author={Eggertsson, Gauti B and Egiev, Sergey K},
-  year={2024},
-  institution={National Bureau of Economic Research}
+@article{EggertssonEgiev2025,
+  author = {Eggertsson, Gauti B. and Egiev, Sergey K.},
+  title = {Liquidity Traps: A Unified Theory of the Great Depression and the Great Recession},
+  journal = {Journal of Economic Literature},
+  volume = {63},
+  number = {4},
+  pages = {1424--1551},
+  year = {2025},
+  doi = {10.1257/jel.20241306}
 }
 ```

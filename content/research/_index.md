@@ -9,7 +9,9 @@ description: "Working papers, published articles, commentaries, and older notes.
 
 - [The Forward Guidence Puzzle is not a Puzzle](/research/the-forward-guidence-puzzle-is-not-a-puzzle/) (with Finn D. Schüle), NBER WP 33180, November 2024.
 
-- [A Unified Theory of the Great Depression and the Great Recession](/research/a-unified-theory-of-the-great-depression-and-the-great-recession/) (with Sergey K. Egiev), *Journal of Economic Literature*, forthcoming.
+- [Liquidity Traps: A Unified Theory of the Great Depression and the Great Recession](/research/a-unified-theory-of-the-great-depression-and-the-great-recession/) (with Sergey K. Egiev), *Journal of Economic Literature*, 63(4): 1424–1551, December 2025.
+
+- [Revisiting the Phillips and Beveridge Curves: Insights from the 2020s Inflation Surge](/research/revisiting-the-phillips-and-beveridge-curves/) (with Pierpaolo Benigno), prepared for the Federal Reserve Bank of Kansas City Jackson Hole Economic Policy Symposium, August 2024. NBER WP 33095, October 2024.
 
 - [The Slanted-L Phillips Curve](/research/the-slanted-l-phillips-curve/) (with Pierpaolo Benigno), *AEA P&P*, May 2024.
 
@@ -25,9 +27,9 @@ description: "Working papers, published articles, commentaries, and older notes.
 
 + [Mr. Keynes and the Classics; A Suggested Reinterpretation](/research/mr-keynes-and-the-classics-a-suggested-reinterpretation/) (with Cosimo Petracchi), September 2021.
 
-+ [A Unified Theory of the Great Depression and the Great Recession](/research/a-unified-theory-of-the-great-depression-and-the-great-recession/) (with Sergey K. Egiev), *Journal of Economic Literature*. This version: November 2024, forthcoming.
-
 ### Published and Forthcoming Articles
+
++ [Liquidity Traps: A Unified Theory of the Great Depression and the Great Recession](/research/a-unified-theory-of-the-great-depression-and-the-great-recession/) (with Sergey K. Egiev), *Journal of Economic Literature*, 63(4): 1424–1551, December 2025.
 
 + [Negative Nominal Interest Rates and the Bank Lending Channel](/research/negative-nominal-interest-rates-and-the-bank-lending-channel/) (with Ragnar Juelsrud, Lawrence H. Summers and Ella G. Wold), *Review of Economic Studies*, forthcoming.
 
