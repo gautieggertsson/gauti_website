@@ -1,6 +1,6 @@
 ---
 title: "A Contagious Malady? Open Economy Dimensions of Secular Stagnation" 
-date:  2016-11-01
+date: 2016-12-01
 lastmod:
 tags:
 author: ["Gauti B. Eggertsson", "Neil R. Mehrotra", "Sanjay R. Singh", "Lawrence H. Summers"]

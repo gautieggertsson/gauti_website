@@ -31,9 +31,9 @@ description: "Working papers, published articles, commentaries, and older notes.
 
 + [Liquidity Traps: A Unified Theory of the Great Depression and the Great Recession](/research/a-unified-theory-of-the-great-depression-and-the-great-recession/) (with Sergey K. Egiev), *Journal of Economic Literature*, 63(4): 1424–1551, December 2025.
 
-+ [Negative Nominal Interest Rates and the Bank Lending Channel](/research/negative-nominal-interest-rates-and-the-bank-lending-channel/) (with Ragnar Juelsrud, Lawrence H. Summers and Ella G. Wold), *Review of Economic Studies*, forthcoming.
++ [Negative Nominal Interest Rates and the Bank Lending Channel](/research/negative-nominal-interest-rates-and-the-bank-lending-channel/) (with Ragnar Juelsrud, Lawrence H. Summers and Ella G. Wold), *Review of Economic Studies*, 91(4): 2201–2275, July 2024.
 
-+ [Time Consistency and the Duration of Government Debt: A Model of Quantitative Easing](/research/time-consistency-and-the-duration-of-government-debt-a-model-of-quantitative-easing/) (with Saroj Bhattarai and Bulat Gafarov), *Review of Economic Studies*, forthcoming.
++ [Time Consistency and the Duration of Government Debt: A Model of Quantitative Easing](/research/time-consistency-and-the-duration-of-government-debt-a-model-of-quantitative-easing/) (with Saroj Bhattarai and Bulat Gafarov), *Review of Economic Studies*, 90(4): 1759–1799, July 2023.
 
 + [Kaldor's and Piketty's Facts: The Rise of Monopoly Power in the United States](/research/kaldors-and-pikettys-facts-the-rise-of-monopoly-power-in-the-united-states/) (with Jakob Robbins and Ella Getz Wold), *Journal of Monetary Economics*, Volume 124, November 2021. [Talk](https://drive.google.com/file/d/1DW4zIwUirvUOixT0tQ3ExomT2nrBc7fR/view)
 
@@ -106,7 +106,7 @@ description: "Working papers, published articles, commentaries, and older notes.
 
 + [Commentary on How Flexible Can Inflation Targeting be and Still Work? by Kenneth N. Kuttner and Adam S Posen](/research/commentary-on-how-flexible-can-inflation-targeting-be-and-still-work/), *International Journal of Central Banking*, Volume 9, Supplement 1, January 2012. 
 
-+ [Comment on Fiscal Policy as a Stabilization Tool by Antonias Fatas and Ilian Mihov](/research/comment-on-fiscal-policy-as-a-stabilization-tool/), *B.E. Journal of Macroeconomics*, Volume 12, Issue 3.
++ [Comment on Fiscal Policy as a Stabilization Tool by Antonias Fatas and Ilian Mihov](/research/comment-on-fiscal-policy-as-a-stabilization-tool/), *B.E. Journal of Macroeconomics*, Volume 12, Issue 3, October 2012.
 
 + [Fiscal Policy, Public Debt and the World Crisis](/research/fiscal-policy-public-debt-and-the-world-crisis/) (prepared for Berlin symposium "Government Debt in Democracies: Causes, Effects, and Limits"), *German Economic Review*, Volumue 15, Issue 2, pages 225-242, May 2014.
 

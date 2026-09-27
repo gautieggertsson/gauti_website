@@ -1,6 +1,6 @@
 ---
 title: "Commentary on Slowing Business Dynamism and Productivity Growth in the United States" 
-date: 
+date: 2020-09-01
 lastmod:
 tags:
 author: ["Gauti B. Eggertsson"]

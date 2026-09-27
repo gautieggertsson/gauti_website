@@ -1,6 +1,6 @@
 ---
 title: "Negative Nominal Interest Rates and the Bank Lending Channel" 
-date: 2023-09-05
+date: 2024-07-01
 lastmod:
 tags:
 author: ["Gauti B. Eggertsson", " Ragnar E. Juelsrud", "Lawrence H. Summers", "Ella Getz Wold"]

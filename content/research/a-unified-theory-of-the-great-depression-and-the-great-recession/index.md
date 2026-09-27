@@ -1,7 +1,7 @@
 ---
 title: "Liquidity Traps: A Unified Theory of the Great Depression and the Great Recession" 
-date: 2024-11-01
-lastmod: 2025-12-01
+date: 2025-12-01
+lastmod:
 tags:
 author: ["Gauti B. Eggertsson", "Sergey K. Egiev"]
 description: 

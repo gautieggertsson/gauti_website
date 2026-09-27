@@ -1,6 +1,6 @@
 ---
 title: "A Model of Secular Stagnation" 
-date: 
+date: 2014-10-01
 lastmod:
 tags:
 author: ["Gauti B. Eggertsson", "Neil R. Mehrotra"]

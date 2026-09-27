@@ -1,6 +1,6 @@
 ---
 title: "Commentary on Optimal Stabilization Policy by G. Mankiw and M. Winzierl" 
-date: 2011-09-01
+date: 2011-03-01
 lastmod:
 tags:
 author: ["Gauti B. Eggertsson"]

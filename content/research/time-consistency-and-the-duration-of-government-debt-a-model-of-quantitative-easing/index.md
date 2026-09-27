@@ -1,6 +1,6 @@
 ---
 title: "Time Consistency and the Duration of Government Debt: A Model of Quantitative Easing" 
-date: 2022-09-07
+date: 2023-07-01
 lastmod:
 tags:
 author: ["Gauti B. Eggertsson", "Saroj Bhattarai", "Bulat Gafarov"]

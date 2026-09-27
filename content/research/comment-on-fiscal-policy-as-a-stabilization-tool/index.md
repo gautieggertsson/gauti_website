@@ -1,6 +1,6 @@
 ---
 title: "Second Discussant Comment on “Fiscal Policy as a Stabilization Tool”" 
-date: 
+date: 2012-10-25
 lastmod:
 tags:
 author: ["Gauti B. Eggertsson"]

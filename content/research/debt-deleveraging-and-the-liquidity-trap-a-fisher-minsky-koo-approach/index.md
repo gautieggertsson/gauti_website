@@ -1,6 +1,6 @@
 ---
 title: "Debt, Deleveraging, and the Liquidity Trap: A Fisher-Minsky-Koo Approach" 
-date: 2012-07-24
+date: 2012-08-01
 lastmod:
 tags:
 author: ["Gauti B. Eggertsson", "Paul Krugman"]

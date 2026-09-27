@@ -1,6 +1,6 @@
 ---
 title: "The Paradox of Toil" 
-date: 
+date: 2010-02-01
 lastmod:
 tags:
 author: ["Gauti B. Eggertsson"]
