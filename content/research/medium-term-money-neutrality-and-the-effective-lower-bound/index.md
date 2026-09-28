@@ -32,10 +32,6 @@ Conventional wisdom suggests that medium‐term money neutrality imposes strong 
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 
 Gauti B. Eggertsson & Marc P. Giannoni, 2020. "Medium‐Term Money Neutrality and the Effective Lower Bound," Journal of Money, Credit and Banking, Blackwell Publishing, vol. 52(S2), pages 561-600, December.

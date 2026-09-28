@@ -8,7 +8,7 @@ lastmod:
 tags:
 author: ["Gauti B. Eggertsson", " Ragnar E. Juelsrud", "Lawrence H. Summers", "Ella Getz Wold"]
 description: 
-summary:
+summary: "Household deposit rates are bounded below, so once policy rates turn negative the pass-through to lending rates and credit weakens and bank equity falls. A banking-sector model yields a sufficient statistic for when negative policy rates are expansionary and when they are not."
 editPost:
     URL: "https://academic.oup.com/restud/article-abstract/91/4/2201/7260037?redirectedFrom=fulltext"
     Text: "Review of Economic Studies"
@@ -28,10 +28,6 @@ excludeFromResearch: true
 
 ##### Abstract
 We investigate the bank lending channel of negative nominal policy rates from an empirical and theoretical perspective. We ﬁnd that retail household deposit rates are subject to a lower bound (DLB). Empirically, once the DLB is met, the pass-through to lending rates and credit volumes is substantially lower and bank equity values decline in response to further policy rate cuts. We construct a banking sector model and use our estimate of the pass-through of negative policy rates to lending rates as an identiﬁed moment to parameterize the model and assess the impact of negative policy rates in general equilibrium. Using the theoretical framework, we derive a suﬃcient statistic for when negative policy rates are expansionary and when they are not.
-
----
-
-##### Related material
 
 ---
 

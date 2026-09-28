@@ -32,10 +32,6 @@ No abstract available.
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 Eggertsson, Gauti B. "Discussion of 'How Flexible Can Inflation Targeting Be and Still Work?'" International Journal of Central Banking 9, Supplement 1 (January 2012): 101–104.
 

@@ -5,7 +5,7 @@ lastmod:
 tags:
 author: ["Gauti B. Eggertsson", "Finn D. Schüle"]
 description: 
-summary:
+summary: "The forward guidance puzzle in New Keynesian models arises from an implausibly large monetary regime change. Calibrated to four regime changes during the Great Depression and disciplined by long-term bond yields, the model's predictions match the historical data."
 editPost:
     URL: "https://www.nber.org/papers/w33180"
     Text: "NBER 33180"
@@ -25,11 +25,6 @@ excludeFromResearch: true
 ##### Abstract
 
 In standard New Keynesian models, future interest rate cuts have larger effects than current cuts—this is called the forward guidance puzzle. We argue that the forward guidance puzzle is not a puzzle. We show the puzzle arises from an implausibly large monetary regime change, exceeding anything in U.S. history since the Great Depression. By calibrating our model to four regime changes during the U.S. Great Depression, disciplined by changes in long-term bond yields, we find the model’s predictions are broadly consistent with historical data.
-
----
-
-##### Related material / Key take aways
-
 
 ---
 

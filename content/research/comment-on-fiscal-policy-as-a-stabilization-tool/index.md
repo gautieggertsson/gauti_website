@@ -10,7 +10,7 @@ author: ["Gauti B. Eggertsson"]
 description: 
 summary:
 editPost:
-    URL: "https://doi.org/10.1515/1935-1690.115."
+    URL: "https://doi.org/10.1515/1935-1690.115"
     Text: "The B.E. Journal of Macroeconomics"
 #draft: false
 #hidden: false
@@ -28,10 +28,6 @@ excludeFromResearch: true
 
 ##### Abstract
 No abstract available.
-
----
-
-##### Related material
 
 ---
 

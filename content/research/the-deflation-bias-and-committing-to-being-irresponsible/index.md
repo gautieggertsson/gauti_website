@@ -34,10 +34,6 @@ I model deflation, at zero nominal interest rate, in a microfounded general equi
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 Eggertsson, Gauti B., 2006. "The Deflation Bias and Committing to Being Irresponsible," Journal of Money, Credit and Banking, Blackwell Publishing, vol. 38(2), pages 283-321, March.
 

@@ -31,10 +31,6 @@ Structural reforms that increase competition in product and labor markets are of
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 Eggertsson, Gauti & Ferrero, Andrea & Raffo, Andrea, 2014. "Can structural reforms help Europe?," Journal of Monetary Economics, Elsevier, vol. 61(C), pages 2-22.
 

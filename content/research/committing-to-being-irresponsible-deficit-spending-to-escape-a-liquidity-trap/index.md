@@ -45,10 +45,6 @@ in Japan during the Great Depression can be rationalized by our model.
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 Eggertsson, Gauti B. Committing to Being Irresponsible: Deficit Spending to Escape a Liquidity Trap. Working paper. Princeton University, November 2001.
 

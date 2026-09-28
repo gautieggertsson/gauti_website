@@ -29,10 +29,6 @@ In previous work (Eggertsson and Woodford, 2003), we characterized the optimal c
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 Gauti B. Eggertsson & Michael Woodford, 2006. "Optimal Monetary and Fiscal Policy in a Liquidity Trap," NBER Chapters, in: NBER International Seminar on Macroeconomics 2004, pages 75-144, National Bureau of Economic Research, Inc.
 

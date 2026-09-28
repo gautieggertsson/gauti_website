@@ -31,10 +31,6 @@ No abstract available.
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 Eggertsson, Gauti B. 2011. "Discussion of 'Commentary on Price-Level Targeting and Stabilization Policy by A. Berentsen and C. Waller'." Brookings Papers on Economic Activity, Spring, 254–266.
 

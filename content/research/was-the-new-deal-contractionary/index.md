@@ -36,9 +36,6 @@ Can government policies that increase the monopoly power of firms and the milita
 
 ---
 
-##### Related material
----
-
 ##### Citation
 Gauti B. Eggertsson, 2012. "Was the New Deal Contractionary?," American Economic Review, American Economic Association, vol. 102(1), pages 524-555, February.
 

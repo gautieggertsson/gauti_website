@@ -32,10 +32,6 @@ We propose a simple theory to explain why, and under what circumstances, a polit
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 Gauti B. Eggertsson & Eric Le Borgne, 2010. "A Political Agency Theory of Central Bank Independence," Journal of Money, Credit and Banking, Blackwell Publishing, vol. 42(4), pages 647-677, June.
 

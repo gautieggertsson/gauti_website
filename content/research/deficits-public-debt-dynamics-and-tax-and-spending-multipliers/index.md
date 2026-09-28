@@ -32,9 +32,6 @@ Cutting government spending on goods and services increases the budget deficit i
 
 ---
 
-##### Related material
----
-
 ##### Citation
 Matthew Denes & Gauti B. Eggertsson & Sophia Gilbukh, 2013. "Deficits, Public Debt Dynamics and Tax and Spending Multipliers," Economic Journal, Royal Economic Society, vol. 0, pages 133-163, February.
 

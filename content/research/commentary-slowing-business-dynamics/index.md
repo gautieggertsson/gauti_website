@@ -29,10 +29,6 @@ No abstract available.
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 Eggertsson, Gauti B. 2020. "Commentary on Slowing Business Dynamism and Productivity Growth in the United States." Comments given at the Jackson Hole Conference on the paper "Slowing Business Dynamism and Productivity Growth in the United States" by Ufuk Akcigit and Sina T. Ates.
 

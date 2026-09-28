@@ -29,10 +29,6 @@ No abstract available.
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 Eggertsson, Gauti B. 2017. "Comment on 'Sources and Mechanisms of Stagnation and Impaired Growth in Advanced Economies'" ECB Forum on Central Banking: Investment and Growth in Advanced Economies. June.
 

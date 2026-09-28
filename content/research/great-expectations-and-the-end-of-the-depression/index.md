@@ -18,10 +18,6 @@ excludeFromResearch: true
 
 ---
 
-##### Related material
-
----
-
 ##### Download
 
 + [Paper](https://ideas.repec.org/a/aea/aecrev/v98y2008i4p1476-1516.html)

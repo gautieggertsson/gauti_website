@@ -32,10 +32,6 @@ No abstract available.
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 Gauti B. Eggertsson, 2011. "Discussion of “Price-Level Targeting and Stabilization Policy” by A. Berentsen and C. Waller" Journal of Money, Credit and Banking, Blackwell Publishing, vol. 43, pages 581-588, October.
 

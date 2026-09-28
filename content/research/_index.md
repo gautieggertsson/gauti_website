@@ -7,33 +7,25 @@ description: "Working papers, published articles, commentaries, and older notes.
 
 A summary of this research program appeared in the [NBER Reporter, 2017](https://www.nber.org/reporter/2017number1/eggertsson.html).
 
-### Recent (completed and working papers):
+### Working Papers
 
-- [The Forward Guidence Puzzle is not a Puzzle](/research/the-forward-guidence-puzzle-is-not-a-puzzle/) (with Finn D. Schüle), NBER WP 33180, November 2024.
+- [It’s Baaack: The Inflation Surge of 2020s and the Return of the Non-Linear Phillips Curve](/research/its-baaack_the-inflation-surge-of-2020s-and-the-return-of-the-non-linear-phillips-curve/) (with Pierpaolo Benigno), NBER WP 31197; revised October 2025.
 
-- [Liquidity Traps: A Unified Theory of the Great Depression and the Great Recession](/research/a-unified-theory-of-the-great-depression-and-the-great-recession/) (with Sergey K. Egiev), *Journal of Economic Literature*, 63(4): 1424–1551, December 2025.
+- [The Forward Guidance Puzzle is not a Puzzle](/research/the-forward-guidence-puzzle-is-not-a-puzzle/) (with Finn D. Schüle), NBER WP 33180, November 2024.
 
 - [Revisiting the Phillips and Beveridge Curves: Insights from the 2020s Inflation Surge](/research/revisiting-the-phillips-and-beveridge-curves/) (with Pierpaolo Benigno), prepared for the Federal Reserve Bank of Kansas City Jackson Hole Economic Policy Symposium, August 2024. NBER WP 33095, October 2024.
 
-- [The Slanted-L Phillips Curve](/research/the-slanted-l-phillips-curve/) (with Pierpaolo Benigno), *AEA P&P*, May 2024.
+- [The Inflation Surge of the 2020s: The Role of Monetary Policy](/research/the-inflation-surge-of-the-2020-the-role-of-monetary-policy/) (with Donald Kohn), Hutchins Center on Fiscal and Monetary Policy, Brookings Institution, August 2023.
 
-- [The Inflation Surge of the 2020: The Role of Monetary Policy](/research/the-inflation-surge-of-the-2020-the-role-of-monetary-policy/) (with Donald Kohn), August 2023.
+- [Mr. Keynes and the Classics; A Suggested Reinterpretation](/research/mr-keynes-and-the-classics-a-suggested-reinterpretation/) (with Cosimo Petracchi), September 2021.
 
-- [It’s Baaack: The Inflation Surge of 2020s and the Return of the Non-Linear Phillips Curve](/research/its-baaack_the-inflation-surge-of-2020s-and-the-return-of-the-non-linear-phillips-curve/) (with Pierpaolo Benigno), NBER WP 31197; revised October 2025.
-
-### Most Recent Unpublished Working Papers
-
-- [The Inflation Surge of the 2020: The Role of Monetary Policy](/research/the-inflation-surge-of-the-2020-the-role-of-monetary-policy/) (with Donald Kohn), August 2023.
-
-- [It’s Baaack: The Inflation Surge of 2020s and the Return of the Non-Linear Phillips Curve](/research/its-baaack_the-inflation-surge-of-2020s-and-the-return-of-the-non-linear-phillips-curve/) (with Pierpaolo Benigno), NBER WP 31197; revised October 2025.
-
-+ [Mr. Keynes and the Classics; A Suggested Reinterpretation](/research/mr-keynes-and-the-classics-a-suggested-reinterpretation/) (with Cosimo Petracchi), September 2021.
-
-### Published and Forthcoming Articles
+### Published Articles
 
 + [Liquidity Traps: A Unified Theory of the Great Depression and the Great Recession](/research/a-unified-theory-of-the-great-depression-and-the-great-recession/) (with Sergey K. Egiev), *Journal of Economic Literature*, 63(4): 1424–1551, December 2025.
 
 + [Negative Nominal Interest Rates and the Bank Lending Channel](/research/negative-nominal-interest-rates-and-the-bank-lending-channel/) (with Ragnar Juelsrud, Lawrence H. Summers and Ella G. Wold), *Review of Economic Studies*, 91(4): 2201–2275, July 2024.
+
++ [The Slanted-L Phillips Curve](/research/the-slanted-l-phillips-curve/) (with Pierpaolo Benigno), *AEA Papers and Proceedings*, 114: 84–89, May 2024.
 
 + [Time Consistency and the Duration of Government Debt: A Model of Quantitative Easing](/research/time-consistency-and-the-duration-of-government-debt-a-model-of-quantitative-easing/) (with Saroj Bhattarai and Bulat Gafarov), *Review of Economic Studies*, 90(4): 1759–1799, July 2023.
 

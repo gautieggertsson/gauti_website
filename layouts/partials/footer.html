@@ -11,5 +11,6 @@
     <a href="{{ .url }}"{{ if hasPrefix .url "http" }} rel="noopener"{{ end }}>{{ .name }}</a>
     {{- end }}
   </div>
-  <div>Updated {{ now.Format "January 2006" }}</div>
+  {{- $research := sort (where .Site.RegularPages "Section" "research") "Lastmod" "desc" }}
+  {{- with index $research 0 }}<div>Research updated {{ .Lastmod.Format "January 2006" }}</div>{{ end }}
 </div></footer>

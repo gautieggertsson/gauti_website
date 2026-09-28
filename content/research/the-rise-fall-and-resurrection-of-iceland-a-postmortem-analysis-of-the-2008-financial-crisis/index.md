@@ -32,10 +32,6 @@ This paper documents how the Icelandic banking system grew from 100 percent of G
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 Sigríður Benediktsdóttir & Gauti Bergþóruson Eggertsson & Eggert Þórarinsson, 2017. "The Rise, Fall, and Resurrection of Iceland: A Postmortem Analysis of the 2008 Financial Crisis," Brookings Papers on Economic Activity, Economic Studies Program, The Brookings Institution, vol. 48(2 (Fall)), pages 191-308.
 

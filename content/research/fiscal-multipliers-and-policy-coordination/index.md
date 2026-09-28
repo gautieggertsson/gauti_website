@@ -29,10 +29,6 @@ This paper analyzes the effectiveness of fiscal policy at zero nominal interest 
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 Gauti B. Eggertsson, 2013. "Fiscal Multipliers and Policy Coordination," Central Banking, Analysis, and Economic Policies Book Series, in: Luis Felipe Céspedes & Jordi Galí (ed.),Fiscal Policy and Macroeconomic Performance, edition 1, volume 17, chapter 6, pages 175-234, Central Bank of Chile.
 

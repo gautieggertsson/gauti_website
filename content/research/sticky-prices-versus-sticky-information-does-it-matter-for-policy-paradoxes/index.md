@@ -32,10 +32,6 @@ This paper shows that government spending multiplier at the zero lower bound (ZL
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 Gauti Eggertson & Vaishali Garga, 2019. "Sticky Prices versus Sticky Information: Does it Matter for Policy Paradoxes?," Review of Economic Dynamics, Elsevier for the Society for Economic Dynamics, vol. 31, pages 363-392, January.
 

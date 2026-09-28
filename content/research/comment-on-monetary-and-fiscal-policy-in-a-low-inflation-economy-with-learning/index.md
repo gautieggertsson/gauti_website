@@ -29,10 +29,6 @@ No abstract availabe.
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 Eggertsson, G. B. (2006). Comment on Monetary and Fiscal Policy in a Low Inflation Economy with Learning. In Bank of Korea Annual Conference Volume 2006. Seoul: Bank of Korea.
 

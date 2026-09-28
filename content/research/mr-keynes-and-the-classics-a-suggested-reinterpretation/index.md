@@ -29,10 +29,6 @@ This paper revisits and proposes a resolution to an empirical and theoretical co
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 
 Eggertsson, G. B., & Petracchi, C. (2021). Mr. Keynes and the “Classics”; A Suggested Reinterpretation (No. w29158). National Bureau of Economic Research.

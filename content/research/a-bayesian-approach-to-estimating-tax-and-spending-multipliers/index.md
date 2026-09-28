@@ -29,10 +29,6 @@ This paper outlines a simple Bayesian methodology for estimating tax and spendin
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 Denes, Matthew, and Gauti B. Eggertsson. "A Bayesian Approach to Estimating Tax and Spending Multipliers." Federal Reserve Bank of New York Staff Reports, no. 403, November 2009.
 

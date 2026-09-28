@@ -29,10 +29,6 @@ We solve for the optimal time-consistent monetary policy in the New Keynesian mo
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 Eric Swanson & Gauti Eggertsson, 2007. "Optimal Time-Consistent Monetary Policy in the New Keynesian Model with Repeated Simultaneous Play," 2007 Meeting Papers 214, Society for Economic Dynamics.
 

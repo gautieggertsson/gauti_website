@@ -32,10 +32,6 @@ This paper re-examines the relationship between population aging and economic gr
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 Gauti B. Eggertsson & Manuel Lancastre & Lawrence H. Summers, 2018. "Aging, Output Per Capita and Secular Stagnation," NBER Working Papers 24902, National Bureau of Economic Research, Inc.
 

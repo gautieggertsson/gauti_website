@@ -28,10 +28,6 @@ This paper examines the effects of quantitative easing implemented by the Bank o
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 Eggertsson, Gauti, and Jonathan D. Ostry. "Does Excess Liquidity Pose a Threat in Japan?" IMF Policy Discussion Paper, PDP/05/5. International Monetary Fund, April 2005.
 

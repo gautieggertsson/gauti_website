@@ -32,10 +32,6 @@ No abstract available.
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 Eggertsson, Gauti B. "Discussion of 'Forward Guidance and Macroeconomic Outcomes Since the Financial Crisis'." NBER Macroeconomics Annual 2016, vol. 31.
 

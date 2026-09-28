@@ -32,10 +32,6 @@ Tax cuts can deepen a recession if the short-term nominal interest rate is zero,
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 Gauti B. Eggertsson, 2011. "What Fiscal Policy Is Effective at Zero Interest Rates?," NBER Chapters, in: NBER Macroeconomics Annual 2010, volume 25, pages 59-112, National Bureau of Economic Research, Inc.
 

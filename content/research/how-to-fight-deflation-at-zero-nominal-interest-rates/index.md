@@ -37,10 +37,6 @@ the real rate of return.
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 Eggertsson, Gauti B. "How to Fight Deflation in a Liquidity Trap: Committing to Being Irresponsible." IMF Working Paper, no. 03/64. International Monetary Fund, March 2003.
 

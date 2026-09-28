@@ -29,19 +29,21 @@ This paper proposes a non-linear New Keynesian Phillips curve (Inv-L NK Phillips
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 
 Benigno, P., & Eggertsson, G. B. (2023). It’s baaack: The surge in inflation in the 2020s and the return of the non-linear phillips curve (No. w31197). National Bureau of Economic Research. Revised October 2025.
 
 ```BibTeX
-@techreport{benigno2023s,
-  title={It’s baaack: The surge in inflation in the 2020s and the return of the non-linear phillips curve},
-  author={Benigno, Pierpaolo and Eggertsson, Gauti B},
-  year={2023},
-  institution={National Bureau of Economic Research}
+@techreport{NBERw31197,
+  title = {It's Baaack: The Surge in Inflation in the 2020s and the Return of the Non-Linear Phillips Curve},
+  author = {Benigno, Pierpaolo and Eggertsson, Gauti B.},
+  institution = {National Bureau of Economic Research},
+  type = {Working Paper},
+  number = {31197},
+  year = {2023},
+  month = {April},
+  doi = {10.3386/w31197},
+  url = {https://www.nber.org/papers/w31197},
+  note = {Revised October 2025}
 }
 ```

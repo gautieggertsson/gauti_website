@@ -27,10 +27,6 @@ excludeFromResearch: true
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 
 ```BibTeX

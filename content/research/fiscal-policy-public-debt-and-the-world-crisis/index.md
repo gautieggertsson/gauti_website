@@ -32,10 +32,6 @@ This study summarizes a theory of the origin of the current world economic crisi
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 Gauti B. Eggertsson, 2014. "Fiscal Policy, Public Debt and the World Crisis," German Economic Review, Verein für Socialpolitik, vol. 15(2), pages 225-242, May.
 

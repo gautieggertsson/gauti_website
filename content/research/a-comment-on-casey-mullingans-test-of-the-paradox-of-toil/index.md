@@ -28,10 +28,6 @@ This note studies Casey Mulligan’s empirical test of the paradox of toil. Mull
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 Eggertsson, Gauti B. "A Comment on Casey Mulligan’s Test of the Paradox of Toil." Federal Reserve Bank of New York, May 2010.
 

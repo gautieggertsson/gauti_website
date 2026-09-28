@@ -1,5 +1,5 @@
 ---
-title: "The Inflation Surge of the 2020: The Role of Monetary Policy" 
+title: "The Inflation Surge of the 2020s: The Role of Monetary Policy" 
 date: 2023-08-01
 lastmod:
 tags:
@@ -29,19 +29,18 @@ The inflation surge that started in March 2021 marks the largest and most persis
 The objective of this paper is to evaluate the role the policy framework of the Federal Reserve and its implementation played in generating the unexpected inflation surge. On August 27, 2020, the Federal Reserve adopted a “Statement on Longer-run Goals and Monetary Policy.” This statement was largely developed based on the experience of the Federal Reserve prior to the pandemic. We will refer to this as the 2020 Policy Framework. We will refer to what it replaced as the 2012 Policy Framework. Shortly after the new Framework was adopted, the FOMC issued forward guidance about the conditions that would need to prevail to begin backing away from the very accommodative stance of policy adopted as Covid hit the global economy. That guidance was characterized by Federal Reserve Chair Jerome Powell as a “forceful” implementation of the new Framework. The main contribution of this paper is to analyze the change in the policy framework and offer a tentative analysis about how large of a role the framework, as well as its forceful implementation via forward guidance, played in generating the inflation surge.
 
 ---
-##### Related material
-
----
 ##### Citation
 
-Eggertsson, G. B., & Kohn, D. (2023). The inflation surge of the 2020s: the role of monetary policy. Presentation at Hutchins Center, Brookings Institution, 23.
+Eggertsson, Gauti B., and Donald Kohn. 2023. "The Inflation Surge of the 2020s: The Role of Monetary Policy." Hutchins Center on Fiscal and Monetary Policy, Brookings Institution, August 2023.
 
 ```BibTeX
-@article{eggertsson2023inflation,
-  title={The inflation surge of the 2020s: the role of monetary policy},
-  author={Eggertsson, Gauti B and Kohn, Don},
-  journal={Presentation at Hutchins Center, Brookings Institution},
-  volume={23},
-  year={2023}
+@techreport{EggertssonKohn2023,
+  author = {Eggertsson, Gauti B. and Kohn, Donald},
+  title = {The Inflation Surge of the 2020s: The Role of Monetary Policy},
+  institution = {Hutchins Center on Fiscal and Monetary Policy, Brookings Institution},
+  type = {Working Paper},
+  year = {2023},
+  month = {August},
+  url = {https://www.brookings.edu/articles/the-inflation-surge-of-the-2020s-the-role-of-monetary-policy/}
 }
 ```

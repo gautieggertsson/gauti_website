@@ -28,10 +28,6 @@ No abstract available.
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 Eggertsson, G. B. (2004). Comment on Macroeconomic Policy in the European Monetary Union. In NBER International Seminar on Macroeconomics 2004. National Bureau of Economic Research
 

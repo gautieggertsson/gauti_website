@@ -38,10 +38,6 @@ simple model continue to apply.
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 Bhattarai, Saroj & Eggertsson, Gauti B. & Schoenle, Raphael, 2018. "Is increased price flexibility stabilizing? Redux," Journal of Monetary Economics, Elsevier, vol. 100(C), pages 66-82.
 

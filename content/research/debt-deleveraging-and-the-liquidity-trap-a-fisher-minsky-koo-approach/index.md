@@ -33,10 +33,6 @@ In this article we present a simple new Keynesian--style model of debt-driven sl
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 Gauti B. Eggertsson & Paul Krugman, 2012. "Debt, Deleveraging, and the Liquidity Trap: A Fisher-Minsky-Koo Approach," The Quarterly Journal of Economics, President and Fellows of Harvard College, vol. 127(3), pages 1469-1513.
 

@@ -32,10 +32,6 @@ This paper studies optimal monetary policy under dynamic debt deleveraging once 
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 
 Benigno, P., Eggertsson, G. B., & Romei, F. (2020). Dynamic debt deleveraging and optimal monetary policy. American Economic Journal: Macroeconomics, 12(2), 310-350.

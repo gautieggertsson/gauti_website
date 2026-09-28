@@ -15,10 +15,6 @@ excludeFromResearch: true
 
 ---
 
-##### Related material
-
----
-
 ##### Download
 
 + [Paper](https://ideas.repec.org/p/nbr/nberwo/22243.html)

@@ -10,6 +10,6 @@
     {{- if or (eq (lower .Permalink) (lower $u)) (eq (lower .RelPermalink) (lower $u)) }}{{ $target = . }}{{ end -}}
   {{- end -}}
   {{- with $target -}}
-    {{- with partial "paper-pdf.html" . }} <a class="pdf-btn" href="{{ . }}" title="Download the PDF directly">PDF</a>{{ end -}}
+    {{- with partial "paper-pdf.html" . }} <a class="pdf-btn" href="{{ . }}" title="Download the PDF directly" aria-label="Download PDF: {{ $target.Title }}">PDF</a>{{ end -}}
   {{- end -}}
 {{- end -}}

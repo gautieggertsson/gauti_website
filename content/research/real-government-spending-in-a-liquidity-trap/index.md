@@ -31,10 +31,6 @@ spending from a time varying target level. Using this welfare criterion, optimal
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 Eggertsson, Gauti B. Real Government Spending in a Liquidity Trap. Princeton University, November 2001. Preliminary draft.
 

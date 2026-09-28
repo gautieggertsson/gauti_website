@@ -35,10 +35,6 @@ this effect can be substantial.
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 Saroj Bhattarai & Gauti B Eggertsson & Bulat Gafarov, 2023. "Time Consistency and Duration of Government Debt: A Model of Quantitative Easing," The Review of Economic Studies, Review of Economic Studies Ltd, vol. 90(4), pages 1759-1799.
 

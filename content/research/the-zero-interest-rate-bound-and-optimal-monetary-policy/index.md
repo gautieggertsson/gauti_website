@@ -32,10 +32,6 @@ This paper considers the consequences for monetary policy of the zero floor for 
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 Gauti B. Eggertsson & Michael Woodford, 2003. "The Zero Bound on Interest Rates and Optimal Monetary Policy," Brookings Papers on Economic Activity, Economic Studies Program, The Brookings Institution, vol. 34(1), pages 139-235.
 

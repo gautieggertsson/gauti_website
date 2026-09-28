@@ -15,7 +15,7 @@ ignoreFiles:
   - 'content/officehours\.md'
   - 'content/archive\.md'
 
-disableKinds: ["taxonomy", "term", "RSS"]
+disableKinds: ["taxonomy", "term"]
 
 menu:
   main:

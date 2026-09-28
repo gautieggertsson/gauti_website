@@ -34,10 +34,6 @@ This third chapter analyses fiscal policy at zero nominal interest rate in alter
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 Eggertsson, Gauti B. Optimal Monetary and Fiscal Policy and the Liquidity Trap. PhD diss., Princeton University, 2004.
 

@@ -29,10 +29,6 @@ A liquidity trap is defined as a situation in which the short-term nominal inter
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 
 ```BibTeX

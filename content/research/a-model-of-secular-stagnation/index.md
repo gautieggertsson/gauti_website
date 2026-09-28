@@ -29,10 +29,6 @@ We propose an overlapping generations New Keynesian model in which a permanent (
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 Gauti B. Eggertsson & Neil R. Mehrotra, 2014. "A Model of Secular Stagnation," NBER Working Papers 20574, National Bureau of Economic Research, Inc.
 

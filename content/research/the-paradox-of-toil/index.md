@@ -29,10 +29,6 @@ This paper proposes a new paradox: the paradox of toil. Suppose everyone wakes u
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 Gauti B. Eggertsson, 2010. "The paradox of toil," Staff Reports 433, Federal Reserve Bank of New York.
 

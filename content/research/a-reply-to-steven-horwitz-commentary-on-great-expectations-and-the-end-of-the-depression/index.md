@@ -11,7 +11,7 @@ author: ["Gauti B. Eggertsson"]
 description: 
 summary:
 editPost:
-    URL: "https://ideas.repec.org/a/ejw/journl/v7y2010i3p197-204.html"
+    URL: "https://econjwatch.org/file_download/454/EggertssonSept2010.pdf"
     Text: "Econ Journal Watch"
 #draft: false
 #hidden: false
@@ -23,17 +23,13 @@ excludeFromResearch: true
 
 ##### Download
 
-+ [Paper](https://ideas.repec.org/a/ejw/journl/v7y2010i3p197-204.html)
-+ [Local PDF](EggertssonSept2010.pdf)
++ [Paper](EggertssonSept2010.pdf)
++ [Econ Journal Watch](https://econjwatch.org/file_download/454/EggertssonSept2010.pdf)
 
 ---
 
 ##### Abstract
 This note responds to some issues raised by Steven Horwitz’s (EJW, September 2009) commentary on my article “Great Expectations and the End of the Depression”(AER, September 2008).
-
----
-
-##### Related material
 
 ---
 

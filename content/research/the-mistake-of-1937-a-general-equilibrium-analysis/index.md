@@ -32,10 +32,6 @@ This paper studies a dynamic stochastic general equilibrium model with sticky pr
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 Gauti B. Eggertsson & Benjamin Pugsley, 2006. "The Mistake of 1937: A General Equilibrium Analysis," Monetary and Economic Studies, Institute for Monetary and Economic Studies, Bank of Japan, vol. 24(S1), pages 151-190, December.
 

@@ -31,10 +31,6 @@ How accurate is a log-linear approximation of the New Keynesian model when the n
 
 ---
 
-##### Related material
-
----
-
 ##### Citation
 Eggertsson, Gauti B. & Singh, Sanjay R., 2019. "Log-linear approximation versus an exact solution at the ZLB in the New Keynesian model," Journal of Economic Dynamics and Control, Elsevier, vol. 105(C), pages 21-43.
 
