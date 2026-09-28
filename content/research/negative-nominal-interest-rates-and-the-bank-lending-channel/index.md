@@ -23,6 +23,7 @@ excludeFromResearch: true
 
 + [Paper](https://ideas.repec.org/a/oup/restud/v91y2024i4p2201-2275..html)
 + [Local PDF](Negative_interest_rates_and_the_bank_lending_channel__Revised.pdf)
++ [Data and code (Zenodo)](https://doi.org/10.5281/zenodo.8113824)
 
 ---
 

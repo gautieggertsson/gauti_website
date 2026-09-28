@@ -27,7 +27,7 @@ excludeFromResearch: true
 + [American Economic Review](https://www.aeaweb.org/articles?id=10.1257/aer.102.1.524)
 + [Web Appendix](eggertsson-2012-was-the-new-deal-contractionary-appendix.pdf)
 + [Web Appendix (AEA)](https://www.aeaweb.org/articles/materials/1456)
-+ [Replication package (openICPSR)](https://doi.org/10.3886/E112501V1)
++ [Data and code (openICPSR)](https://doi.org/10.3886/E112501V1)
 
 ---
 

@@ -22,6 +22,8 @@ excludeFromResearch: true
 
 + [Paper](https://ideas.repec.org/a/aea/aecrev/v107y2017i3p824-57.html)
 + [Local PDF](AER-DEFK.pdf)
++ [Supplemental appendix (AEA)](https://www.aeaweb.org/articles/materials/6807)
++ [Data and code (openICPSR)](https://doi.org/10.3886/E112902V1)
 
 ---
 

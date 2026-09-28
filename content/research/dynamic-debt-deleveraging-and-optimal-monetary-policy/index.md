@@ -24,6 +24,7 @@ excludeFromResearch: true
 
 + [Paper](https://ideas.repec.org/p/nbr/nberwo/20556.html)
 + [Local PDF](OMPD-FINALE-250119.pdf)
++ [Data and code (openICPSR)](https://doi.org/10.3886/E231504V1)
 
 ---
 

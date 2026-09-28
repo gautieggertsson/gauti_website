@@ -24,6 +24,7 @@ excludeFromResearch: true
 
 + [Paper](https://ideas.repec.org/p/nbr/nberwo/24902.html)
 + [Local PDF](w24902.pdf) 
++ [Data and code (openICPSR)](https://doi.org/10.3886/E231432V1)
 
 ---
 

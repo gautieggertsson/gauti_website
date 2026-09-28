@@ -22,6 +22,7 @@ excludeFromResearch: true
 
 + [Paper](https://ideas.repec.org/a/aea/aecrev/v98y2008i4p1476-1516.html)
 + [Local PDF](Great_Exp_AER.pdf)
++ [Data and code (openICPSR)](https://doi.org/10.3886/E113257V1)
 
 ---
 

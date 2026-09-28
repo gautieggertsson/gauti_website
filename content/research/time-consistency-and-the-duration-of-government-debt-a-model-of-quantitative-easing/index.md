@@ -23,6 +23,7 @@ excludeFromResearch: true
 
 + [Paper](https://ideas.repec.org/a/oup/restud/v90y2023i4p1759-1799..html)
 + [Local PDF](QEPaper_Final_Revision_2022.pdf)
++ [Data and code (Zenodo)](https://doi.org/10.5281/zenodo.7007875)
 
 ---
 
