@@ -1,5 +1,6 @@
 ---
 title: "Commentary on Optimal Stabilization Policy by G. Mankiw and M. Winzierl" 
+journal: "Brookings Papers on Economic Activity"
 volume: "42"
 issue: "1"
 date: 2011-03-01

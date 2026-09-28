@@ -1,0 +1,40 @@
+{{- /* Highwire Press citation_* tags read by Google Scholar, so the free PDF hosted here is attached to the paper's Scholar entry. */ -}}
+{{- $pdf := partial "paper-pdf.html" . -}}
+{{- if .Title }}
+<meta name="citation_title" content="{{ .Title }}">
+{{- end }}
+{{- range .Params.author }}{{ with trim . " " }}
+<meta name="citation_author" content="{{ . }}">
+{{- end }}{{ end }}
+{{- if not .Date.IsZero }}
+<meta name="citation_publication_date" content="{{ .Date.Format "2006/01/02" }}">
+{{- end }}
+{{- with $pdf }}
+<meta name="citation_pdf_url" content="{{ . | absURL }}">
+{{- end }}
+<meta name="citation_abstract_html_url" content="{{ .Permalink }}">
+<meta name="citation_language" content="en">
+{{- if .Params.volume }}
+{{- $journal := .Params.journal }}{{ if not $journal }}{{ with .Params.editPost }}{{ $journal = .Text }}{{ end }}{{ end }}
+{{- with $journal }}
+<meta name="citation_journal_title" content="{{ . }}">
+{{- end }}
+<meta name="citation_volume" content="{{ .Params.volume }}">
+{{- with .Params.issue }}
+<meta name="citation_issue" content="{{ . }}">
+{{- end }}
+{{- with .Params.pages }}
+{{- $p := split (replace (replace . "–" "-") "—" "-") "-" }}
+<meta name="citation_firstpage" content="{{ trim (index $p 0) " " }}">
+{{- if gt (len $p) 1 }}
+<meta name="citation_lastpage" content="{{ trim (index $p 1) " " }}">
+{{- end }}
+{{- end }}
+{{- end }}
+{{- with .Params.editPost }}{{ with .URL }}
+{{- $doi := "" }}
+{{- if findRE "doi\\.org/" . }}{{ $doi = replaceRE "^.*doi\\.org/" "" . }}{{ else if findRE "aeaweb\\.org/articles\\?id=" . }}{{ $doi = replaceRE "^.*articles\\?id=" "" . | replaceRE "%2F" "/" | replaceRE "&.*$" "" }}{{ end }}
+{{- with $doi }}
+<meta name="citation_doi" content="{{ . }}">
+{{- end }}
+{{- end }}{{ end }}
