@@ -3,6 +3,7 @@ title: "Was the New Deal Contractionary?"
 volume: "102"
 issue: "1"
 pages: "524–555"
+pdf: eggertsson-2012-was-the-new-deal-contractionary.pdf
 date: 2012-02-01
 lastmod:
 tags:
@@ -22,8 +23,11 @@ excludeFromResearch: true
 
 ##### Download
 
-+ [Paper](https://ideas.repec.org/a/aea/aecrev/v102y2012i1p524-55.html)
-+ [Local PDF](eggertsson-2012-was-the-new-deal-contractionary.pdf)
++ [Paper](eggertsson-2012-was-the-new-deal-contractionary.pdf)
++ [American Economic Review](https://www.aeaweb.org/articles?id=10.1257/aer.102.1.524)
++ [Web Appendix](eggertsson-2012-was-the-new-deal-contractionary-appendix.pdf)
++ [Web Appendix (AEA)](https://www.aeaweb.org/articles/materials/1456)
++ [Replication package (openICPSR)](https://doi.org/10.3886/E112501V1)
 
 ---
 

@@ -5,6 +5,8 @@ description: "Working papers, published articles, commentaries, and older notes.
 
 
 
+A summary of this research program appeared in the [NBER Reporter, 2017](https://www.nber.org/reporter/2017number1/eggertsson.html).
+
 ### Recent (completed and working papers):
 
 - [The Forward Guidence Puzzle is not a Puzzle](/research/the-forward-guidence-puzzle-is-not-a-puzzle/) (with Finn D. Schüle), NBER WP 33180, November 2024.
@@ -17,13 +19,13 @@ description: "Working papers, published articles, commentaries, and older notes.
 
 - [The Inflation Surge of the 2020: The Role of Monetary Policy](/research/the-inflation-surge-of-the-2020-the-role-of-monetary-policy/) (with Donald Kohn), August 2023.
 
-- [It’s Baaack: The Inflation Surge of 2020s and the Return of the Non-Linear Phillips Curve](/research/its-baaack_the-inflation-surge-of-2020s-and-the-return-of-the-non-linear-phillips-curve/) (with Pierpaolo Benignio), Preliminary Revision, December, 2023.
+- [It’s Baaack: The Inflation Surge of 2020s and the Return of the Non-Linear Phillips Curve](/research/its-baaack_the-inflation-surge-of-2020s-and-the-return-of-the-non-linear-phillips-curve/) (with Pierpaolo Benigno), NBER WP 31197; revised October 2025.
 
 ### Most Recent Unpublished Working Papers
 
 - [The Inflation Surge of the 2020: The Role of Monetary Policy](/research/the-inflation-surge-of-the-2020-the-role-of-monetary-policy/) (with Donald Kohn), August 2023.
 
-- [It’s Baaack: The Inflation Surge of 2020s and the Return of the Non-Linear Phillips Curve](/research/its-baaack_the-inflation-surge-of-2020s-and-the-return-of-the-non-linear-phillips-curve/) (with Pierpaolo Benignio), Preliminary Revision, December, 2023.
+- [It’s Baaack: The Inflation Surge of 2020s and the Return of the Non-Linear Phillips Curve](/research/its-baaack_the-inflation-surge-of-2020s-and-the-return-of-the-non-linear-phillips-curve/) (with Pierpaolo Benigno), NBER WP 31197; revised October 2025.
 
 + [Mr. Keynes and the Classics; A Suggested Reinterpretation](/research/mr-keynes-and-the-classics-a-suggested-reinterpretation/) (with Cosimo Petracchi), September 2021.
 
