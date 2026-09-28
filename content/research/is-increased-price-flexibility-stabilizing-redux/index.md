@@ -23,6 +23,7 @@ excludeFromResearch: true
 
 + [Paper](https://ideas.repec.org/p/nbr/nberwo/19886.html)
 + [Local PDF](PriceFlex.pdf)
++ [Online appendix (NBER)](https://data.nber.org/data-appendix/w19886/)
 
 ---
 

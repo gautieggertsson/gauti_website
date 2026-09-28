@@ -24,6 +24,7 @@ excludeFromResearch: true
 
 + [Paper](https://ideas.repec.org/a/red/issued/18-259.html)
 + [Local PDF](Eggertsson_Garga_RED_Resub.pdf)
++ [Data and code (RED archive)](https://ideas.repec.org/c/red/ccodes/18-259.html)
 
 ---
 

@@ -23,6 +23,7 @@ excludeFromResearch: true
 
 + [Paper](https://ideas.repec.org/p/nbr/nberwo/22784.html)
 + [Local PDF](LogLin.pdf)
++ [Replication code (hosted by Sanjay Singh)](https://www.dropbox.com/scl/fi/wl1qbc3y7z6pz48s53q2o/ReplicationCodes_EggertssonSingh.zip?rlkey=tddo815baab9w3wd3c581esh7&st=9v2e3ku3&dl=0)
 
 ---
 
