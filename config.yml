@@ -41,7 +41,7 @@ menu:
       identifier: icelandic-writing
       pageRef: /writing-in-icelandic
       weight: 7
-    - name: Iceland
+    - name: Iceland Guide
       pageRef: /iceland
       weight: 8
     - name: Blog

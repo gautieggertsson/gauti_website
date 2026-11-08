@@ -1,5 +1,5 @@
 ---
-title: "A Guide to Iceland"
+title: "Iceland Guide"
 description: "What to do in Iceland, from a Reykjavík native who gets asked a lot."
 ---
 
