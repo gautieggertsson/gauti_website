@@ -52,7 +52,7 @@ params:
   email: gauti_eggertsson@brown.edu
   photo: gauti_pic.jpg
   # Optional GA4 web stream ID. Analytics only runs on the production domain.
-  analyticsMeasurementID: ""
+  analyticsMeasurementID: "G-4G5HT1PVM4"
   # External profiles shown as chips on the home page and in the footer.
   links:
     - name: Email
