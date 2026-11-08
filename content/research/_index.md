@@ -9,6 +9,7 @@ description: "Working papers, published articles, commentaries, and older notes.
   <a class="chip quiet" href="#published-commentaries-surveys">Commentaries and surveys</a>
   <a class="chip quiet" href="#blog-commentaries">Blog and policy pieces</a>
   <a class="chip quiet" href="#other-material-older-unpublished-working-papers-notes-etc">Older papers and notes</a>
+  <a class="chip quiet" href="#talks">Talks</a>
 </nav>
 
 A summary of this research program appeared in the [NBER Reporter, 2017](https://www.nber.org/reporter/2017number1/eggertsson.html).
@@ -157,3 +158,11 @@ A summary of this research program appeared in the [NBER Reporter, 2017](https:/
 + [Committing to Being Irresponsible: Deficit Spending to Escape a Liquidity Trap](/research/committing-to-being-irresponsible-deficit-spending-to-escape-a-liquidity-trap/), *mimeo*, Princeton University, November 2001.
 
 + [Real Government Spending in a Liquidity Trap](/research/real-government-spending-in-a-liquidity-trap/), *mimeo*, Princeton University, November 2001.
+
+## Talks
+
+- [ECB talk slides](https://drive.google.com/open?id=1Jp7IgvrJkEbuq5tPHOcGtDe1piwEtlhm)
+- [Brookings Papers on Economic Activity discussion of Rachel and Summers](https://drive.google.com/open?id=1naG_e--9M6jSWm9BM0s0UAr40t7T4ILi)
+- [Negative interest rates, NBER Monetary Economics](https://drive.google.com/open?id=1oE717yjqBInxPAeFCq-JkL-iyHmdcJ-4)
+- [Kaldor’s and Piketty’s facts, Richmond seminar](https://drive.google.com/open?id=1a57z9k8GUrxDZo1Fc3P1grJJC2YQX8wy)
+- [Negative interest rates, Israel presentation](https://drive.google.com/file/d/1zAFm6egrMixZ3cVDVU80xdMe43L3cYba/view?usp=sharing)
