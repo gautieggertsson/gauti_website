@@ -49,16 +49,11 @@
 </section>
 {{ end }}
 
-<section class="section" aria-labelledby="icelandic-writing">
-  <div class="section-head"><h2 id="icelandic-writing">Writing in Icelandic</h2></div>
-  <p class="note">Links to come.</p>
-</section>
-
 <section class="section" aria-labelledby="explore">
   <div class="section-head"><h2 id="explore">On this site</h2></div>
   <div class="tiles">
     {{ range .Site.Menus.main }}{{ if not (hasPrefix .URL "http") }}
-    <a class="tile" href="{{ .URL }}">
+    <a class="tile" href="{{ .URL }}"{{ with .Identifier }} id="{{ . }}"{{ end }}>
       <p class="tk">{{ .Name }}</p>
       <p class="tt">{{ with .Page }}{{ .Title }}{{ else }}{{ .Name }}{{ end }}</p>
       {{ with .Page }}{{ with .Description }}<p class="td">{{ . }}</p>{{ end }}{{ end }}
