@@ -14,3 +14,5 @@ Department of Economics, Brown University<br>
 Robinson Hall, Room 102B, 64 Waterman Street<br>
 Providence, RI 02912<br>
 [gauti_eggertsson@brown.edu](mailto:gauti_eggertsson@brown.edu) · [(401) 863-2145](tel:+14018632145)
+
+[Earlier homepage and biography](/legacy-materials/home/)

@@ -8,6 +8,8 @@ description: "What to do in Iceland, from a Reykjavík native who gets asked a l
 
  
 
+*This guide is preserved from the former site. Some listings and links may have changed since it was written.*
+
 Gauti B. Eggertsson (Last revised Jan 2th 2023, subject to revision in light of new informations or ideas.)
 
  
@@ -32,23 +34,23 @@ __<u>A few things to do in country-side that is quite close to Reykjavik (as in 
 
 
 
-1. &nbsp;&nbsp;&nbsp;&nbsp;Blue Lagoon.  One of the classic things most tourist always seem to do in Iceland, is to go to the Blue Lagoon. It is basically warm geothermal little lake that is, well, blue. When I was growing up nobody really went there. But when I started visiting Iceland from the US as a ´tourist´ I’ve taken people there and actually enjoyed it very much. And they have a bar now in the middle of the lagoon. If you are going from Reykjavik you can use the trip to see a bunch of interesting stuff on the Reykjanes, like “Kleifarvatn” – a lake that is on the way, and “Krísuvík”. There is a bunch of organized tours that do this in a day, here is one example here (I have no particular experience with this company, there are many others). Note that these days you may need to reserve in advance.
+1. &nbsp;&nbsp;&nbsp;&nbsp;Blue Lagoon.  One of the classic things most tourist always seem to do in Iceland, is to go to the Blue Lagoon. It is basically warm geothermal little lake that is, well, blue. When I was growing up nobody really went there. But when I started visiting Iceland from the US as a ´tourist´ I’ve taken people there and actually enjoyed it very much. And they have a bar now in the middle of the lagoon. If you are going from Reykjavik you can use the trip to see a bunch of interesting stuff on the Reykjanes, like “Kleifarvatn” – a lake that is on the way, and “Krísuvík”. There is a bunch of organized tours that do this in a day, here is [one example](https://www.re.is/day-tours/the-wonders-of-reykjanes-blue-lagoon) (I have no particular experience with this company, there are many others). Note that these days you may need to reserve in advance.
 
 2. &nbsp;&nbsp;&nbsp;&nbsp;And now there is actually a close equivalent in Reykjaviki itself that opened a couple of years back, called "Sky Lagoon". I has a beautiful view over the ocean and nice saunas and such.I've gone a few times and really liked it. Again, you may want to reserve in advance. But beware, for some reason there is a age limit of 12.
 
-3. &nbsp;&nbsp;&nbsp;&nbsp;Before moving the country side, there is actually a pretty nice way of getting a "sense" for it even before leaving the city. It's called "Flyover Iceland," see here. You get seated in these things that make you feel as if you are in an airplane and then they show you spectacular scenary. My kids really liked it and it was short and snappy, about 15-30 minutes in total.  
+3. &nbsp;&nbsp;&nbsp;&nbsp;Before moving the country side, there is actually a pretty nice way of getting a "sense" for it even before leaving the city. It's called [Flyover Iceland](https://www.flyovericeland.com). You get seated in these things that make you feel as if you are in an airplane and then they show you spectacular scenary. My kids really liked it and it was short and snappy, about 15-30 minutes in total.
 
 4. &nbsp;&nbsp;&nbsp;&nbsp;Golden Circle. The other classic thing to do is the “Golden Circle”. This involves seeing Geysir (which is where the word geysir comes from, so I think it explains itself), Gullfoss which is a very big waterfall and then Þingvellir. Thingvellir is the original parliamentary grounds of Althingi – the Icelandic parliament – which is now a natural park. It is very pretty. There are tons of tour companies that do the Golden Circle and there are often quite a few tourists in each location. But it is for a good reason, it’s a pretty nice thing to do in a day or so.
 
-5. &nbsp;&nbsp;&nbsp;&nbsp;Dyrhólaey og Kirkjufjara are pretty cool to visit. You can have lunch or dinner in a small fishing village close by, called Vík í Mýrdal (or Vik). I have had some of the best lobster I have ever had there. I am sure they are still going strong with at least a couple of good restaurant options.
+5. &nbsp;&nbsp;&nbsp;&nbsp;[Dyrhólaey](https://en.wikipedia.org/wiki/Dyrh%C3%B3laey) og [Kirkjufjara](https://www.facebook.com/pages/Kirkjufjara-Beach/1594494884096553) are pretty cool to visit. You can have lunch or dinner in a small fishing village close by, called Vík í Mýrdal (or Vik). I have had some of the best lobster I have ever had there. I am sure they are still going strong with at least a couple of good restaurant options.
 
-6. &nbsp;&nbsp;&nbsp;&nbsp;I like walking up Snæfellsjökull, the glacier featuring in Jules Verne “Journey to the Center of the Earth”. You can walk it up in a day, it takes perhaps total 4 hours, although it can take longer, depending on how far up you drive. There is a very nice hotel you can stay at overnight, Hótel Búðir, that I´ve stayed at a few times.  
+6. &nbsp;&nbsp;&nbsp;&nbsp;I like walking up Snæfellsjökull, the glacier featuring in Jules Verne “Journey to the Center of the Earth”. You can walk it up in a day, it takes perhaps total 4 hours, although it can take longer, depending on how far up you drive. There is a very nice hotel you can stay at overnight, [Hótel Búðir](http://www.hotelbudir.is/), that I´ve stayed at a few times.
 
 7. &nbsp;&nbsp;&nbsp;&nbsp;Northern lights. If you are there in the winter time, you may want to figure out if you can see the Northern lights. Growing up I did not think it was such a big deal, but apparently people love seeing that stuff. Nowadays there are even organized tours that try to track them down.
 
-6. &nbsp;&nbsp;&nbsp;&nbsp;If you like horseback riding there are lots of places where you can do this (here is one example). The Icelandic horse is pretty unique, it is the only breed allowed, and dates back to the settlers that brought them from Norway in 9tth and 10th centuries. The Icelandic horse displays two gaits (skeið and tölt) in addition to the typical walks, trot and gallop displayed by other breeds.
+6. &nbsp;&nbsp;&nbsp;&nbsp;If you like horseback riding there are lots of places where you can do this (here is [one example](http://www.ishestar.is/)). The Icelandic horse is pretty unique, it is the only breed allowed, and dates back to the settlers that brought them from Norway in 9tth and 10th centuries. The Icelandic horse displays two gaits (skeið and tölt) in addition to the typical walks, trot and gallop displayed by other breeds.
 
-7. &nbsp;&nbsp;&nbsp;&nbsp;There is the trip called inside a volcano (see here) in an organized tour. There there is a 12 year age limit. You have to reserve. I've done it and it was quite nice. While I did not think actually going into the volcano was all that exciting, it was a nice hike back and forth, and one got served a delicious traditional Icelandic soup.
+7. &nbsp;&nbsp;&nbsp;&nbsp;There is the trip called [Inside the Volcano](https://insidethevolcano.com/) in an organized tour. There there is a 12 year age limit. You have to reserve. I've done it and it was quite nice. While I did not think actually going into the volcano was all that exciting, it was a nice hike back and forth, and one got served a delicious traditional Icelandic soup.
 
 
 __<u>A few things I am planning to do one day, but have not gotten around to doing, so I know this only from second hand.</u>__
@@ -60,19 +62,19 @@ __<u>A few things I am planning to do one day, but have not gotten around to doi
 
 __<u>Few things to do in Reykjavik:</u>__
 
-1.  First of all, if you stay in a hotel in Reykjavik, you are best off staying down town Reykjavik. If you are looking for something economical but hip, Kex is a good option I think (even if I have not stayed there myself), while a more upscale example is Hótel Borg.
+1.  First of all, if you stay in a hotel in Reykjavik, you are best off staying down town Reykjavik. If you are looking for something economical but hip, [Kex](http://www.kexhostel.is/) is a good option I think (even if I have not stayed there myself), while a more upscale example is [Hótel Borg](http://www.keahotels.is/en/hotels/hotel-borg).
 
-2.  The pub scene is very good in Iceland and if you like alternative music there is much of that floating around. You can find listings for what is happing (and many other things) in Reykjavik Grapewine. I´m too old to know what are the trendy places anymore, but when I was growing up we always used to go to Kaffibarinn. I´m pretty sure it is still popular, and I think it should certainly give you a good sense of an Icelandic bar.
+2.  The pub scene is very good in Iceland and if you like alternative music there is much of that floating around. You can find listings for what is happing (and many other things) in [Reykjavik Grapewine](https://grapevine.is/). I´m too old to know what are the trendy places anymore, but when I was growing up we always used to go to [Kaffibarinn](https://www.facebook.com/kaffibarinn). I´m pretty sure it is still popular, and I think it should certainly give you a good sense of an Icelandic bar.
 
-3.  There is very good food in Reykjavik and plenty of good restaurants. Nowadays there are so many tourist (especially in summer) that you may wish to make reservation. Obviously you should try fish, one place I like for example is called Höfnin. Restaurants also sell whale meat nowadays I have noticed – mostly for tourists I think -- this was not really a thing when I was growing up. I tended to think of whale meat as a second rate stake, you could not really get it in restaurants as far as I can recall. The best fish I have had recently in Iceland (I write this in 2023) is at Sjávargrillið (see here). It was phenomenal. But important to reserve well in advance.
+3.  There is very good food in Reykjavik and plenty of good restaurants. Nowadays there are so many tourist (especially in summer) that you may wish to make reservation. Obviously you should try fish, one place I like for example is called [Höfnin](http://hofnin.is/en/). Restaurants also sell whale meat nowadays I have noticed – mostly for tourists I think -- this was not really a thing when I was growing up. I tended to think of whale meat as a second rate stake, you could not really get it in restaurants as far as I can recall. The best fish I have had recently in Iceland (I write this in 2023) is at [Sjávargrillið](https://www.sjavargrillid.is). It was phenomenal. But important to reserve well in advance.
 
-4.  If for some reason you would like to figure out what “traditional” Icelandic food looks and taste like, the only thing I can come up with is Múlakaffi where I´m pretty sure you can get smoked sheep head (svið), rotten shark (hákarl), dry fish (harðfiskur), burning wine (brennivín) and so on and on. I am personally not a fan of what is called traditional food in Iceland, with the exception of dry fish.
+4.  If for some reason you would like to figure out what “traditional” Icelandic food looks and taste like, the only thing I can come up with is [Múlakaffi](http://www.mulakaffi.is/) where I´m pretty sure you can get smoked sheep head (svið), rotten shark (hákarl), dry fish (harðfiskur), burning wine (brennivín) and so on and on. I am personally not a fan of what is called traditional food in Iceland, with the exception of dry fish.
 
-5.  When I was going to bars growing up, we would always end the night going to a hot-dog place called Bæjarins Bestu. I have yet to find a better hot-dog anywhere. Ask for one “with everything” (með öllu). It is right in the middle of town in a little shack.
+5.  When I was going to bars growing up, we would always end the night going to a hot-dog place called [Bæjarins Bestu](http://www.bbp.is/). I have yet to find a better hot-dog anywhere. Ask for one “with everything” (með öllu). It is right in the middle of town in a little shack.
 
 6.  Go to a public outdoor swimming pool in Reykjavik (or in fact in any other city or village in Iceland, everyone has at least one, for the hot water is basically free as it is geothermal), just to get a sense of what they are, regardless of the time of the year you are travelling (they are no less popular in winter than summer). This is where a lot of locals go, some many times a week. You can swim if you like, but most people go there for the hot tubs and saunas. They are highly subsidized by the townships, so they are cheap but very very clean (more on that below).
 
-7.  If you have kids, you should certaintly go to Húsdýragarðinn. It is a place where they have bunch of animals the kids can pet, but also stuff to do like rides you see in themeparks (on a very small scale for little kids). I have only gone there in the summer, and it was great (my kids were 3, 6 and 9), I do not know anything about how it is in wintertime. It is a place where lots of Icelanders take their kids, I don´t recall seeing all that many tourists there, which was odd but welcome.
+7.  If you have kids, you should certaintly go to [Húsdýragarðinn](http://www.mu.is/). It is a place where they have bunch of animals the kids can pet, but also stuff to do like rides you see in themeparks (on a very small scale for little kids). I have only gone there in the summer, and it was great (my kids were 3, 6 and 9), I do not know anything about how it is in wintertime. It is a place where lots of Icelanders take their kids, I don´t recall seeing all that many tourists there, which was odd but welcome.
 
 __<u>Couple of things NOT to do in Iceland:</u>__
 
@@ -80,7 +82,7 @@ __<u>Couple of things NOT to do in Iceland:</u>__
 
 2.  Everywhere I travel in the world I hop in a taxi at the airport and to downtown. The damage can never by more than 100 bucks, give or take. Iceland is the only place I don´t. Do not step foot in a taxi at the airport! It is a rip-off. It will set you back several hundred dollars last time I checked. I´ve had several friends contact me ex post, thinking there was a mistake in currency conversion. There is a very convenient bus that goes to Reykjavik for a reasonable price. Take it. (this was written some five years ago, as I re-read this now, so things may have changed. Also, I understand uber may be coming, which would be a gamachanger)
 
-3.  If you go to a public pool (which you should) be aware that this is where most Icelanders go at all times during the year, it is sort of a gathering place. OK, so Icelanders feel strongly about their pools. In particular they expect you to wash yourself very well before entering – especially your privates --- a policy strictly enforced (see this classic sketch linked, which may seem like an exaggeration, but I can assure you it is only mildly so!).
+3.  If you go to a public pool (which you should) be aware that this is where most Icelanders go at all times during the year, it is sort of a gathering place. OK, so Icelanders feel strongly about their pools. In particular they expect you to wash yourself very well before entering – especially your privates --- a policy strictly enforced (see this classic [sketch](http://www.visir.is/section/MEDIA99?fileid=CLP38158), which may seem like an exaggeration, but I can assure you it is only mildly so!).
 
 4.  Don´t believe weather forecasts and prepare for anything. The weather in Iceland is pretty much completely unpredictable, as far as I can tell. Moreover, it can change within five minutes. One minute there is clear sky and sun. Then it starts snowing. Even when it is the peak of summer, you can very well expect quite cold days, like late fall in the US, even below freezing during the night. An empirical observation related to weather: I never remember any of my grandparents wearing shorts, even in summer. Growing up I don´t really remember wearing them either if not doing sports, where we tended to wear shorts, because that is what the people in foreign lands did on TV.
 
@@ -161,7 +163,7 @@ Another wonderful evening stroll in good weather is to take a taxi to Grotta, wh
 
  
 
-A site that lists a bunch of good restaurants and provides some information about them is  www.visitreykjavik.is another good site that has recommendations is www.grapevine.is
+A site that lists a bunch of good restaurants and provides some information about them is  [www.visitreykjavik.is](http://www.visitreykjavik.is/) another good site that has recommendations is [www.grapevine.is](http://www.grapevine.is)
 
  
 

@@ -24,7 +24,7 @@ excludeFromResearch: true
 
 + [Paper](https://ideas.repec.org/a/oup/qjecon/v127y2012i3p1469-1513.html)
 + [Local PDF](Eggertsson_Krugman_2012.pdf)
-+ [Web Appendix](https://drive.google.com/file/d/0BxVZWdXdGQH8azYxckkzSEUwMWc/view?resourcekey=0-jhNM4bVjb5tVDHdIaoEbRg)
++ [Web Appendix](SuppAppendix.pdf)
 
 ---
 

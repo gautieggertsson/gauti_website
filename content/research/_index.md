@@ -166,3 +166,5 @@ A summary of this research program appeared in the [NBER Reporter, 2017](https:/
 - [Negative interest rates, NBER Monetary Economics](https://drive.google.com/open?id=1oE717yjqBInxPAeFCq-JkL-iyHmdcJ-4)
 - [Kaldor’s and Piketty’s facts, Richmond seminar](https://drive.google.com/open?id=1a57z9k8GUrxDZo1Fc3P1grJJC2YQX8wy)
 - [Negative interest rates, Israel presentation](https://drive.google.com/file/d/1zAFm6egrMixZ3cVDVU80xdMe43L3cYba/view?usp=sharing)
+
+The [research archive from the former Google site](/legacy-materials/research/) preserves its original bibliography and links to earlier versions and supplementary files.
