@@ -51,6 +51,8 @@ params:
   position: "Dupee Family Professor of Social Sciences and Professor of Economics"
   email: gauti_eggertsson@brown.edu
   photo: gauti_pic.jpg
+  # Optional GA4 web stream ID. Analytics only runs on the production domain.
+  analyticsMeasurementID: ""
   # External profiles shown as chips on the home page and in the footer.
   links:
     - name: Email

@@ -7,3 +7,10 @@ Gauti B. Eggertsson is a macroeconomist. He is the Dupee Family Professor of Soc
 His work has appeared in the *American Economic Review*, *American Economic Journal: Macroeconomics*, *American Economic Review: Insights*, *Brookings Papers on Economic Activity*, *Economic Journal*, *Journal of Monetary Economics*, *Journal of Money, Credit and Banking*, *Review of Economic Studies*, *Review of Economic Dynamics*, and the *Quarterly Journal of Economics*.
 
 A summary of his research program appeared in the [NBER Reporter (2017, No. 1)](https://www.nber.org/reporter/2017number1/eggertsson.html).
+
+## Contact
+
+Department of Economics, Brown University<br>
+Robinson Hall, Room 102B, 64 Waterman Street<br>
+Providence, RI 02912<br>
+[gauti_eggertsson@brown.edu](mailto:gauti_eggertsson@brown.edu) · [(401) 863-2145](tel:+14018632145)

@@ -3,11 +3,17 @@ title: "Research"
 description: "Working papers, published articles, commentaries, and older notes."
 ---
 
-
+<nav class="research-jump" aria-label="Research sections">
+  <a class="chip quiet" href="#working-papers">Working papers</a>
+  <a class="chip quiet" href="#published-articles">Published articles</a>
+  <a class="chip quiet" href="#published-commentaries-surveys">Commentaries and surveys</a>
+  <a class="chip quiet" href="#blog-commentaries">Blog and policy pieces</a>
+  <a class="chip quiet" href="#other-material-older-unpublished-working-papers-notes-etc">Older papers and notes</a>
+</nav>
 
 A summary of this research program appeared in the [NBER Reporter, 2017](https://www.nber.org/reporter/2017number1/eggertsson.html).
 
-### Working Papers
+## Working Papers
 
 - [It’s Baaack: The Inflation Surge of 2020s and the Return of the Non-Linear Phillips Curve](/research/its-baaack_the-inflation-surge-of-2020s-and-the-return-of-the-non-linear-phillips-curve/) (with Pierpaolo Benigno), NBER WP 31197; revised October 2025.
 
@@ -19,7 +25,7 @@ A summary of this research program appeared in the [NBER Reporter, 2017](https:/
 
 - [Mr. Keynes and the Classics; A Suggested Reinterpretation](/research/mr-keynes-and-the-classics-a-suggested-reinterpretation/) (with Cosimo Petracchi), September 2021.
 
-### Published Articles
+## Published Articles
 
 + [Liquidity Traps: A Unified Theory of the Great Depression and the Great Recession](/research/a-unified-theory-of-the-great-depression-and-the-great-recession/) (with Sergey K. Egiev), *Journal of Economic Literature*, 63(4): 1424–1551, December 2025.
 
@@ -84,7 +90,7 @@ A summary of this research program appeared in the [NBER Reporter, 2017](https:/
 
 + [The Zero Interest-Rate Bound and Optimal Monetary Policy](/research/the-zero-interest-rate-bound-and-optimal-monetary-policy/) (with Michael Woodford), *Brookings Papers on Economic Activity*, 2003:1.
 
-### Published Commentaries, Surveys
+## Published Commentaries, Surveys
 
 + [The Liquidity Trap](/research/the-liquidity-trap-the-new-palgrave-dictionary/), *the New Palgrave Dictionary in Economics*, 2cond edition.
 
@@ -110,7 +116,7 @@ A summary of this research program appeared in the [NBER Reporter, 2017](https:/
 
 + [Commentary Slowing Business Dynamics by Akcigit and Ates](/research/commentary-slowing-business-dynamics/), *Jackson Hole Conference*, September 2020.
 
-### Blog Commentaries
+## Blog Commentaries
 
 + [Negative Interest Rates and the Bank Lending Channel](/research/negative-interest-rates-and-the-bank-lending-channel/), (with Lawrence Summers) *Vox Column*, January 2019.
 
@@ -130,7 +136,7 @@ A summary of this research program appeared in the [NBER Reporter, 2017](https:/
 
 + [Inflation budgeting proposal from fall 2010 Blackbook recently declassified under the Freedom of Information Act by Bloomberg News.](https://www.bloomberg.com/tosv2.html?vid=&uuid=7f1c9fec-bbee-11ef-9db7-bf59c6109636&url=L25ld3MvYXJ0aWNsZXMvMjAxNi0xMi0wNy9wcml2YXRlLTIwMTAtcmVjb3Jkcy1zaG93LWR1ZGxleS1zLXN0YWZmLXVyZ2luZy1ib2xkLWZlZC1hY3Rpb24/ZW1iZWRkZWQtY2hlY2tvdXQ9dHJ1ZQ==) 
 
-### Other Material, Older Unpublished Working Papers, Notes, etc
+## Other Material, Older Unpublished Working Papers, Notes, etc
 
 + [A Model of Secular Stagnation](/research/a-model-of-secular-stagnation/) (with Neil Mehrotra, October 2014).
 

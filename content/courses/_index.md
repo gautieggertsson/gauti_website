@@ -1,6 +1,6 @@
 ---
 title: "Teaching Materials"
-description: "Lecture notes, slides, and problem sets."
+description: "Teaching materials for spring 2027."
 ---
 
-Teaching materials will be posted here. Check back soon.
+Lecture notes and problem sets will be added during the spring 2027 semester.

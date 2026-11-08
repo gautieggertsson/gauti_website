@@ -34,14 +34,16 @@
   </div>
   <div class="cards">
     {{ range . }}
-    <a class="card" href="{{ .RelPermalink }}">
+    <article class="card">
       {{- $p := . }}{{ $venue := .Params.journal }}{{ if not $venue }}{{ with .Params.editPost }}{{ $venue = .Text }}{{ end }}{{ end }}
       <span class="meta">{{ $venue }}{{ with $p.Params.volume }} {{ . }}{{ with $p.Params.issue }}({{ . }}){{ end }}{{ end }}{{ if not $p.Date.IsZero }}{{ if $venue }} · {{ end }}{{ $p.Date.Format "2006" }}{{ end }}</span>
-      <span class="title">{{ .Title }}</span>
+      <h3 class="title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
       {{ with .Params.author }}<span class="authors">{{ delimit . ", " " and " }}</span>{{ end }}
       {{ with .Params.summary }}<span class="summary">{{ . }}</span>{{ end }}
-      <span class="cta">Read →</span>
-    </a>
+      {{ with partial "paper-pdf.html" . }}
+      <div class="card-actions"><a class="pdf-btn" href="{{ . }}" download aria-label="Download PDF: {{ $p.Title }}">PDF</a></div>
+      {{ end }}
+    </article>
     {{ end }}
   </div>
 </section>

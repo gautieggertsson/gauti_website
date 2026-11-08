@@ -1,0 +1,14 @@
+{{- /* GA4 Enhanced Measurement reports PDF clicks as file_download events. */ -}}
+{{- $id := site.Params.analyticsMeasurementID | default "" -}}
+{{- if and hugo.IsProduction (not hugo.IsServer) (eq (urls.Parse site.BaseURL).Host "gautieggertsson.org") (findRE `^G-[A-Z0-9]+$` $id) -}}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ $id }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', {{ $id }}, {
+    allow_google_signals: false,
+    allow_ad_personalization_signals: false
+  });
+</script>
+{{- end -}}
