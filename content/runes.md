@@ -9,6 +9,10 @@ The line at the top of every page is my name, **Gauti B. Eggertsson**, written i
 
 When Iceland was settled by Norse men and women in the 870s, the alphabet in use across Scandinavia was the **Younger Futhark**, a compact set of sixteen runes that had taken shape around the year 800. Sixteen signs were not enough for every sound. One rune served for both *k* and *g*, one for *i* and *e*, one for *u* and *o*. Around the eleventh and twelfth centuries scribes began adding a small dot to a rune to mark the second sound, and these **dotted runes** became the standard medieval alphabet in Iceland and Norway. They survive on Icelandic gravestones and church objects well into the fifteenth century. The header uses this medieval form, because it is the one that can spell my name in full.
 
+### What does Gauti mean?
+
+In the final stanza of *Grímnismál*, a poem in the *Poetic Edda*, Óðinn calls himself *Gautr*. My name, *Gauti*, is a variant of *Gautur*, the modern Icelandic form of *Gautr*.
+
 ### Rune by rune
 
 {{< runetable >}}
