@@ -99,8 +99,6 @@ hr.rule{border:0;border-top:1px solid var(--line);margin:34px 0}
 .card .title a:hover,.card .title a:focus-visible{color:var(--blue);text-decoration:underline}
 .card .authors{font-size:14.5px;line-height:1.5;color:var(--muted);margin:0;font-style:italic}
 .card .summary{font-size:14.5px;line-height:1.55;color:var(--ink2);margin:0;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
-.card-actions{margin-top:auto;padding-top:4px}
-.card-actions .pdf-btn{margin-left:0;padding:5px 10px}
 
 /* Icelandic writing */
 .writing-topic+.writing-topic{border-top:1px solid var(--line);margin-top:44px;padding-top:26px}
@@ -201,9 +199,6 @@ hr.rule{border:0;border-top:1px solid var(--line);margin:34px 0}
 .paper-download{margin:0 0 14px}
 .chip.solid{background:var(--blue);color:#fff;border-color:var(--blue)}
 .chip.solid:hover{background:transparent;color:var(--blue)}
-.pdf-btn{display:inline-block;font-family:var(--mono);font-size:9.5px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--blue);border:1.5px solid var(--blue);border-radius:999px;padding:2px 8px;margin-left:6px;text-decoration:none;vertical-align:2px;white-space:nowrap}
-.pdf-btn:hover{background:var(--blue);color:#fff}
-.pubs li a.pdf-btn:first-child{font-weight:600}
 .paper-foot{display:flex;flex-wrap:wrap;gap:8px;border-top:1px solid var(--line);margin-top:36px;padding-top:22px;max-width:800px}
 
 /* ---------- footer ---------- */

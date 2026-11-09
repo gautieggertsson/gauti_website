@@ -3,13 +3,3 @@
 {{- $u := .Destination -}}
 {{- if and (hasPrefix $u "/") (not (hasPrefix $u "//")) }}{{ $u = relURL (strings.TrimPrefix "/" $u) }}{{ end -}}
 <a href="{{ $u | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if hasPrefix $u "http" }} rel="noopener"{{ end }}>{{ .Text | safeHTML }}</a>
-{{- /* On the research list, a link to a paper page also gets a direct PDF button. */ -}}
-{{- if and .Page.IsSection (eq .Page.Section "research") -}}
-  {{- $target := "" -}}
-  {{- range where site.RegularPages "Section" "research" -}}
-    {{- if or (eq (lower .Permalink) (lower $u)) (eq (lower .RelPermalink) (lower $u)) }}{{ $target = . }}{{ end -}}
-  {{- end -}}
-  {{- with $target -}}
-    {{- with partial "paper-pdf.html" . }} <a class="pdf-btn" href="{{ . }}" title="Download the PDF directly" aria-label="Download PDF: {{ $target.Title }}">PDF</a>{{ end -}}
-  {{- end -}}
-{{- end -}}
