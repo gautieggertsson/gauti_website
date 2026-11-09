@@ -13,6 +13,42 @@ When Iceland was settled by Norse men and women in the 870s, the alphabet in use
 
 In the final stanza of *Grímnismál*, a poem in the *Poetic Edda*, Óðinn calls himself *Gautr*. My name, *Gauti*, is a variant of *Gautur*, the modern Icelandic form of *Gautr*.
 
+*Gautr* is also one of Óðinn’s names in the *Prose Edda*, written by Snorri Sturluson, a thirteenth-century Icelandic writer and chieftain. [*Gylfaginning*, chapter 20](https://vsnr.org/wp-content/uploads/2021/11/VSNR_Edda-1_prologue_gylfa.pdf)
+
+In Iceland we can look up our family trees in *Íslendingabók*, whose records reach back to the settlement of the country. Here is the line it gives from Snorri to me. [About *Íslendingabók*](https://www.islendingabok.is/english)
+
+<details class="rune-lineage" id="snorri-lineage">
+<summary>See my line of descent from Snorri Sturluson</summary>
+
+1. **Snorri Sturluson**, 1179–23 September 1241, and **Herdís Bersadóttir**, (1180)–1233
+2. **Hallbera Snorradóttir**, c. 1201–17 July 1231
+3. **Magnús Árnason**, 1224–1310
+4. **Ólafur Magnússon**, (1245)–11 April 1285
+5. **Árni Ólafsson**, c. 1275–1339
+6. **Magnús Árnason**, c. 1300–1391
+7. **Hrafn Magnússon**, c. 1330–1391
+8. **Höskuldur Hrafnsson**, c. 1370
+9. **Áskell Höskuldsson**, c. 1410
+10. **Þórarinn Áskelsson**, c. 1440
+11. **Guðmundur Þórarinsson**, (1490)
+12. **Eyjólfur Guðmundsson**, (1520)
+13. **Guðmundur Eyjólfsson**, 1551–13 December 1639
+14. **Finnur Guðmundsson**, c. 1600 to after 1679
+15. **Ingibjörg Finnsdóttir**, (1635) to before 1703
+16. **Guðrún Daðadóttir**, 1670–c. 1755
+17. **Guðmundur Eiríksson**, 1715
+18. **Guðrún Guðmundsdóttir**, 1761–27 June 1801
+19. **Hjalti Þorláksson**, 26 April 1798–25 May 1876
+20. **Rakel Hjaltadóttir**, 27 July 1836–13 March 1916
+21. **Kristín Salóme Ingimundardóttir**, 14 December 1878–24 April 1974
+22. **Jóna Halldóra Bjarnadóttir**, 27 December 1921–9 October 2019
+23. **Bergþóra Jónsdóttir**
+24. **Gauti Bergþóruson Eggertsson**
+
+[*Íslendingabók*, Snorri’s record (sign-in required)](https://www.islendingabok.is/individual?indId=8325789)
+
+</details>
+
 ### Rune by rune
 
 {{< runetable >}}
