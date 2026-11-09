@@ -19,7 +19,7 @@ In the final stanza of *Grímnismál*, a poem in the *Poetic Edda*, Óðinn call
 
 *Gautr* is also one of Óðinn’s names in the *Prose Edda*, written by Snorri Sturluson, a thirteenth-century Icelandic writer and chieftain. [*Gylfaginning*, chapter 20](https://vsnr.org/wp-content/uploads/2021/11/VSNR_Edda-1_prologue_gylfa.pdf)
 
-In Iceland we can look up our family trees in the modern genealogy database, also called *Íslendingabók*. Its records reach back to the settlement. The two lines below meet at Guðmundur Eiríksson, born in 1715. [About the genealogy database](https://www.islendingabok.is/english)
+In Iceland we can look up our family trees in the modern genealogy database, also called *Íslendingabók*. Its records reach back to the settlement. The lines from Snorri and Ingólfur meet at Guðmundur Eiríksson, born in 1715. [About the genealogy database](https://www.islendingabok.is/english)
 
 <details class="rune-lineage" id="snorri-lineage">
 <summary>See my line of descent from Snorri Sturluson</summary>
@@ -89,6 +89,53 @@ In Iceland we can look up our family trees in the modern genealogy database, als
 31. **Gauti Bergþóruson Eggertsson**
 
 [*Íslendingabók*, Ingólfur’s record (sign-in required)](https://www.islendingabok.is/individual?indId=13699695)
+
+</details>
+
+<details class="rune-lineage" id="ragnar-lineage">
+<summary>See my traditional line of descent from Ragnar Loðbrók</summary>
+
+Ragnar Loðbrók was a legendary Norse king. The opening of *Njáls saga* traces Hrútur Herjólfsson’s ancestry back to Ragnar through his mother, Þorgerður. The earliest links are uncertain, and the early dates below are estimates from the family tree. [*Njáls saga*, chapter 1](https://wikisaga.hi.is/index.php?title=Nj%C3%A1la,_001) · [Study of the Ragnar tradition](https://etheses.whiterose.ac.uk/id/eprint/24017/)
+
+This line joins the other two at Guðrún Guðmundsdóttir, born in 1761.
+
+1. **Ragnar Loðbrók**, c. 715
+2. **Sigurður ormur í auga Ragnarsson**, c. 745
+3. **Þóra Sigurðardóttir**, c. 770
+4. **Ingjaldur Helgason**, c. 795
+5. **Óláfur hvíti Ingjaldsson**, c. 825
+6. **Þorsteinn rauður Óláfsson**, c. 855
+7. **Þorgerður Þorsteinsdóttir**, c. 885
+8. **Hrútur Herjólfsson**, (910), married to **Hallveig Þorgrímsdóttir**, (920)
+9. **Þórhallur Hrútsson**, (955)
+10. **Halldóra Þórhallsdóttir**, (990)
+11. **Guðlaugur Þorfinnsson**, (1020)
+12. **Þórdís Guðlaugsdóttir**, (1055)
+13. **Þórður Gilsson**, c. 1075–(1150)
+14. **Sturla Þórðarson**, 1115–July 1183
+15. **Helga Sturludóttir**, (1180)
+16. **Gyða Sölmundardóttir**, c. 1225
+17. **Helga Nikulásdóttir**, (1240)
+18. **Einar Þorláksson**, (1280)
+19. **Ónefnd Einarsdóttir**, (1340)
+20. **Narfi Vigfússon**, (1365)
+21. **Halldóra Narfadóttir**, (1400)
+22. **Narfi Þorvaldsson**, c. 1425–c. 1485
+23. **Anna Narfadóttir**, (1475)
+24. **Gunnsteinn Guðlaugsson**, (1515)
+25. **Guðrún Gunnsteinsdóttir**, (1560)
+26. **Guðrún Pálsdóttir**, (1600) to after 1660
+27. **Álfheiður Sigmundsdóttir**, c. 1624
+28. **Jón Bjarnason**, 1656
+29. **Þórður Jónsson**, 1692
+30. **Guðrún Þórðardóttir**, 1723–27 October 1805
+31. **Guðrún Guðmundsdóttir**, 1761–27 June 1801
+32. **Hjalti Þorláksson**, 26 April 1798–25 May 1876
+33. **Rakel Hjaltadóttir**, 27 July 1836–13 March 1916
+34. **Kristín Salóme Ingimundardóttir**, 14 December 1878–24 April 1974
+35. **Jóna Halldóra Bjarnadóttir**, 27 December 1921–9 October 2019
+36. **Bergþóra Jónsdóttir**
+37. **Gauti Bergþóruson Eggertsson**
 
 </details>
 
