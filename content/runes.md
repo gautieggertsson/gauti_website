@@ -19,7 +19,13 @@ In the final stanza of *Grímnismál*, a poem in the *Poetic Edda*, Óðinn call
 
 *Gautr* is also one of Óðinn’s names in the *Prose Edda*, written by Snorri Sturluson, a thirteenth-century Icelandic writer and chieftain. [*Gylfaginning*, chapter 20](https://vsnr.org/wp-content/uploads/2021/11/VSNR_Edda-1_prologue_gylfa.pdf)
 
-In Iceland we can look up our family trees in the modern genealogy database, also called *Íslendingabók*. Its records reach back to the settlement. The lines from Snorri and Ingólfur meet at Guðmundur Eiríksson, born in 1715. [About the genealogy database](https://www.islendingabok.is/english)
+### My ancestry
+
+Every European alive today descends from Charlemagne. This is not a boast but a theorem. Joseph Chang, a statistician at Yale, showed in 1999 that in a population where people marry more or less at random, the most recent common ancestor of everyone alive lies only a few dozen generations back, and that a little further back every person who left any descendants at all is an ancestor of everyone alive today. The argument is arithmetic. Each of us has two parents, four grandparents, and after thirty generations over a billion ancestral slots, far more than the number of people who lived in Europe at the time. The slots must be filled by the same people many times over, and soon by everyone who had children whose lines survived. Douglas Rohde, Steve Olson and Chang confirmed this with realistic models of geography and migration in *Nature* in 2004. Charlemagne, born in 748, had documented descendants, so he is an ancestor of all of us, most of us by millions of separate paths. The same is true of any ninth-century European who left a family.
+
+What makes Icelanders somewhat peculiar is not the descent. Chang gives that to everyone for free. It is that the descent is written down. Icelanders have been obsessed with documentation from the beginning. Ari fróði wrote *Íslendingabók* around 1130. *Landnáma* recorded the settlers, their farms and their children. The sagas open with genealogies before anything happens. The church kept registers from the seventeenth century, and the census of 1703 is the oldest complete census of a whole country anywhere in the world. That habit now lives in a database carrying Ari’s title, where every Icelander can read the chain of names and dates from the settlement to himself.
+
+So here is my line. First back to Snorri Sturluson, the author of the *Prose Edda* and *Heimskringla*. Then to Ingólfur Arnarson, by tradition the first man to settle Iceland, in 874. And then past the edge of the records, where *Íslendingabók* hands over to *Njála*, to Ragnar loðbrók.
 
 <details class="rune-lineage" id="snorri-lineage">
 <summary>See my line of descent from Snorri Sturluson</summary>
@@ -55,6 +61,8 @@ In Iceland we can look up our family trees in the modern genealogy database, als
 
 <details class="rune-lineage" id="ingolfur-lineage">
 <summary>See my line of descent from Ingólfur Arnarson</summary>
+
+The lines from Snorri and Ingólfur meet at Guðmundur Eiríksson, born in 1715. [About the genealogy database](https://www.islendingabok.is/english)
 
 1. **Ingólfur Arnarson**, (844), and **Hallveig Fróðadóttir**, (850)
 2. **Þorsteinn Ingólfsson**, (890)
