@@ -66,7 +66,11 @@ hr.rule{border:0;border-top:1px solid var(--line);margin:34px 0}
 
 /* ---------- home ---------- */
 .hero{display:grid;grid-template-columns:184px minmax(0,1fr);gap:32px;align-items:center;padding:30px 0 0}
-.hero-photo{display:block;width:100%;height:auto;mask-image:linear-gradient(to right,#000 94%,transparent)}
+.hero-photo{
+  display:block;width:100%;height:auto;aspect-ratio:350/296;object-fit:cover;object-position:center top;
+  mask-image:linear-gradient(to bottom,#000 79%,transparent),linear-gradient(to right,transparent,#000 5%,#000 95%,transparent);
+  mask-composite:intersect;
+}
 .hero h1{font-size:clamp(36px,6vw,58px);line-height:1.02;margin:6px 0 12px;letter-spacing:-.03em}
 .hero .lede{font-size:clamp(19px,2.5vw,23px);margin-bottom:16px}
 .hero-side{display:flex;flex-direction:column;align-items:center;gap:10px}
