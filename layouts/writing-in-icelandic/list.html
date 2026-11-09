@@ -5,26 +5,30 @@
 {{ range .Params.topics }}
 <section class="writing-topic" lang="is" aria-labelledby="{{ .id }}">
   <h2 id="{{ .id }}">{{ .title }}</h2>
-  <p class="lede">{{ .intro }}</p>
+  {{ with .intro }}<p class="lede">{{ . }}</p>{{ end }}
   <div class="cards">
     {{ range .articles }}
-    {{ $image := $.Resources.Get .image }}
     {{ $pdf := $.Resources.Get .pdf }}
     {{ $dataURL := .dataURL }}
     {{ with .dataFile }}
       {{ $dataURL = ($.Resources.Get .).RelPermalink }}
     {{ end }}
     <article class="card writing-card">
+      {{ if .image }}
+      {{ $image := $.Resources.Get .image }}
       <div class="writing-card-image">
         <img src="{{ $image.RelPermalink }}" alt="{{ .imageAlt }}" width="{{ $image.Width }}" height="{{ $image.Height }}" loading="lazy" decoding="async">
       </div>
+      {{ end }}
       <div class="writing-card-body">
         <p class="meta"><time datetime="{{ .date }}">{{ .dateLabel }}</time> · {{ .pages }} bls.</p>
         <h3 class="title">{{ .title }}</h3>
         <p class="writing-card-summary">{{ .summary }}</p>
         <div class="writing-card-links">
           <a class="chip solid" href="{{ $pdf.RelPermalink }}" aria-label="Grein í PDF: {{ .title }}">Grein í PDF</a>
+          {{ if $dataURL }}
           <a class="chip" href="{{ $dataURL }}" aria-label="Gögn og tölvukóðar: {{ .title }}">Gögn og tölvukóðar</a>
+          {{ end }}
         </div>
       </div>
     </article>

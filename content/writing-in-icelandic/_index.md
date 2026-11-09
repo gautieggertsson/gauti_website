@@ -2,6 +2,22 @@
 title: "Writing in Icelandic"
 description: "Icelandic-language writing by Gauti B. Eggertsson, organized by topic."
 topics:
+  - id: malefni-reykjavikurborgar
+    title: "Málefni Reykjavíkurborgar"
+    articles:
+      - title: "Hvað segja mannauðsfræði um fjöldauppsagnir Reykjavíkurborgar?"
+        date: "2026-11-09"
+        dateLabel: "9. nóvember 2026"
+        pages: 49
+        pdf: fjoldauppsagnir-reykjavikurborgar.pdf
+        summary: >-
+          Hvernig á að standa að fjöldauppsögnum? Greinin ber framkvæmd uppsagna Reykjavíkurborgar
+          árið 2026 saman við niðurstöður fjögurra áratuga rannsókna og fordæmi hérlendis og erlendis.
+          Niðurstaðan er að borgin hafi vikið frá grundvallarviðmiðum um fyrirvara, samráð og skýringar.
+          Vinnan sem borgin afþakkaði á uppsagnarfresti er metin á 350 til 530 milljónir króna, hafi
+          allir sem fengu uppsögn án samtímis boðs um annað starf verið leystir undan vinnuskyldu.
+          Rannsóknir tengja slíkt verklag við fleiri veikindadaga, fleiri uppsagnir að eigin ósk og
+          minni afköst þeirra sem eftir sitja.
   - id: skrif-um-evropusambandid
     title: "Skrif um Evrópusambandið"
     intro: >-

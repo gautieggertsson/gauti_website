@@ -103,6 +103,8 @@ hr.rule{border:0;border-top:1px solid var(--line);margin:34px 0}
 /* Icelandic writing */
 .writing-topic+.writing-topic{border-top:1px solid var(--line);margin-top:44px;padding-top:26px}
 .writing-topic h2{scroll-margin-top:125px}
+.writing-topic h2+.cards{margin-top:14px}
+.writing-topic .writing-card:only-child{grid-column:1/-1;max-width:800px}
 .writing-card{overflow:hidden;padding:0;gap:0}
 .writing-card-image{background:var(--paper2);border-bottom:1px solid var(--line);padding:20px}
 .writing-card-image img{display:block;width:100%;border:1px solid var(--line);border-radius:9px}
