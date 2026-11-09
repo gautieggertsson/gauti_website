@@ -19,7 +19,7 @@ In the final stanza of *Grímnismál*, a poem in the *Poetic Edda*, Óðinn call
 
 *Gautr* is also one of Óðinn’s names in the *Prose Edda*, written by Snorri Sturluson, a thirteenth-century Icelandic writer and chieftain. [*Gylfaginning*, chapter 20](https://vsnr.org/wp-content/uploads/2021/11/VSNR_Edda-1_prologue_gylfa.pdf)
 
-In Iceland we can look up our family trees in the modern genealogy database, also called *Íslendingabók*. Its records reach back to the settlement. Here is the line it gives from Snorri to me. [About the genealogy database](https://www.islendingabok.is/english)
+In Iceland we can look up our family trees in the modern genealogy database, also called *Íslendingabók*. Its records reach back to the settlement. The two lines below meet at Guðmundur Eiríksson, born in 1715. [About the genealogy database](https://www.islendingabok.is/english)
 
 <details class="rune-lineage" id="snorri-lineage">
 <summary>See my line of descent from Snorri Sturluson</summary>
@@ -50,6 +50,45 @@ In Iceland we can look up our family trees in the modern genealogy database, als
 24. **Gauti Bergþóruson Eggertsson**
 
 [*Íslendingabók*, Snorri’s record (sign-in required)](https://www.islendingabok.is/individual?indId=8325789)
+
+</details>
+
+<details class="rune-lineage" id="ingolfur-lineage">
+<summary>See my line of descent from Ingólfur Arnarson</summary>
+
+1. **Ingólfur Arnarson**, (844), and **Hallveig Fróðadóttir**, (850)
+2. **Þorsteinn Ingólfsson**, (890)
+3. **Þórhildur Þorsteinsdóttir**, (920)
+4. **Þorkell Þórhildarson**, (945)
+5. **Ketill Þorkelsson**, (965)
+6. **Haukur Ketilsson**, (1020)
+7. **Yngveldur Hauksdóttir**, (1060)
+8. **Snorri Húnbogason**, (1100)–1170
+9. **Narfi Snorrason**, c. 1135–1202
+10. **Snorri Narfason**, c. 1175–13 September 1260
+11. **Narfi Snorrason**, c. 1210–1284
+12. **Snorri Narfason**, c. 1260–9 March 1332
+13. **Ormur Snorrason**, (1320) to after 1401
+14. **Guðmundur Ormsson**, c. 1360–1388
+15. **Þorbjörg Guðmundsdóttir**, (1385)–3 December 1431
+16. **Snælaug Guðnadóttir**, (1415)
+17. **Kristín Eyjólfsdóttir**, (1450) to after 1526
+18. **Jón „ríki“ Magnússon**, 1480–1564
+19. **Magnús „prúði“ Jónsson**, c. 1525–1591
+20. **Sesselja Magnúsdóttir**, (1570) to after 1622
+21. **Elísabet Ísleifsdóttir**, c. 1615–1680
+22. **Sesselja Halldórsdóttir**, 1645–23 October 1679
+23. **Eiríkur Oddsson**, 1670–10 July 1735
+24. **Guðmundur Eiríksson**, 1715
+25. **Guðrún Guðmundsdóttir**, 1761–27 June 1801
+26. **Hjalti Þorláksson**, 26 April 1798–25 May 1876
+27. **Rakel Hjaltadóttir**, 27 July 1836–13 March 1916
+28. **Kristín Salóme Ingimundardóttir**, 14 December 1878–24 April 1974
+29. **Jóna Halldóra Bjarnadóttir**, 27 December 1921–9 October 2019
+30. **Bergþóra Jónsdóttir**
+31. **Gauti Bergþóruson Eggertsson**
+
+[*Íslendingabók*, Ingólfur’s record (sign-in required)](https://www.islendingabok.is/individual?indId=13699695)
 
 </details>
 
