@@ -27,6 +27,8 @@ What makes Icelanders somewhat peculiar is not the descent. Chang gives that to 
 
 So here is my line. First back to Snorri Sturluson, the author of the *Prose Edda* and *Heimskringla*. Then to Ingólfur Arnarson, by tradition the first man to settle Iceland, in 874. And then past the edge of the records, where *Íslendingabók* hands over to *Njála*, to Ragnar Loðbrók.
 
+Yes, of course I had to get a royal blood in there. Especially since I really liked the History Channel show *Vikings*.
+
 <details class="rune-lineage" id="snorri-lineage">
 <summary>See my line of descent from Snorri Sturluson</summary>
 
