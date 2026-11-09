@@ -25,7 +25,7 @@ Every European alive today descends from Charlemagne. Joseph Chang, a statistici
 
 What makes Icelanders somewhat peculiar is not the descent. Chang gives that to everyone for free. It is that the descent is written down. Icelanders have been obsessed with documentation from the beginning. Ari fróði wrote *Íslendingabók* around 1130. *Landnáma* recorded the settlers, their farms and their children. The sagas open with genealogies before anything happens. The church kept registers from the seventeenth century, and the census of 1703 is the oldest complete census of a whole country anywhere in the world. That habit now lives in a database carrying Ari’s title, where every Icelander can read the chain of names and dates from the settlement to himself.
 
-So here is my line. First back to Snorri Sturluson, the author of the *Prose Edda* and *Heimskringla*. Then to Ingólfur Arnarson, by tradition the first man to settle Iceland, in 874. And then past the edge of the records, where *Íslendingabók* hands over to *Njála*, to Ragnar loðbrók.
+So here is my line. First back to Snorri Sturluson, the author of the *Prose Edda* and *Heimskringla*. Then to Ingólfur Arnarson, by tradition the first man to settle Iceland, in 874. And then past the edge of the records, where *Íslendingabók* hands over to *Njála*, to Ragnar Loðbrók.
 
 <details class="rune-lineage" id="snorri-lineage">
 <summary>See my line of descent from Snorri Sturluson</summary>
