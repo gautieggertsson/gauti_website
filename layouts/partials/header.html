@@ -1,10 +1,10 @@
 <a class="sr-only" href="#main">Skip to content</a>
 <div class="topbar"><div class="topbar-in">
   <a class="wm" href="{{ "runes/" | relURL }}" title="{{ .Site.Title }}, written in runes. Click to learn more."><small>{{ .Site.Params.affiliation }}</small><span>{{ partial "runes.html" . }}</span></a>
-  <nav aria-label="Main">
-    {{- range .Site.Menus.main }}
-    {{- $on := or ($.IsMenuCurrent "main" .) ($.HasMenuCurrent "main" .) }}
-    <a class="navtab{{ if $on }} on{{ end }}" href="{{ .URL }}"{{ if $on }} aria-current="page"{{ end }}{{ if hasPrefix .URL "http" }} rel="noopener"{{ end }}>{{ .Name }}</a>
-    {{- end }}
-  </nav>
+  {{ $menu := partial "main-nav.html" . }}
+  {{ $menu }}
+  <details class="mobile-menu">
+    <summary>Menu</summary>
+    {{ $menu }}
+  </details>
 </div></div>

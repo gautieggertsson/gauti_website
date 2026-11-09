@@ -2,4 +2,19 @@
        so they work both locally and under a subpath. */ -}}
 {{- $u := .Destination -}}
 {{- if and (hasPrefix $u "/") (not (hasPrefix $u "//")) }}{{ $u = relURL (strings.TrimPrefix "/" $u) }}{{ end -}}
-<a href="{{ $u | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if hasPrefix $u "http" }} rel="noopener"{{ end }}>{{ .Text | safeHTML }}</a>
+{{- $label := .Text -}}
+{{- $primaryPDF := false -}}
+{{- if and .Page.IsPage (eq .Page.Section "research") (findRE `^(Paper|Local PDF|PDF)( \(.*\))?$` $label) -}}
+  {{- with partial "paper-pdf.html" .Page -}}
+    {{- $target := $u -}}
+    {{- $url := urls.Parse $u -}}
+    {{- if and (not $url.Host) (not $url.Scheme) (not $url.RawQuery) (not $url.Fragment) (not (hasPrefix $url.Path "/")) -}}
+      {{- with $.Page.Resources.Get $url.Path }}{{ $target = .RelPermalink }}{{ end -}}
+    {{- end -}}
+    {{- if eq (string $target) (string .) -}}
+      {{- $primaryPDF = true -}}
+      {{- $label = replaceRE `^(Paper|Local PDF|PDF)` "Download PDF" $label -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+<a href="{{ $u | safeURL }}"{{ if $primaryPDF }} class="paper-pdf"{{ end }}{{ with .Title }} title="{{ . }}"{{ end }}{{ if hasPrefix $u "http" }} rel="noopener"{{ end }}>{{ $label | safeHTML }}</a>

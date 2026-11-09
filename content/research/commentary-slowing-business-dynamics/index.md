@@ -19,7 +19,6 @@ excludeFromResearch: true
 
 ##### Download
 
-+ [Paper](Commentary-on-Slowing--Eggertsson.pdf)
 + [Local PDF](Commentary-on-Slowing--Eggertsson.pdf)
 
 ---

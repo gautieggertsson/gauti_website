@@ -19,7 +19,6 @@ excludeFromResearch: true
 
 ##### Download
 
-+ [Paper](BOK.pdf)
 + [Local PDF](BOK.pdf)
 
 ---

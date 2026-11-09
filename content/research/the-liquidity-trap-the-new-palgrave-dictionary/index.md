@@ -19,7 +19,6 @@ excludeFromResearch: true
 
 ##### Download
 
-+ [Paper](EggertssonPalgrave.pdf)
 + [Local PDF](EggertssonPalgrave.pdf)
 
 ---

@@ -22,7 +22,6 @@ excludeFromResearch: true
 
 ##### Download
 
-+ [Paper](discuss_flexible_inflation.pdf)
 + [Local PDF](discuss_flexible_inflation.pdf)
 
 ---

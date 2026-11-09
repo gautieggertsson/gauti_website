@@ -1,0 +1,6 @@
+<nav class="main-nav" aria-label="Main">
+  {{- range .Site.Menus.main }}
+  {{- $on := or ($.IsMenuCurrent "main" .) ($.HasMenuCurrent "main" .) }}
+  <a class="navtab{{ if $on }} on{{ end }}" href="{{ .URL }}"{{ if $on }} aria-current="page"{{ end }}{{ if hasPrefix .URL "http" }} rel="noopener"{{ end }}>{{ .Name }}</a>
+  {{- end }}
+</nav>
