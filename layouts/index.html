@@ -1,7 +1,7 @@
 {{ define "main" }}
 <section class="hero">
   <div class="hero-side">
-    <div class="hero-photo"><img src="{{ .Site.Params.photo | relURL }}" alt="Portrait of {{ .Site.Params.author }}" width="500" height="500" fetchpriority="high"></div>
+    {{ partial "home-portrait.html" . }}
     <a class="brown" href="https://economics.brown.edu/" rel="noopener" title="Economics Department, Brown University"><img src="{{ "brown-logo.png" | relURL }}" alt="Brown University" width="331" height="384"></a>
   </div>
   <div>

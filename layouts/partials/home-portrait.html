@@ -1,0 +1,29 @@
+{{/* Mask the broadcast still in place to keep the original portrait pixels. */}}
+<svg class="hero-photo" viewBox="165 43 350 296" width="350" height="296" role="img" aria-label="Portrait of {{ .Site.Params.author }}">
+  <defs>
+    <linearGradient id="portrait-fade" gradientUnits="userSpaceOnUse" x1="0" x2="0" y1="276" y2="334">
+      <stop stop-color="white"/>
+      <stop offset="1" stop-color="white" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="portrait-feather"><feGaussianBlur stdDeviation="0.9"/></filter>
+    <mask id="portrait-mask" maskUnits="userSpaceOnUse" x="165" y="43" width="350" height="296">
+      <path fill="url(#portrait-fade)" filter="url(#portrait-feather)" d="
+        M168 340
+        C168 314 173 289 181 275 C191 260 211 251 230 245
+        C248 239 276 230 300 213
+        C294 208 292 203 288 197 C283 191 283 183 284 176
+        C279 172 284 169 286 165 C281 161 285 155 285 151
+        C284 146 280 142 281 137 C287 135 286 128 290 124
+        C286 120 293 116 294 110 C294 104 302 99 302 92
+        C303 87 306 81 304 76 C301 71 306 63 310 58
+        C316 49 324 50 335 49 C348 48 367 48 380 49
+        C389 49 392 56 399 59 C413 60 424 70 433 80
+        C444 89 449 100 453 113 C457 122 449 128 449 134
+        C444 143 449 149 447 159 C448 166 442 171 444 178
+        C445 184 442 191 441 198 C439 205 435 211 427 216
+        C444 223 472 229 486 234 C502 241 510 258 517 281
+        L521 340 Z"/>
+    </mask>
+  </defs>
+  <image href="{{ "portrait-interview.jpg" | relURL }}" width="515" height="388" mask="url(#portrait-mask)"/>
+</svg>
