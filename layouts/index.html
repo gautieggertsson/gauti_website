@@ -6,7 +6,10 @@
   </div>
   <div>
     <p class="kicker">{{ .Site.Params.position }}</p>
-    <h1>{{ .Title }}</h1>
+    <h1>
+      <span class="hero-name-full">{{ .Params.fullName }}</span>
+      <span class="hero-name-short">{{ .Title }}</span>
+    </h1>
     {{ with .Params.lede }}<p class="lede">{{ . }}</p>{{ end }}
     <div class="chips">
       {{- range .Site.Params.links }}

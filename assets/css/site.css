@@ -72,6 +72,7 @@ hr.rule{border:0;border-top:1px solid var(--line);margin:34px 0}
   mask-composite:intersect;
 }
 .hero h1{font-size:clamp(36px,6vw,58px);line-height:1.02;margin:6px 0 12px;letter-spacing:-.03em}
+.hero-name-short{display:none}
 .hero .lede{font-size:clamp(19px,2.5vw,23px);margin-bottom:16px}
 .hero-side{display:flex;flex-direction:column;align-items:center;gap:10px}
 .brown{display:block;line-height:0}
@@ -228,6 +229,8 @@ hr.rule{border:0;border-top:1px solid var(--line);margin:34px 0}
   .wm{flex:1}
   .topbar nav{width:100%;gap:5px 14px;margin-left:0}
   .hero{grid-template-columns:1fr;gap:17px;padding-top:24px}
+  .hero-name-full{display:none}
+  .hero-name-short{display:inline}
   .hero-side{flex-direction:row;align-items:center;gap:14px}
   .hero-photo{max-width:120px}
   .brown img{height:48px}
