@@ -14,7 +14,7 @@
 @font-face{font-family:'IBM Plex Mono';font-style:normal;font-weight:600;font-display:swap;src:url('../font/ibm-plex-mono-600.woff2') format('woff2')}
 
 *{box-sizing:border-box}
-html{-webkit-text-size-adjust:100%;overflow-x:hidden;scroll-behavior:smooth}
+html{-webkit-text-size-adjust:100%;overflow-x:hidden;scroll-behavior:smooth;background:var(--paper)}
 :root{
   --paper:#f4efe4; --paper2:#eee6d5; --line:#e2dccd; --ink:#211d18; --ink2:#26221c; --muted:#6f6a5f;
   --red:#a3211a; --blue:#003399; --card:rgba(255,255,255,.42);
@@ -121,7 +121,10 @@ hr.rule{border:0;border-top:1px solid var(--line);margin:34px 0}
 .tile .td{font-size:14.5px;line-height:1.5;color:var(--ink2);margin:0}
 
 /* runes page */
-.runes-big{margin:0 0 30px}
+.prose .runes-big{
+  width:fit-content;max-width:100%;margin:0 0 30px;padding:clamp(10px,3vw,20px);
+  background:var(--paper2);border:1px solid var(--line);border-radius:12px;
+}
 .runes-big .runes{height:52px;width:auto;max-width:100%}
 .rune-table-wrap{overflow-x:auto;margin:0 0 1.6em}
 .rune-table{border-collapse:collapse;width:100%;font-size:15.5px}
