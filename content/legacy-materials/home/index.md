@@ -44,6 +44,5 @@ This is an archive of the former Google site. See the [current homepage](/) and 
 
 - [Original research bibliography and links](/legacy-materials/research/)
 - [Lecture notes and problem sets](/courses/)
-- [Earlier CV](/cv/CV-Eggertsson_2022.pdf)
 - [Replication files](/data/)
 - [Guide to Iceland](/iceland/)
