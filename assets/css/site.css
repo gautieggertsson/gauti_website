@@ -98,6 +98,17 @@ hr.rule{border:0;border-top:1px solid var(--line);margin:34px 0}
 .card-actions{margin-top:auto;padding-top:4px}
 .card-actions .pdf-btn{margin-left:0;padding:5px 10px}
 
+/* Icelandic writing */
+.writing-topic+.writing-topic{border-top:1px solid var(--line);margin-top:44px;padding-top:26px}
+.writing-topic h2{scroll-margin-top:125px}
+.writing-card{overflow:hidden;padding:0;gap:0}
+.writing-card-image{background:var(--paper2);border-bottom:1px solid var(--line);padding:20px}
+.writing-card-image img{display:block;width:100%;border:1px solid var(--line);border-radius:9px}
+.writing-card-body{display:flex;flex:1;flex-direction:column;gap:9px;padding:18px 19px 20px}
+.writing-card-body p{margin:0}
+.writing-card-summary{font-size:15px;line-height:1.6}
+.writing-card-links{display:flex;flex-wrap:wrap;gap:8px;margin-top:auto;padding-top:8px}
+
 /* link tiles */
 .tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin:0}
 .tile{border:1px solid var(--line);border-radius:12px;background:var(--card);padding:18px 20px;text-decoration:none;color:var(--ink);transition:box-shadow .15s}
@@ -212,6 +223,7 @@ hr.rule{border:0;border-top:1px solid var(--line);margin:34px 0}
   .brown img{height:48px}
   .research-jump .chip{white-space:normal}
   .cards{grid-template-columns:1fr}
+  .writing-card-summary{font-size:16px}
   .prose p,.prose li{font-size:17.5px;line-height:1.65}
   .page-head{padding-top:32px}
   .paper-head{padding-top:30px}
