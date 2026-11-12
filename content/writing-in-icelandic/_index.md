@@ -12,12 +12,14 @@ topics:
         pdf: fjoldauppsagnir-reykjavikurborgar.pdf
         summary: >-
           Hvernig á að standa að fjöldauppsögnum? Greinin ber framkvæmd uppsagna Reykjavíkurborgar
-          árið 2026 saman við niðurstöður fjögurra áratuga rannsókna og fordæmi hérlendis og erlendis.
-          Niðurstaðan er að borgin hafi vikið frá grundvallarviðmiðum um fyrirvara, samráð og skýringar.
-          Vinnan sem borgin afþakkaði á uppsagnarfresti er metin á 350 til 530 milljónir króna, hafi
-          allir sem fengu uppsögn án samtímis boðs um annað starf verið leystir undan vinnuskyldu.
-          Rannsóknir tengja slíkt verklag við fleiri veikindadaga, fleiri uppsagnir að eigin ósk og
-          minni afköst þeirra sem eftir sitja.
+          árið 2026 saman við niðurstöður fjögurra áratuga rannsókna og reynslu annarra opinberra
+          vinnuveitenda. Niðurstaðan er að borgin hafi brotið í grundvallaratriðum gegn viðmiðum um
+          fyrirvara, skýringar og samráð. Rannsóknir tengja slíkt verklag við fleiri veikindaleyfi,
+          atgervisflótta og minni afköst þeirra sem eftir sitja. Stæðust allar forsendur reikningsdæmis
+          greinarinnar um tapað vinnuframlag, hálfunnin verk, veikindaleyfi og atgervisflótta næmi
+          kostnaður borgarinnar 620 til 830 milljónum króna á fyrsta ári, eða 27 til 36 prósentum af
+          uppgefnum árssparnaði. Borgin hefur því ríkt tilefni til að meta sjálf nettókostnaðinn og
+          áhrifin á þjónustu og starfsfólk.
   - id: skrif-um-evropusambandid
     title: "Skrif um Evrópusambandið"
     intro: >-
