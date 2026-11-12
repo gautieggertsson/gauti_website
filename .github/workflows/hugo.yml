@@ -45,8 +45,6 @@ jobs:
             "${asset_url}?download=1" -o "$RUNNER_TEMP/hugo.deb"
           printf '%s  %s\n' "${digest#sha256:}" "$RUNNER_TEMP/hugo.deb" | sha256sum -c -
           sudo dpkg -i "$RUNNER_TEMP/hugo.deb"
-      - name: Install Dart Sass
-        run: sudo snap install dart-sass
       - name: Checkout
         uses: actions/checkout@v4
         with:
