@@ -6,9 +6,9 @@ topics:
     title: "Málefni Reykjavíkurborgar"
     articles:
       - title: "Hvað segja mannauðsfræði um fjöldauppsagnir Reykjavíkurborgar?"
-        date: "2026-11-09"
-        dateLabel: "9. nóvember 2026"
-        pages: 49
+        date: "2026-11-12"
+        dateLabel: "12. nóvember 2026"
+        pages: 53
         pdf: fjoldauppsagnir-reykjavikurborgar.pdf
         summary: >-
           Hvernig á að standa að fjöldauppsögnum? Greinin ber framkvæmd uppsagna Reykjavíkurborgar
