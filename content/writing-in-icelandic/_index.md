@@ -18,7 +18,10 @@ topics:
           atgervisflótta og minni afköst þeirra sem eftir sitja. Stæðust allar forsendur reikningsdæmis
           greinarinnar um tapað vinnuframlag, hálfunnin verk, veikindaleyfi og atgervisflótta næmi
           kostnaður borgarinnar 620 til 830 milljónum króna á fyrsta ári, eða 27 til 36 prósentum af
-          uppgefnum árssparnaði. Borgin hefur því ríkt tilefni til að meta sjálf nettókostnaðinn og
+          uppgefnum árssparnaði. Veikindi og atgervisflótti geta haldið áfram ár eftir ár.
+          Þekkingartap, skert traust og lakari þjónusta geta jafnframt valdið verulegu tjóni dag
+          eftir dag um langan tíma. Erfitt er að setja krónutölu á þau áhrif og þau eru utan
+          reikningsdæmisins. Borgin hefur því ríkt tilefni til að meta sjálf nettókostnaðinn og
           áhrifin á þjónustu og starfsfólk.
   - id: skrif-um-evropusambandid
     title: "Skrif um Evrópusambandið"
